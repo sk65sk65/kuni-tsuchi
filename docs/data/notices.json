@@ -2188,6 +2188,632 @@
       "memo": "",
       "addedBy": "auto",
       "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260924S0010",
+      "title": "データ提出の実績が認められた保険医療機関における外来データ提出加算等の取扱いについて",
+      "docNumber": "保医発0916第5号",
+      "issuedDate": "2026-09-16",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生（支）局医療課長、都道府県民生主管部（局）国民健康保険主管課（部）長、都道府県後期高齢者医療主管部（局）後期高齢者医療主管課（部）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医療保険",
+        "診療報酬"
+      ],
+      "summary": "データ提出の実績が認められた別添の医療機関は、外来データ提出加算・充実管理加算・在宅データ提出加算・リハビリテーションデータ提出加算を算定できる。対象医療機関は事務連絡を受けた後、様式7の11の届出書を提出する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260924S0010.pdf",
+      "attachments": [
+        {
+          "name": "別添 算定できる保険医療機関の一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260924S0010.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260924S0020",
+      "title": "データ提出の実績が認められた保険医療機関におけるデータ提出加算（Ａ２４５）の取扱いについて",
+      "docNumber": "保医発0916第4号",
+      "issuedDate": "2026-09-16",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生（支）局医療課長、都道府県民生主管部（局）国民健康保険主管課（部）長、都道府県後期高齢者医療主管部（局）後期高齢者医療主管課（部）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医療保険",
+        "診療報酬",
+        "DPC"
+      ],
+      "summary": "データ提出の実績が認められた別添の17医療機関は、データ提出加算（A245）を算定できる。対象医療機関は事務連絡を受けた後、様式40の7の届出書を提出する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260924S0020.pdf",
+      "attachments": [
+        {
+          "name": "別添 算定できる保険医療機関の一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260924S0020.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260917S0010",
+      "title": "本邦において雇用された外国公館職員に対する健康保険法及び厚生年金保険法の適用について（通知）",
+      "docNumber": "保発0730第5号・年発0730第1号",
+      "issuedDate": "2026-07-30",
+      "ministry": "厚生労働省",
+      "bureau": "保険局・年金局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "日本年金機構理事長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2028-04-01",
+      "fields": [
+        "医療保険",
+        "年金"
+      ],
+      "summary": "日本国内で雇用された外国公館の職員を、健康保険と厚生年金保険の適用対象とする。これまでの取扱いを定めた昭和30年の通知は廃止し、すでに適用を受けている人の扱いは変わらない。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260917S0010.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260916I0010",
+      "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第四十三条第一項の規定に基づき検査を要するものとして厚生労働大臣の指定する医薬品等の一部を改正する件について",
+      "docNumber": "医薬監麻発0916第1号",
+      "issuedDate": "2026-09-16",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県衛生主管部（局）長",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-09-16",
+      "fields": [
+        "医薬品"
+      ],
+      "summary": "組換え帯状疱疹ワクチン（チャイニーズハムスター卵巣細胞由来）を国家検定の対象に加え、手数料・試験品数量・検査基準を定める。乾燥組換え帯状疱疹ワクチンの手数料を245,000円から210,200円に、試験品を16本から6本に改めるなど、既存ワクチンの手数料等も見直す。都道府県には管下の関係業者への周知を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260916I0010.pdf",
+      "attachments": [
+        {
+          "name": "告示の新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260916I0010.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙 医薬品の検査に係る標準的事務処理期間",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260916I0010.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260915L0010",
+      "title": "建設業務労働者就業機会確保事業に係る受入事業主が講ずべき措置に関する指針の一部改正等について",
+      "docNumber": "職発0914第3号",
+      "issuedDate": "2026-09-14",
+      "ministry": "厚生労働省",
+      "bureau": "職業安定局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県労働局長",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-10-01",
+      "fields": [
+        "労働"
+      ],
+      "summary": "受入事業主の指針で、送出労働者が使える福利厚生施設の例に駐車場を加え、障害者であることを理由とする差別的取扱いの禁止や、妊娠・出産等に関するハラスメントを苦情処理の対象に加える。送出事業主には、賞与・退職手当・各種手当などの不合理な待遇差の判断基準を追加し、待遇差の説明義務を明確にする。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260915L0010.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260911E0020",
+      "title": "「人を対象とする生命科学・医学系研究に関する倫理指針」の一部改正について（通知）",
+      "docNumber": "8文科振第513号・科発0827第1号・医産発0827第11号・20260827商局第2号",
+      "issuedDate": "2026-08-27",
+      "ministry": "厚生労働省",
+      "bureau": "大臣官房・医政局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各国公私立大学長、各国公私立高等専門学校長、関係各施設等機関等の長、各大学共同利用機関法人機構長、関係各国立研究開発法人の長、関係各独立行政法人の長、各都道府県知事、各特別区の長、各保健所設置市の長、関係各団体の長",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-12-01",
+      "fields": [
+        "医療",
+        "研究倫理"
+      ],
+      "summary": "研究を「侵襲・介入を伴う研究」「試料を用いる研究」「試料を用いない研究」に分け、リスクに応じてインフォームド・コンセントかオプトアウトを選ぶ仕組みに整理し、同意の種類の呼び方を「IC」に統一する。侵襲・介入を伴う多機関共同研究は一つの倫理審査委員会による一括審査を必須とし、既存情報は原則オプトアウトとする。自治体には管下で研究に携わる者への周知を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260911E0020.pdf",
+      "attachments": [],
+      "memo": "文部科学省・経済産業省と連名",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260911U0010",
+      "title": "医療施設動態調査票様式の一部改正及び医療施設動態調査に関する事務の処理基準について（通知）",
+      "docNumber": "政総発0910第1号",
+      "issuedDate": "2026-09-10",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（総合政策、労使関係担当）",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-10-01",
+      "fields": [
+        "医療",
+        "統計調査"
+      ],
+      "summary": "医療施設動態調査票の開設者欄に「一般社団法人・一般財団法人」を加え、以降の区分番号を繰り下げる。あわせて調査事務の処理基準を示し、令和8年10月分の調査から適用する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260911U0010.pdf",
+      "attachments": [
+        {
+          "name": "別紙 医療施設動態調査票様式",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260911U0010.pdf",
+          "inMain": true
+        },
+        {
+          "name": "医療施設動態調査実施要領（令和8年10月改訂）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260911U0010.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり（指定都市・中核市・保健所設置市・特別区）",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260907S0010",
+      "title": "令和8年度後期高齢者医療制度被保険者実態調査の取扱いについて（通知）",
+      "docNumber": "保調発0903第1号",
+      "issuedDate": "2026-09-03",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "都道府県後期高齢者医療主管部（局）長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "後期高齢者医療",
+        "統計調査"
+      ],
+      "summary": "令和8年9月30日現在の後期高齢者医療の全被保険者について、広域連合が調査票データ（CSV）と秘匿番号対応表を作成する。都道府県は広域連合へ調査票と実施要領を配付し、提出された電子媒体の内容を確認して11月9日までに保険局調査課へ提出する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260907S0010.pdf",
+      "attachments": [
+        {
+          "name": "別紙1 後期高齢者医療制度被保険者実態調査票",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260907S0010.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙2 実施要領（調査項目の記入要領を含む）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260907S0010.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260907T0030",
+      "title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の一部の施行に伴う経過措置に関する政令等の公布について",
+      "docNumber": "保発0904第2号・年発0904第1号",
+      "issuedDate": "2026-09-04",
+      "ministry": "厚生労働省",
+      "bureau": "年金局・保険局",
+      "recipients": [
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生（支）局長、市町村長（特別区の区長を含む。）、日本年金機構理事長、企業年金連合会理事長、全国健康保険協会理事長、健康保険組合理事長、健康保険組合連合会会長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-10-01",
+      "fields": [
+        "年金",
+        "医療保険"
+      ],
+      "summary": "短時間労働者への被用者保険の適用拡大に伴う厚生年金・健康保険の「保険料調整制度」について、申出ができる事業所の範囲や基準日を定める。令和8年10月1日より前から短時間労働者に被用者保険を適用していた事業所は対象外とし、申出書の提出先（日本年金機構または健康保険組合）や変更届の提出義務も定める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260907T0030.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260904I0010",
+      "title": "サリドマイド製剤、レナリドミド製剤及びポマリドミド製剤の使用に当たっての安全管理手順の改訂について（周知依頼）",
+      "docNumber": "医薬薬審発0904第1号・医薬安発0904第1号",
+      "issuedDate": "2026-09-04",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・保健所設置市・特別区衛生主管部（局）長",
+      "revisionType": "その他",
+      "effectiveDate": "2026-11-24",
+      "fields": [
+        "医薬品"
+      ],
+      "summary": "ポマリドミド後発品の承認を受けて安全管理手順（TERMS・RevMate）を改訂し、服用中止後4週間の遵守状況を確認する「中止後確認調査票」の新設や、女性患者の妊娠反応検査を原則として処方医療機関で行うことを定める。自治体には管下の医療機関への周知を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260904I0010.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260903I0020",
+      "title": "「遺伝子組換え微生物の使用等による医薬品等の製造における拡散防止措置等について」の一部改正について",
+      "docNumber": "医薬発0901第2号",
+      "issuedDate": "2026-09-01",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県衛生主管部（局）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-09-01",
+      "fields": [
+        "医薬品",
+        "遺伝子組換え"
+      ],
+      "summary": "遺伝子組換え微生物を使う医薬品等の製造業者が出す知見の報告・製造実施状況の報告・変更届の様式を、同日付の課長通知（医薬薬審発0901第1号ほか）の様式に切り替え、局長通知の様式は廃止する。拡散防止措置の内容自体は変わらない。都道府県には管下の関係業者への周知を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260903I0020.pdf",
+      "attachments": [
+        {
+          "name": "新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260903I0020.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙 改正後全文",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260903I0020.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260903I0030",
+      "title": "遺伝子組換え生物等に関する報告について",
+      "docNumber": "医薬薬審発0901第1号・医薬機審発0901第5号",
+      "issuedDate": "2026-09-01",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県衛生主管部（局）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品",
+        "遺伝子組換え"
+      ],
+      "summary": "遺伝子組換え生物等を使う者が出す知見の報告（様式1）、第二種使用等の状況報告（様式2）、住所等の変更届（様式3）の様式と提出先を定め、平成27年の課長通知を廃止する。提出先は、医薬品・医薬部外品・化粧品は医薬品審査管理課長、医療機器・体外診断用医薬品・再生医療等製品は医療機器審査管理課長。都道府県には管下の関係業者への周知を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260903I0030.pdf",
+      "attachments": [
+        {
+          "name": "様式1〜3",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260903I0030.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260903I0040",
+      "title": "遺伝子組換え生物等の使用等の規制による生物の多様性の確保に関する法律に基づく承認の申請等の事務手続等に関する質疑応答集（Ｑ＆Ａ）について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-09-01",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県衛生主管部（局）薬務主管課",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品",
+        "遺伝子組換え"
+      ],
+      "summary": "カルタヘナ法の承認申請等の事務手続のQ&Aを全49問に整理し直し、令和5年6月の事務連絡を廃止する。未開封の遺伝子組換えウイルスを保管・運搬するだけの場合は拡散防止措置の確認が不要であることや、第一種使用規程の変更届は使用開始から2週間を目処に出すことなどを示す。都道府県には管下の関係業者への周知を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260903I0040.pdf",
+      "attachments": [
+        {
+          "name": "別添 質疑応答集（Ｑ＆Ａ）",
+          "type": "Q&A・疑義照会回答",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260903I0040.pdf",
+          "inMain": true
+        },
+        {
+          "name": "旧事務連絡との新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260903I0040.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙1〜8 届出書等の様式",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260903I0040.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260903K0010",
+      "title": "「労働安全衛生規則第五百七十七条の二第二項の規定に基づき厚生労働大臣が定める物及び厚生労働大臣が定める濃度の基準の一部を改正する件」の告示等について",
+      "docNumber": "基発0831第3号",
+      "issuedDate": "2026-08-31",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県労働局長",
+      "revisionType": "告示改正",
+      "effectiveDate": "2027-10-01",
+      "fields": [
+        "労働安全衛生"
+      ],
+      "summary": "労働者のばく露の濃度基準値を定める物質に、アジ化水素・アジ化ナトリウム・アセトフェノンなど48物質を追加し、それぞれ8時間または短時間の濃度基準値を設ける。技術上の指針も改正し、追加物質の試料採取・分析方法を定める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260903K0010.pdf",
+      "attachments": [
+        {
+          "name": "別添1 物の種類及び濃度基準値",
+          "type": "概要資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260903K0010.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添2 技術上の指針の新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260903K0010.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260902I0010",
+      "title": "「インスリン注射器等を交付する薬局に係る取扱いについて」の一部改正について",
+      "docNumber": "医薬機審発0901第1号",
+      "issuedDate": "2026-09-01",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県・各保健所設置市・特別区衛生主管部（局）薬務主管課長（写し：各地方厚生局長、医薬品医療機器総合機構理事長、日本薬剤師会会長ほか関係団体）",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-09-01",
+      "fields": [
+        "医薬品",
+        "医療機器",
+        "薬局"
+      ],
+      "summary": "薬局が処方箋に基づき保険給付として交付する場合に、高度管理医療機器等販売業の許可なしで扱える医療機器の一覧（別紙1）に、デンプン由来吸収性局所止血材を加える。許可が不要となるのは、薬剤師による使用状況の確認と指導、記録、適切な保管・取扱いなどの要件を満たす場合に限られる。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260902I0010.pdf",
+      "attachments": [
+        {
+          "name": "別紙1 特定保険医療材料に該当する高度管理医療機器の一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260902I0010.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙2 薬価基準に収載された高度管理医療機器の一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260902I0010.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "kaigo-1552",
+      "series": "介護保険最新情報 Vol.1552",
+      "title": "ケアプランデータ連携システムの介護保険資格確認等WEBサービスへの移行について（その２）（お知らせ）",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-11-25",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県介護保険担当課（室）、各市町村介護保険担当課（室）、各介護保険関係団体",
+      "revisionType": "その他",
+      "effectiveDate": "2027-01-13",
+      "fields": [
+        "介護",
+        "デジタル化"
+      ],
+      "summary": "ケアプランデータ連携機能は令和9年1月13日から介護WEBサービスに移り、現行システムとは相互に送受信できないため、事業所は介護WEBサービスへの利用登録が必要になる。現行システムは令和9年3月中を目途に終了し、その後は履歴やデータを見られなくなるため事前の保存を求める。都道府県・市町村には管内の介護事業者への周知を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001772420.pdf",
+      "attachments": [
+        {
+          "name": "別添1 チラシ（介護WEBサービスへの“引っ越し”）",
+          "type": "概要資料",
+          "url": "https://www.mhlw.go.jp/content/001772420.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添2 引っ越しスケジュール・対応事項",
+          "type": "スケジュール",
+          "url": "https://www.mhlw.go.jp/content/001772420.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添3 介護事業所等向け説明会リーフレット",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/content/001772420.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "kaigo-1551",
+      "series": "介護保険最新情報 Vol.1551",
+      "title": "建築基準法施行令の一部を改正する政令等の施行に伴う採光規制の対象外の合理化について（周知）",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-11-18",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県介護保険担当課（室）、各市町村介護保険担当課（室）（本文：各都道府県・各市区町村介護保険担当主管部（局））",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-11-01",
+      "fields": [
+        "介護",
+        "建築"
+      ],
+      "summary": "第一号通所事業の用にのみ使う老人デイサービスセンターを、建築基準法の採光規制の対象外とする。建築確認では、福祉部局が出す施設の指定見込みを示す書類が必要となるため、市町村の介護保険担当には事業者から求めがあった場合の対応を依頼している。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001770868.pdf",
+      "attachments": [
+        {
+          "name": "別添 国土交通省の技術的助言（国住指第387号・国住街第105号）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/content/001770868.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "kaigo-1550",
+      "series": "介護保険最新情報 Vol.1550",
+      "title": "介護保険制度における預貯金等の把握等に係る検討の場中間とりまとめについて",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-10-26",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県介護保険担当課（室）、各市町村介護保険担当課（室）（本文：各都道府県・各市区町村介護保険担当主管部（局））",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "介護",
+        "補足給付"
+      ],
+      "summary": "補足給付（負担限度額認定）の預貯金等の確認事務の負担を減らすため、オンライン預貯金照会の活用、金融機関照会の対象の限定、添付書類の簡素化、申請の有効期限を2年とする運用などの方策を整理した。自治体には実情に応じてこれらの方策を取り入れるよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001763099.pdf",
+      "attachments": [
+        {
+          "name": "中間とりまとめ（検討の場 第4回資料）",
+          "type": "概要資料",
+          "url": "https://www.mhlw.go.jp/content/001763099.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙 自治体アンケート調査の結果",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/content/001763099.pdf",
+          "inMain": true
+        },
+        {
+          "name": "参考資料",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/content/001763099.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
     }
   ]
 }
