@@ -1,0 +1,144 @@
+{
+  "updated": "2026-11-25",
+  "sources": [
+    {
+      "ministry": "厚生労働省",
+      "name": "法令等データベースサービス 登載準備中の新着通知",
+      "url": "https://www.mhlw.go.jp/hourei/new/tsuchi/newindex.html"
+    }
+  ],
+  "notices": [
+    {
+      "id": "mhlw-T260908U0010",
+      "title": "医療法等の一部を改正する法律の一部の施行期日を定める政令について（通知）",
+      "docNumber": "政情発0904第2号",
+      "issuedDate": "2026-09-04",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（情報政策担当）",
+      "recipients": ["都道府県", "市区町村", "国の機関・関係団体"],
+      "recipientsText": "都道府県知事、市区町村長、地方厚生（支）局長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2027-04-01",
+      "fields": ["医療", "デジタル化"],
+      "summary": "令和7年の医療法等改正法のうち、公費負担医療制度などでの電子資格確認（オンライン資格確認）の導入等に関する規定の施行日を令和9年4月1日とする政令が公布されたことを知らせる通知。必要な省令改正と通知は今後別途示される予定。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260908U0010.pdf",
+      "attachments": [
+        { "name": "別添1 官報（施行期日を定める政令）", "type": "法令・告示の本文", "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260908U0010.pdf", "inMain": true },
+        { "name": "別添2 （参考）医療法等の一部を改正する法律公布及び一部施行について（通知）", "type": "参考資料", "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260908U0010.pdf", "inMain": true }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260915T0020",
+      "title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備に関する政令等の公布について",
+      "docNumber": "保発0911第6号・年発0911第2号",
+      "issuedDate": "2026-09-11",
+      "ministry": "厚生労働省",
+      "bureau": "年金局・保険局",
+      "recipients": ["市区町村", "国の機関・関係団体"],
+      "recipientsText": "地方厚生（支）局長、市町村長（特別区の区長を含む）、日本年金機構理事長、全国健康保険協会理事長、健康保険組合理事長、健康保険組合連合会会長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-10-01",
+      "fields": ["年金", "医療保険"],
+      "summary": "令和7年の年金制度改正法の施行に向けて、施行期日政令・整備政令・整備省令が公布されたことを知らせる通知。70歳以上で働く人の被保険者資格に関する申出、短時間労働者の要件、事業主の届出などの手続きが整備される。整備政令・省令は令和8年10月1日施行。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260915T0020.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T261002S0020",
+      "title": "健康保険法等の一部を改正する法律の一部の施行期日を定める政令の公布について",
+      "docNumber": "保発0930第5号",
+      "issuedDate": "2026-09-30",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": ["都道府県", "国の機関・関係団体"],
+      "recipientsText": "地方厚生（支）局医療課長、都道府県民生主管部（局）国民健康保険主管課（部）長、都道府県後期高齢者医療主管部（局）後期高齢者医療主管課（部）長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2027-03-01",
+      "fields": ["医療保険", "国民健康保険", "後期高齢者医療"],
+      "summary": "令和8年の健康保険法等改正法のうち、附則第1条第4号に掲げる規定の施行日を令和9年3月1日とする政令が公布されたことを知らせ、関係者への周知を求める通知。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261002S0020.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260902Q0020",
+      "title": "「補装具の種目、購入等に要する費用の額の算定等に関する基準」の一部改正に伴う戦傷病者特別援護法の規定に基づく補装具の種目、支給又は修理に要する費用の額の算定等に関する基準の取扱いについて（通知）",
+      "docNumber": "社援援発0901第3号",
+      "issuedDate": "2026-09-01",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局",
+      "recipients": ["都道府県"],
+      "recipientsText": "各都道府県民生主管部（局）長",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-08-31",
+      "fields": ["障害福祉", "援護"],
+      "summary": "障害者総合支援法の補装具の基準（告示）が改正されたことを受け、その基準に従う戦傷病者特別援護法の補装具についても適切に支給・修理の事務を行うよう求め、関係機関への周知を依頼する通知。改正基準は令和8年8月31日から適用。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260902Q0020.pdf",
+      "attachments": [
+        { "name": "別添 補装具基準の一部改正について（障発0831第1号・こ支障240号）", "type": "参考資料", "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260902Q0021.pdf", "inMain": false }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T261026Q0080",
+      "title": "「中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律による支援給付の実施要領について」の一部改正について（通知）",
+      "docNumber": "社援発0619第13号",
+      "issuedDate": "2026-06-19",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局",
+      "recipients": ["都道府県", "市区町村"],
+      "recipientsText": "都道府県知事、市区町村長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-10-01",
+      "fields": ["援護", "生活保護関連"],
+      "summary": "中国残留邦人等への支援給付の実施要領を改正する通知。給食を受けない入院患者の特例加算を月額1,500円から2,500円に引き上げ、年齢に応じた経過的加算額の表を削除する。令和8年10月1日から適用。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261026Q0080.pdf",
+      "attachments": [
+        { "name": "別紙 新旧対照表", "type": "新旧対照表", "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261026Q0080.pdf", "inMain": true },
+        { "name": "改正後全文（支援給付の実施要領）", "type": "改正後全文", "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261026Q0081.pdf", "inMain": false }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T261002K0120",
+      "title": "「雇用の分野における男女の均等な機会及び待遇の確保等のための労働省関係法律の整備に関する法律の一部施行（第２次施行分）について」の一部改正について",
+      "docNumber": "基発0908第3号・雇均発0908第2号",
+      "issuedDate": "2026-09-08",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局・雇用環境・均等局",
+      "recipients": ["国の機関・関係団体"],
+      "recipientsText": "各都道府県労働局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-10-01",
+      "fields": ["労働", "男女雇用機会均等"],
+      "summary": "令和7年の改正法による男女雇用機会均等法の改正に合わせて、平成9年の解釈通達（基発第695号・女発第36号）の一部を改める通知。法改正と改正後通達の適用はいずれも令和8年10月1日。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261002K0120.pdf",
+      "attachments": [
+        { "name": "別添1 男女雇用機会均等法の改正部分の新旧対照条文", "type": "新旧対照表", "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261002K0121.pdf", "inMain": false },
+        { "name": "別添2 平成9年通達（基発第695号・女発第36号）の新旧対照表", "type": "新旧対照表", "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261002K0122.pdf", "inMain": false },
+        { "name": "参考", "type": "参考資料", "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261002K0123.pdf", "inMain": false }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-25"
+    }
+  ]
+}
