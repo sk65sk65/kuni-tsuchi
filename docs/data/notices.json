@@ -2814,6 +2814,339 @@
       "memo": "",
       "addedBy": "auto",
       "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260901S0020",
+      "title": "「診療報酬の算定方法の一部改正に伴う実施上の留意事項について」等の一部改正について",
+      "docNumber": "保医発0831第1号",
+      "issuedDate": "2026-08-31",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生（支）局医療課長、都道府県民生主管部（局）国民健康保険主管課（部）長、都道府県後期高齢者医療主管部（局）後期高齢者医療主管課（部）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-09-01",
+      "fields": [
+        "医療保険",
+        "診療報酬"
+      ],
+      "summary": "iPS細胞由来心筋細胞シートの移植を算定できるようにし、移植後に免疫抑制剤を使う患者を特定薬剤治療管理料1の対象に加える。デンプン由来吸収性局所止血材、吸収性食道用ステントなどの特定保険医療材料を新設し、メタルコアなど歯科材料料の点数を引き下げる（大臼歯173点→157点など）。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260901S0020.pdf",
+      "attachments": [
+        {
+          "name": "別添1〜5 留意事項・材料の定義等の改正",
+          "type": "通知本文",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260901S0020.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添参考 新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260901S0020.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260831I0010",
+      "title": "医薬品の区分等表示の変更に係る留意事項について",
+      "docNumber": "医薬監麻発0828第3号",
+      "issuedDate": "2026-08-28",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "都道府県・各保健所設置市・特別区衛生主管部（局）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-08-31",
+      "fields": [
+        "医薬品"
+      ],
+      "summary": "セイヨウハッカ油が第1類から第2類医薬品に変わるのに伴い、適用日前に製造販売された旧表示品は1年間、変更後の区分表示がなくてもよく、シールの貼付などでも対応できる。適用日以降は、表示にかかわらず第2類として陳列・販売・情報提供を行う。自治体には管下の関係業者・団体への周知を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260831I0010.pdf",
+      "attachments": [
+        {
+          "name": "別添 区分等表示が変更となった医薬品の一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260831I0010.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260831I0020",
+      "title": "「一般用医薬品の区分リストについて」の一部改正について",
+      "docNumber": "医薬安発0828第2号",
+      "issuedDate": "2026-08-28",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "都道府県・各保健所設置市・特別区衛生主管部（局）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-08-31",
+      "fields": [
+        "医薬品"
+      ],
+      "summary": "過敏性腸症候群の治療薬に限り、セイヨウハッカ油を第二類医薬品として区分リストに加える。自治体には、薬局や店舗販売業者などが販売時に確認用の資材や添付文書を使って適切に情報提供するよう指導することを求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260831I0020.pdf",
+      "attachments": [
+        {
+          "name": "別添1 改正文",
+          "type": "通知本文",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260831I0020.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添2 改正後の区分リスト",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260831I0020.pdf",
+          "inMain": true
+        },
+        {
+          "name": "新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260831I0020.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260831I0030",
+      "title": "ミフェプリストン及びミソプロストール製剤の使用に当たっての講習資料及び流通等管理システムの活用について（依頼）",
+      "docNumber": "医薬薬審発0831第1号・こ成母第817号",
+      "issuedDate": "2026-08-31",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "都道府県・各保健所設置市・特別区衛生主管部（局）長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品"
+      ],
+      "summary": "経口人工妊娠中絶薬について、講習資料を指定医師の研修会で活用すること、流通等管理システムを積極的に使うこと、注文前に指定医師の有効期限を確かめることなどを求める。緊急時に備えた連携医療機関との体制づくりや、緊急搬送時用の診療情報提供書の常備も求めている。自治体には管下の医療機関と関係団体への周知を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260831I0030.pdf",
+      "attachments": [],
+      "memo": "こども家庭庁成育局母子保健課と連名",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260828K0020",
+      "title": "クレーン等安全規則第224条の４第２項第４号等の規定に基づく外国における資格を有する者へのクレーン・デリック運転士免許等の付与について（留意事項）",
+      "docNumber": "基安安発0827第1号",
+      "issuedDate": "2026-08-27",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局",
+      "recipients": [],
+      "recipientsText": "",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "労働安全衛生"
+      ],
+      "summary": "",
+      "summaryBy": "",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260828K0020.pdf",
+      "attachments": [],
+      "memo": "PDFを読み込めなかったため、宛先・要約は未確認（次回以降の定期実行で再取得）",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260827I0030",
+      "title": "患者からの医薬品副作用報告に関する広報の周知について（協力依頼）",
+      "docNumber": "医薬安発0826第4号",
+      "issuedDate": "2026-08-26",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "都道府県・各保健所設置市・特別区衛生主管部（局）長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品"
+      ],
+      "summary": "PMDAが受け付けている患者からの副作用報告制度について、広報資料（リーフレット、ポスター、お薬手帳用シールなど）を管下の関係機関・事業者に周知し、「薬と健康の週間」（10月17〜23日）などの機会に広報誌やホームページに載せるよう依頼している。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260827I0030.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260827S0010",
+      "title": "令和8年熊本地震による被災に伴う健康保険・船員保険事業状況報告、国民健康保険毎月事業状況報告書及び後期高齢者医療広域連合における後期高齢者医療毎月事業状況報告書の記載方法等について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-08-25",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県民生主管部（局）国民健康保険主管課（部）、都道府県後期高齢者医療主管部（局）後期高齢者医療主管課（部）、全国健康保険協会、健康保険組合（別途、地方厚生（支）局保険主管課）",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医療保険",
+        "国民健康保険",
+        "後期高齢者医療",
+        "統計調査"
+      ],
+      "summary": "熊本地震の被災に伴う按分方法による請求分は毎月の事業状況報告に含めず、前期高齢者分などの再掲区分が分からない場合は全体計のみ計上する。国保・後期高齢者医療の一部負担金の免除分は保険者負担分に含める。都道府県には管内の保険者と後期高齢者医療広域連合への周知を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260827S0010.pdf",
+      "attachments": [
+        {
+          "name": "地方厚生（支）局宛ての事務連絡",
+          "type": "通知本文",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260827S0010.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260827T0020",
+      "title": "令和8年熊本地震に係る現況届の事務処理に関する指導等について",
+      "docNumber": "年企発0825第1号",
+      "issuedDate": "2026-08-25",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生（支）局保険年金（企業年金）課長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "年金",
+        "企業年金"
+      ],
+      "summary": "熊本地震で災害救助法が適用された市町村に住む受給者のうち、誕生日が7月1日〜12月31日の人は、現況届・生計維持確認届などの提出期限を令和9年1月27日まで延ばす。厚生年金基金の現況届についても、地方厚生（支）局に指導上の配慮を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260827T0020.pdf",
+      "attachments": [
+        {
+          "name": "別添1 厚生労働省告示第323号",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260827T0020.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添2 日本年金機構理事長宛て通知（年管発0817第1号）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260827T0020.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260826S0040",
+      "title": "データの提出に遅延等が認められた保険医療機関における外来データ提出加算等の取扱いについて",
+      "docNumber": "保医発0824第5号",
+      "issuedDate": "2026-08-24",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生（支）局医療課長、都道府県民生主管部（局）国民健康保険主管課（部）長、都道府県後期高齢者医療主管部（局）後期高齢者医療主管課（部）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-09-01",
+      "fields": [
+        "医療保険",
+        "診療報酬"
+      ],
+      "summary": "7月分のデータ提出が遅れた別添1の医療機関は、9月以降の外来データ提出加算・在宅データ提出加算・リハビリテーションデータ提出加算等を算定できない。提出実績が認められた別添2の医療機関は9月以降に算定できる。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260826S0040.pdf",
+      "attachments": [
+        {
+          "name": "別添1 算定できない保険医療機関の一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260826S0040.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添2 算定できる保険医療機関の一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260826S0040.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T260826S0050",
+      "title": "データの提出に遅延等が認められた保険医療機関におけるデータ提出加算（Ａ２４５）の取扱いについて",
+      "docNumber": "保医発0824第2号",
+      "issuedDate": "2026-08-24",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生（支）局医療課長、都道府県民生主管部（局）国民健康保険主管課（部）長、都道府県後期高齢者医療主管部（局）後期高齢者医療主管課（部）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-09-01",
+      "fields": [
+        "医療保険",
+        "診療報酬",
+        "DPC"
+      ],
+      "summary": "7月分のデータ提出が遅れた別添の医療機関は、9月のデータ提出加算（A245）を算定できない。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260826S0050.pdf",
+      "attachments": [
+        {
+          "name": "別添 算定できない保険医療機関の一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260826S0050.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-25"
     }
   ]
 }
