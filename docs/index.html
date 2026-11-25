@@ -114,6 +114,7 @@
   .b-muni { background: var(--muni-soft); color: var(--muni); }
   .b-other { background: var(--other-soft); color: var(--other); }
   .b-type { background: var(--accent-soft); color: var(--accent); }
+  .b-series { background: #fff; color: var(--ink); border: 1px solid var(--line); }
   .card h3 { margin: 0 0 4px; font-size: 1rem; line-height: 1.5; }
   .card h3 a { color: var(--ink); text-decoration: none; }
   .card h3 a:hover { text-decoration: underline; color: var(--accent); }
@@ -154,8 +155,8 @@
 
 <div class="layout">
   <aside>
-    <h2>キーワード（件名・文書番号・概要）</h2>
-    <input type="search" id="q" placeholder="例：保発0930第5号、補装具">
+    <h2>キーワード（件名・文書番号・号数・概要）</h2>
+    <input type="search" id="q" placeholder="例：保発0930第5号、Vol.1549、補装具">
 
     <h2>宛先</h2>
     <div id="f-recipients"></div>
@@ -190,7 +191,7 @@
 </div>
 
 <footer>
-  <p>出典：各通知のリンク先（<a href="https://www.mhlw.go.jp/hourei/new/tsuchi/newindex.html" target="_blank" rel="noopener">厚生労働省 法令等データベースサービス</a>ほか）。件名・文書番号・発出日などは出典をもとに整理し、概要は出典をもとにAIが作成・加工したものです。</p>
+  <p>出典：各通知のリンク先（<a href="https://www.mhlw.go.jp/hourei/new/tsuchi/newindex.html" target="_blank" rel="noopener">厚生労働省 法令等データベースサービス</a>、<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/index_00010.html" target="_blank" rel="noopener">厚生労働省 介護保険最新情報掲載ページ</a>ほか）。件名・文書番号・発出日などは出典をもとに整理し、概要は出典をもとにAIが作成・加工したものです。</p>
   <p id="updated"></p>
 </footer>
 
@@ -279,7 +280,7 @@ function resetAll() {
 
 function matches(n) {
   if (state.q) {
-    const hay = norm([n.title, n.docNumber, n.summary, n.memo].join(" "));
+    const hay = norm([n.title, n.docNumber, n.series, n.summary, n.memo].join(" "));
     const words = state.q.normalize("NFKC").split(/\s+/).filter(Boolean).map(norm);
     if (!words.every(w => hay.includes(w))) return false;
   }
@@ -312,6 +313,7 @@ function card(n) {
       ${isNew(n) ? '<span class="badge b-new">新着</span>' : ""}
       ${rec}
       ${n.revisionType ? `<span class="badge b-type">${esc(n.revisionType)}</span>` : ""}
+      ${n.series ? `<span class="badge b-series">${esc(n.series)}</span>` : ""}
     </div>
     <h3><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></h3>
     <div class="meta">

@@ -5,6 +5,11 @@
       "ministry": "厚生労働省",
       "name": "法令等データベースサービス 登載準備中の新着通知",
       "url": "https://www.mhlw.go.jp/hourei/new/tsuchi/newindex.html"
+    },
+    {
+      "ministry": "厚生労働省",
+      "name": "介護保険最新情報掲載ページ",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/index_00010.html"
     }
   ],
   "notices": [
@@ -1507,6 +1512,46 @@
       "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261002I0150.pdf",
       "attachments": [],
       "memo": "PDFを読み込めなかったため、宛先・要約は未確認（次回以降の定期実行で再取得）",
+      "addedBy": "manual",
+      "addedDate": "2026-11-25"
+    },
+    {
+      "id": "kaigo-1549",
+      "series": "介護保険最新情報 Vol.1549",
+      "title": "「介護保険の給付対象となる福祉用具及び住宅改修の取扱いについて」の一部改正について",
+      "docNumber": "老高発1026第1号",
+      "issuedDate": "2026-10-26",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県介護保険担当課（室）、各市町村介護保険担当課（室）（本文：各介護保険主管部（局）長）",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2027-02-01",
+      "fields": [
+        "介護",
+        "福祉用具"
+      ],
+      "summary": "通信機能を備えた福祉用具の扱いを新たに定める。車いす・特殊寝台・認知症老人徘徊感知機器などは、維持管理や使用状況を居宅外へ知らせる機能なら給付対象とし、体調不良などを知らせる通信機能を持つ種目は対象外、通信費・受信端末の費用も対象外とする。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001762862.pdf",
+      "attachments": [
+        {
+          "name": "別紙 新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/content/001762862.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添 老企第34号（改正後全文）",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/content/001762862.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
       "addedBy": "manual",
       "addedDate": "2026-11-25"
     }
