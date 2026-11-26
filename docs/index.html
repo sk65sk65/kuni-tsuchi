@@ -168,14 +168,17 @@
     <h2>キーワード（件名・文書番号・号数・概要）</h2>
     <input type="search" id="q" placeholder="例：保発0930第5号、Vol.1549、補装具">
 
+    <h2>発出元省庁</h2>
+    <select id="f-ministry"><option value="">すべて</option></select>
+
+    <h2>発出本部局</h2>
+    <select id="f-bureau"><option value="">すべて</option></select>
+
     <h2>宛先</h2>
     <div id="f-recipients"></div>
 
     <h2>改正の種類</h2>
     <select id="f-type"><option value="">すべて</option></select>
-
-    <h2>発出元</h2>
-    <select id="f-bureau"><option value="">すべて</option></select>
 
     <h2>添付資料の種類</h2>
     <select id="f-attach"><option value="">指定なし</option></select>
@@ -217,7 +220,7 @@ const ATTACH_TYPES = ["通知本文", "新旧対照表", "改正後全文", "概
 const NEW_DAYS = 30;
 
 let notices = [];
-const state = { q: "", recipients: new Set(), type: "", bureau: "", attach: "", fields: new Set(), sort: "issued-desc" };
+const state = { q: "", recipients: new Set(), type: "", ministry: "", bureau: "", attach: "", fields: new Set(), sort: "issued-desc" };
 
 // 全角半角・空白の違いを無視して比べるための正規化
 function norm(s) {
@@ -238,6 +241,55 @@ function esc(s) {
   return String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 }
 
+// 発出元の局名を局ごとに分ける。
+// 例：「年金局・保険局」→[年金局, 保険局]、「社会・援護局」→[社会・援護局]、
+//     「医政局（医薬局と連名）」→[医政局, 医薬局]、「政策統括官（情報政策担当）」→そのまま
+const UNIT_END = /(局|官|房|部|課|庁|室|院|省|）)$/;
+function splitBureaus(s) {
+  const extras = [];
+  s = (s || "").replace(/（([^（）]*?)と連名）/g, (m, inner) => { extras.push(inner); return ""; });
+  const out = [];
+  const parse = str => {
+    // かっこの外にある「・」「、」で区切る
+    const toks = []; let cur = "", depth = 0;
+    for (const ch of str) {
+      if (ch === "（") depth++;
+      if (ch === "）") depth--;
+      if (depth === 0 && (ch === "・" || ch === "、")) { toks.push(cur); cur = ""; } else cur += ch;
+    }
+    toks.push(cur);
+    // 局名として終わっていない片（「社会」「雇用環境」など）は次とつなげる
+    let buf = "";
+    for (const t of toks.map(x => x.trim()).filter(Boolean)) {
+      buf = buf ? buf + "・" + t : t;
+      if (UNIT_END.test(buf)) { out.push(buf); buf = ""; }
+    }
+    if (buf) out.push(buf);
+  };
+  parse(s);
+  extras.forEach(parse);
+  return [...new Set(out)];
+}
+
+function fillBureauOptions() {
+  const bSel = document.getElementById("f-bureau");
+  const byMinistry = new Map();
+  notices.forEach(n => {
+    if (state.ministry && n.ministry !== state.ministry) return;
+    if (!byMinistry.has(n.ministry)) byMinistry.set(n.ministry, new Set());
+    n._bureaus.forEach(b => byMinistry.get(n.ministry).add(b));
+  });
+  const ministries = [...byMinistry.keys()].sort((a, b) => a.localeCompare(b, "ja"));
+  let html = '<option value="">すべて</option>';
+  ministries.forEach(m => {
+    const opts = [...byMinistry.get(m)].sort((a, b) => a.localeCompare(b, "ja"))
+      .map(b => `<option value="${esc(m + "｜" + b)}">${esc(state.ministry ? b : m + " " + b)}</option>`).join("");
+    html += state.ministry ? opts : `<optgroup label="${esc(m)}">${opts}</optgroup>`;
+  });
+  bSel.innerHTML = html;
+  bSel.value = state.bureau;
+}
+
 function isNew(n) {
   if (!n.addedDate) return false;
   const diff = (Date.now() - new Date(n.addedDate + "T00:00:00+09:00").getTime()) / 86400000;
@@ -256,9 +308,12 @@ function buildFilters() {
   const typeSel = document.getElementById("f-type");
   TYPES.forEach(t => typeSel.insertAdjacentHTML("beforeend", `<option>${esc(t)}</option>`));
 
-  const bureaus = [...new Set(notices.map(n => `${n.ministry}｜${n.bureau}`))].sort();
+  notices.forEach(n => { n._bureaus = splitBureaus(n.bureau); });
+  const mSel = document.getElementById("f-ministry");
+  [...new Set(notices.map(n => n.ministry))].sort((a, b) => a.localeCompare(b, "ja"))
+    .forEach(m => mSel.insertAdjacentHTML("beforeend", `<option>${esc(m)}</option>`));
   const bSel = document.getElementById("f-bureau");
-  bureaus.forEach(b => bSel.insertAdjacentHTML("beforeend", `<option value="${esc(b)}">${esc(b.replace("｜", " "))}</option>`));
+  fillBureauOptions();
 
   const aSel = document.getElementById("f-attach");
   ATTACH_TYPES.forEach(t => aSel.insertAdjacentHTML("beforeend", `<option>${esc(t)}あり</option>`));
@@ -276,6 +331,12 @@ function buildFilters() {
 
   document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
   typeSel.addEventListener("change", e => { state.type = e.target.value; render(); });
+  mSel.addEventListener("change", e => {
+    state.ministry = e.target.value;
+    state.bureau = "";   // 省庁を変えたら本部局は「すべて」に戻す
+    fillBureauOptions();
+    render();
+  });
   bSel.addEventListener("change", e => { state.bureau = e.target.value; render(); });
   aSel.addEventListener("change", e => { state.attach = e.target.value.replace(/あり$/, ""); render(); });
   document.getElementById("sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
@@ -283,10 +344,11 @@ function buildFilters() {
 }
 
 function resetAll() {
-  state.q = ""; state.type = ""; state.bureau = ""; state.attach = "";
+  state.q = ""; state.type = ""; state.ministry = ""; state.bureau = ""; state.attach = "";
   state.recipients.clear(); state.fields.clear();
   document.getElementById("q").value = "";
-  ["f-type", "f-bureau", "f-attach"].forEach(id => document.getElementById(id).selectedIndex = 0);
+  ["f-type", "f-ministry", "f-attach"].forEach(id => document.getElementById(id).selectedIndex = 0);
+  fillBureauOptions();
   document.querySelectorAll("#f-recipients input").forEach(el => el.checked = false);
   document.querySelectorAll("#f-fields .chip").forEach(el => el.setAttribute("aria-pressed", "false"));
   render();
@@ -301,7 +363,11 @@ function matches(n) {
   // 宛先：チェックしたどれかを含めば表示
   if (state.recipients.size && !(n.recipients || []).some(r => state.recipients.has(r))) return false;
   if (state.type && n.revisionType !== state.type) return false;
-  if (state.bureau && `${n.ministry}｜${n.bureau}` !== state.bureau) return false;
+  if (state.ministry && n.ministry !== state.ministry) return false;
+  if (state.bureau) {
+    const [m, b] = state.bureau.split("｜");
+    if (n.ministry !== m || !n._bureaus.includes(b)) return false;
+  }
   if (state.attach && !(n.attachments || []).some(a => a.type === state.attach)) return false;
   // 分野：選んだものをすべて含む
   for (const f of state.fields) if (!(n.fields || []).includes(f)) return false;
