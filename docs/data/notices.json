@@ -2962,18 +2962,20 @@
       "issuedDate": "2026-08-27",
       "ministry": "厚生労働省",
       "bureau": "労働基準局",
-      "recipients": [],
-      "recipientsText": "",
-      "revisionType": "その他",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県労働局労働基準部長",
+      "revisionType": "運用・解釈の変更",
       "effectiveDate": "",
       "fields": [
         "労働安全衛生"
       ],
-      "summary": "",
-      "summaryBy": "",
+      "summary": "外国の資格を持つ人がクレーン・デリック運転士免許や、フォークリフト運転・玉掛けの資格認定を申請する際、業務計画書や和訳資料は資格要件の確認に必要な範囲に限ればよいとし（外国法令の全文和訳は不要）、提出書類を簡素にする。フランスでクレーンの研修を修了し、雇用主の運転許可を取得した人は、その資格を確認できる書面で足りる。",
+      "summaryBy": "ai",
       "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T260828K0020.pdf",
       "attachments": [],
-      "memo": "PDFを読み込めなかったため、宛先・要約は未確認（次回以降の定期実行で再取得）",
+      "memo": "",
       "addedBy": "auto",
       "addedDate": "2026-11-25"
     },
