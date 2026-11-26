@@ -6734,6 +6734,1142 @@
       "memo": "",
       "addedBy": "auto",
       "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0367",
+      "title": "令和８年医療施設静態調査の実施について（通知）",
+      "docNumber": "政統発0703第5号",
+      "issuedDate": "2026-07-03",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（統計・情報システム管理、労使関係担当）",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事あて",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医療",
+        "統計調査"
+      ],
+      "summary": "令和8年10月1日現在で病院・一般診療所・歯科診療所を対象に医療施設静態調査を実施し、Excel・HTML形式のオンライン調査票の活用を進める。都道府県は管内医療施設への周知を行い、指定都市・中核市・保健所設置市・特別区への連絡を取り計らったうえ、令和8年11月27日までに調査票を提出する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0367&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙1 病院票（本文では略）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0367&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別紙2 一般診療所票（本文では略）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0367&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別紙3 歯科診療所票（本文では略）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0367&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "調査の系統（図）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027261",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0368",
+      "title": "令和８年医療施設静態調査に関する事務の処理基準について（通知）",
+      "docNumber": "政統発0703第6号",
+      "issuedDate": "2026-07-03",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（統計・情報システム管理、労使関係担当）",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事あて",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医療",
+        "統計調査"
+      ],
+      "summary": "法定受託事務である医療施設静態調査について、地方自治法に基づく処理基準となる部分（実施通知と実施要領の一部）を示し、それ以外は技術的助言とする。都道府県は指定都市・中核市・保健所設置市・特別区への連絡を取り計らう。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0368&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0365",
+      "title": "令和８年患者調査の実施について（通知）",
+      "docNumber": "政統発0703第7号",
+      "issuedDate": "2026-07-03",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（統計・情報システム管理、労使関係担当）",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事あて",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医療",
+        "統計調査"
+      ],
+      "summary": "令和8年10月20日〜22日のうち指定日（退院患者は9月1日〜30日）に、病院・一般診療所・歯科診療所の患者を対象とする患者調査を実施し、オンライン調査票の活用を進める。都道府県は管内の対象施設への周知と市区への連絡を行い、令和9年1月8日までに調査票を提出する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0365&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙1 病院入院(奇数)票（本文では略）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0365&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別紙2 病院外来(奇数)票（本文では略）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0365&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別紙3 病院(偶数)票（本文では略）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0365&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別紙4 一般診療所票（本文では略）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0365&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別紙5 歯科診療所票（本文では略）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0365&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別紙6 病院退院票（本文では略）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0365&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別紙7 一般診療所退院票（本文では略）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0365&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "調査の系統（図）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=7907430",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0366",
+      "title": "令和８年患者調査に関する事務の処理基準について（通知）",
+      "docNumber": "政統発0703第8号",
+      "issuedDate": "2026-07-03",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（統計・情報システム管理、労使関係担当）",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事あて",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医療",
+        "統計調査"
+      ],
+      "summary": "法定受託事務である患者調査について、地方自治法に基づく処理基準となる部分（実施通知と実施要領の一部）を示し、それ以外は技術的助言とする。都道府県は指定都市・中核市・保健所設置市・特別区への連絡を取り計らう。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0366&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0364",
+      "title": "令和８年受療行動調査の実施について（通知）",
+      "docNumber": "政統発0703第9号",
+      "issuedDate": "2026-07-03",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（統計・情報システム管理、労使関係担当）",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事あて",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医療",
+        "統計調査"
+      ],
+      "summary": "令和8年10月20日〜22日のうち病院ごとの指定日に受療行動調査を実施し、調査票は調査員が病院で患者に配り、郵送のほか政府統計共同利用システムでの電子提出もできる。都道府県は対象施設への周知と市区への連絡を行い、施設名簿を令和8年11月30日までに提出する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0364&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙1 外来患者票（本文では略）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0364&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別紙2 入院患者票（本文では略）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0364&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "調査の系統（図）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=7907429",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0436",
+      "title": "社会保険表章用疾病分類の今後の取扱いについて（通知）",
+      "docNumber": "保調発0716第1号",
+      "issuedDate": "2026-07-16",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "(別記)あて（日本医師会長、日本歯科医師会長、日本薬剤師会長、日本病院会長、全国健康保険協会理事長、健康保険組合連合会長、国民健康保険中央会長、社会保険診療報酬支払基金理事長ほか）",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医療保険",
+        "統計調査"
+      ],
+      "summary": "対象規定の内容は本文に記載なし。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0436&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1 保険局長通知（本文では略）",
+          "type": "通知本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0436&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0437",
+      "title": "社会保険表章用疾病分類の今後の取扱いについて",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-07-16",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "関係各位あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2027-01-01",
+      "fields": [
+        "医療保険",
+        "統計調査"
+      ],
+      "summary": "統計基準「疾病、傷害及び死因の統計分類」が令和9年1月1日から施行されるのに伴い、社会保険表章用疾病分類は改正せず令和8年12月31日で廃止する。施行後の統計の表章では新統計分類の疾病分類表を参照し、告示ただし書きの適用期間に限り従前の分類を参照できる。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0437&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0435",
+      "title": "社会保険表章用疾病分類の今後の取扱いについて（通知）",
+      "docNumber": "保発0728第5号",
+      "issuedDate": "2026-07-28",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "都道府県知事あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2027-01-01",
+      "fields": [
+        "医療保険",
+        "統計調査"
+      ],
+      "summary": "新しい統計分類が令和9年1月1日に施行されるのに伴い、社会保険表章用疾病分類は令和8年12月31日で廃止し、施行後は新統計分類の疾病分類表を参照する（告示ただし書きの適用期間は従前の分類も参照可）。都道府県は管下の保険者等関係方面へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0435&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0422",
+      "title": "医療法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令の公布について（地域医療構想関係）",
+      "docNumber": "医政発0731第3号",
+      "issuedDate": "2026-07-31",
+      "ministry": "厚生労働省",
+      "bureau": "医政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-10-01",
+      "fields": [
+        "医療"
+      ],
+      "summary": "医療法施行規則等を改め、医療機関機能を高齢者救急・地域急性期、急性期拠点、在宅医療等連携、専門等、医育及び広域診療の5区分に整理し、病床機能区分の「回復期」を「包括期」に改める。あわせて医療機関機能等報告の変更要件、病床の設置・増床許可申請時の書面、構想区域の基準、将来の病床数の必要量の算定方法、地域医療構想調整会議の参加者（市町村を含む）などを定める（一部は令和9年4月1日施行）。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0422&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "医療法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令（令和8年厚生労働省令第119号）（本文では略）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0422&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0439",
+      "title": "令和８年度食生活改善普及運動の実施について",
+      "docNumber": "健生発0721第1号",
+      "issuedDate": "2026-07-21",
+      "ministry": "厚生労働省",
+      "bureau": "健康・生活衛生局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長あて",
+      "revisionType": "その他",
+      "effectiveDate": "2026-09-01",
+      "fields": [
+        "健康づくり",
+        "食品"
+      ],
+      "summary": "9月1日〜30日に「まずは毎日、あと一皿ずつ野菜と果物をプラス」をテーマとする食生活改善普及運動を展開し、バランスの良い食事、野菜・果物の摂取、減塩に焦点を当てる。自治体は関係部局や小売・飲食店などと連携して地域の特性に応じた取組を行い、取組状況を把握する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0439&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "令和8年度食生活改善普及運動実施要綱",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0439&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0380",
+      "title": "「第５次食育推進基本計画」の決定について",
+      "docNumber": "健生発0714第3号・医政発0714第1号・老発0714第1号",
+      "issuedDate": "2026-07-14",
+      "ministry": "厚生労働省",
+      "bureau": "健康・生活衛生局・医政局・老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各市町村長・各特別区長あて",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "健康づくり",
+        "食品"
+      ],
+      "summary": "令和8年度からおおむね5年間の第5次食育推進基本計画は、学校等での食や農の学び、「大人の食育」、食卓と生産現場の距離を縮める取組を重点とし、市町村の食育推進計画の作成・実施割合100%などを目標に掲げる。都道府県・市町村は計画の施策を推進し、地域の実情を踏まえて食育推進計画を見直し・策定し、都道府県は管内市町村へ情報提供や技術的支援を行う。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0380&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "第5次食育推進基本計画について（食育推進会議会長通知）",
+          "type": "通知本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0380&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別紙 第5次食育推進基本計画",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0380&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0381",
+      "title": "「第５次食育推進基本計画」に基づく健康づくりのための食育の推進について",
+      "docNumber": "健生健発0714第2号",
+      "issuedDate": "2026-07-14",
+      "ministry": "厚生労働省",
+      "bureau": "健康・生活衛生局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各市町村・各特別区衛生主管部(局)長あて",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "健康づくり",
+        "食品"
+      ],
+      "summary": "市町村は食育推進計画の見直し・策定を進め、都道府県は未策定の市町村への働きかけと技術的支援を行う。健康寿命の延伸に向けて朝食欠食の減少や栄養バランスなどの目標達成を図るほか、災害時の食の備えを地域防災計画等に位置づけ、食生活改善推進員などのボランティアの育成・支援や管理栄養士等の配置を進める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0381&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0369",
+      "title": "小児用医薬品開発における外挿に関するガイドラインについて",
+      "docNumber": "医薬薬審発0707第1号",
+      "issuedDate": "2026-07-07",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県衛生主管部(局)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品"
+      ],
+      "summary": "ICH E11Aの合意に基づき、成人などのデータを小児に外挿して小児用医薬品を開発する際の枠組み（疾患・薬理・治療効果の類似性評価、外挿計画、曝露量マッチング、有効性試験のデザイン、外部データの借用など）を定める。都道府県は管下の関係業者へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0369&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 ICH E11A 小児用医薬品開発における外挿ガイドライン",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0369&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0414",
+      "title": "輸出用医薬品、輸出用医療機器等の証明書の発給について",
+      "docNumber": "医薬発0727第1号",
+      "issuedDate": "2026-07-27",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県知事・各地方厚生局長あて（別記の関係団体長へ写し送付）",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品",
+        "医療機器",
+        "デジタル化"
+      ],
+      "summary": "医薬品・医薬部外品・医療機器・体外診断用医薬品・再生医療等製品の輸出用証明書について、書面に加えて電子ファイル（PDF）での発給を導入し、証明内容ごとの確認機関、申請の受付機関、様式と添付書類を整理して旧通知3件を廃止する。都道府県は管内の関係業者へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0414&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "様式1〜19（画像）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0414&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0413",
+      "title": "医薬品等申請に係る手数料及び登録免許税の電子納付について",
+      "docNumber": "医薬薬審発0727第2号・医薬機審発0727第1号",
+      "issuedDate": "2026-07-27",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県衛生主管部(局)長・各地方厚生局長あて（別記の関係団体長へ写し送付）",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-08-03",
+      "fields": [
+        "医薬品",
+        "医療機器",
+        "デジタル化"
+      ],
+      "summary": "医薬品等の申請に係る国の手数料と登録免許税の一部を、e-Gov電子申請の電子納付機能で納付できるようにする。都道府県知事・地方厚生局長宛ての申請とPMDA関係は対象外で、他の納付方法との併用や誤納額の差額納付・還付はできない。都道府県は管下の関係業者へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0413&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 電子納付対象手数料・登録免許税一覧（画像）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027389",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0415",
+      "title": "輸出用化粧品の証明書の発給について",
+      "docNumber": "医薬安発0727第6号・医薬薬審発0727第4号",
+      "issuedDate": "2026-07-27",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県衛生主管部(局)長・各地方厚生局長あて（別記の関係団体長へ写し送付）",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品"
+      ],
+      "summary": "輸出用化粧品の証明書は原則として日本化粧品工業会を窓口に発給し、国が発給するのは輸出先国の法令等で求められる場合に限って書面またはPDFで行うこととし、国の様式を定めて旧通知を廃止する。都道府県は管下の関係者へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0415&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "様式1〜4-2（画像）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0415&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0412",
+      "title": "申請書等のオンライン提出に係る取扱い等について",
+      "docNumber": "医薬薬審発0727第11号・医薬機審発0727第3号・医薬安発0727第8号・医薬監麻発0727第5号",
+      "issuedDate": "2026-07-27",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県衛生主管部(局)長・各地方厚生(支)局長あて（別記の関係団体長へ写し送付）",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-08-01",
+      "fields": [
+        "医薬品",
+        "医療機器",
+        "デジタル化"
+      ],
+      "summary": "申請・審査システム等による申請書等のオンライン提出の対象に輸出証明書の発給申請を加え、電子納付の開始に伴う運用を改めるとともに、使用できる電子証明書の一部の取扱い終了・名称変更を行う。都道府県は、オンライン提出された申請書等の電子ファイルを申請・審査システムから取り出して保管し、管下の関係業者へ周知・指導する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0412&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 オンライン提出に係る電子ファイル作成等要領",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0412&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "様式1（画像）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027388",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0419",
+      "title": "高齢者におけるポリファーマシー対策の普及啓発資材について",
+      "docNumber": "医薬安発0731第1号",
+      "issuedDate": "2026-07-31",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)長あて",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品"
+      ],
+      "summary": "高齢者のポリファーマシー対策の普及啓発資材として、「高齢者の医薬品適正使用の指針」の総論編・各論編（療養環境別）と、病院・地域それぞれでのポリファーマシー対策の始め方と進め方の資料を作成した。都道府県・保健所設置市・特別区は管下の医療機関・薬局・関係団体での活用に向けて周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0419&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1〜4 普及啓発資材（本文では略）",
+          "type": "概要資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0419&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0420",
+      "title": "高齢者におけるポリファーマシー対策の普及啓発資材について",
+      "docNumber": "医薬安発0731第2号",
+      "issuedDate": "2026-07-31",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "（別記1）あて（日本医師会、日本医学会、日本歯科医師会、日本薬剤師会など医療・薬剤関係団体の長）",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品"
+      ],
+      "summary": "対象規定の内容は本文に記載なし。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0420&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 都道府県等宛て通知（本文では略）",
+          "type": "通知本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0420&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0405",
+      "title": "薬剤師の調剤応需義務等について",
+      "docNumber": "医薬発0708第1号",
+      "issuedDate": "2026-07-08",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "薬局",
+        "医薬品"
+      ],
+      "summary": "薬剤師法第21条の調剤応需義務を国に対する公法上の義務と整理し、調剤を拒める正当な理由（薬剤師の不在や災害、疑義照会ができない場合、流通管理対象品の未登録、開局時間外の緊急性のない処方箋、悪意ある未払い、カスタマーハラスメントによる信頼関係の喪失など）を示す。調剤後も情報提供・指導で適正使用を確保できない場合は薬機法第9条の4により販売・授与が禁止される。都道府県等は管下の関係者へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0405&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0375",
+      "title": "メチルフェニデート塩酸塩製剤（コンサータ錠１８ｍｇ、同錠２７ｍｇ及び同錠３６ｍｇ）の薬局間譲渡・譲受に係る取扱いについて",
+      "docNumber": "医薬総発0715第1号・医薬薬審発0715第2号・医薬安発0715第1号・医薬監麻発0715第1号・医政産情企発0715第2号",
+      "issuedDate": "2026-07-15",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局・医政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-07-15",
+      "fields": [
+        "薬局",
+        "医薬品"
+      ],
+      "summary": "コンサータ錠の供給不足が解消されるまでの間、ADHD適正流通管理システムに登録した薬局同士での譲渡・譲受を特例で認める。登録薬局は相手方が登録薬局か事前に確認し、必要な数量に限って行い、当日にシステムで報告して麻薬帳簿に記載する。都道府県等は管下の薬局等へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0375&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0391",
+      "title": "令和８年１０月から適用される社内預金の下限利率について",
+      "docNumber": "基監発0716第1号",
+      "issuedDate": "2026-07-16",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県労働局労働基準部長",
+      "revisionType": "その他",
+      "effectiveDate": "2026-10-01",
+      "fields": [
+        "労働"
+      ],
+      "summary": "令和8年4月の定期預金平均利率（0.5886%）と法定下限の年5厘との差が1分未満のため、令和8年10月以降も社内預金の下限利率は年5厘（0.5%）に据え置く。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0391&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0423",
+      "title": "「定期健康診断等における診断項目の取扱い等について」（平成２９年８月４日付け基発０８０４第４号）の一部訂正について",
+      "docNumber": "基発0731第7号",
+      "issuedDate": "2026-07-31",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県労働局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "労働安全衛生",
+        "健診"
+      ],
+      "summary": "一般健康診断の診断項目の取扱いに関する通達に、令和5年の血中脂質検査の改正が反映されていなかった箇所を正誤表で訂正し、訂正後の全文を示す。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0423&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 正誤表（画像）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027527",
+          "inMain": false
+        },
+        {
+          "name": "別添 訂正後の「定期健康診断等における診断項目の取扱い等について」",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0423&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0392",
+      "title": "労働者災害補償保険法等の一部を改正する法律の公布について",
+      "docNumber": "基発0717第2号",
+      "issuedDate": "2026-07-17",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県労働局長",
+      "revisionType": "法律改正",
+      "effectiveDate": "2027-04-01",
+      "fields": [
+        "労働",
+        "労災保険"
+      ],
+      "summary": "遺族補償年金等の受給要件から夫の年齢・障害要件をなくし、遺族1人の場合の額を一律に給付基礎日額の175日分とする（55歳以上の妻の特例は廃止）。あわせて特別加入団体の承認要件を法定化して改善命令等を可能にし、一部の決定に審査請求を認め、疾病に係る給付の消滅時効を2年から5年に延ばし、適用事業の暫定措置を廃止する（一部は公布日または政令で定める日に施行）。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0392&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0398",
+      "title": "電子処方箋管理サービスにおける調剤結果登録及び重複投薬等チェックについて",
+      "docNumber": "医薬総発0723第1号",
+      "issuedDate": "2026-07-23",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "電子処方箋",
+        "薬局",
+        "デジタル化"
+      ],
+      "summary": "電子処方箋を導入した薬局は、調剤結果を原則すべて速やかに電子処方箋管理サービスへ登録し、薬剤師は原則1回以上の重複投薬等チェックを行う。薬局開設者は重複投薬等チェックや過去の薬剤情報閲覧の同意取得ができる体制を整える。都道府県等は管下の薬局へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0398&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0384",
+      "title": "「厚生労働大臣が指定する病院の病棟における療養に要する費用の額の算定方法の一部改正等に伴う実施上の留意事項について」の一部改正について",
+      "docNumber": "保医発0714第5号",
+      "issuedDate": "2026-07-14",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-07-15",
+      "fields": [
+        "医療保険",
+        "診療報酬",
+        "DPC"
+      ],
+      "summary": "診断群分類定義表で、間質性肺炎（040110）の手術・処置等2に「ネランドミラスト」を、重症薬疹（080105）の手術・処置等2に「ポリエチレングリコール処理人免疫グロブリン」と「pH4処理酸性人免疫グロブリン」を加える。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0384&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 定義表の改正部分（画像1）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027291",
+          "inMain": false
+        },
+        {
+          "name": "別紙 定義表の改正部分（画像2）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027292",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0385",
+      "title": "「厚生労働大臣が指定する病院の病棟における療養に要する費用の額の算定方法第一項第五号の規定に基づき厚生労働大臣が別に定める者について」の一部改正について",
+      "docNumber": "保医発0714第6号",
+      "issuedDate": "2026-07-14",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-07-15",
+      "fields": [
+        "医療保険",
+        "診療報酬"
+      ],
+      "summary": "病院の病棟での療養費算定で別に定める者（別表1）に、ファビピラビル、チルゼパチド、ベンラリズマブ、アレクチニブ塩酸塩、ネランドミラスト、ニバドストロセルなどを追加する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0385&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 別表1（改正後）",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0385&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0397",
+      "title": "データの提出に遅延等が認められた保険医療機関におけるデータ提出加算（Ａ２４５）の取扱いについて",
+      "docNumber": "保医発0721第3号",
+      "issuedDate": "2026-07-21",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "その他",
+      "effectiveDate": "2026-08-01",
+      "fields": [
+        "医療保険",
+        "診療報酬",
+        "DPC"
+      ],
+      "summary": "令和8年6月22日までのデータ提出に遅延等があった別添1の医療機関は令和8年8月のデータ提出加算（A245）を算定できず、同一年度に累積3回の遅延等があった別添2の医療機関は令和8年7月1日以降算定できない。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0397&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1 令和8年8月に算定できない保険医療機関",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0397&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別添2 適用日以降算定できない保険医療機関",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0397&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0396",
+      "title": "データの提出に遅延等が認められた保険医療機関における外来データ提出加算等の取扱いについて",
+      "docNumber": "保医発0721第6号",
+      "issuedDate": "2026-07-21",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "その他",
+      "effectiveDate": "2026-08-01",
+      "fields": [
+        "医療保険",
+        "診療報酬"
+      ],
+      "summary": "外来・在宅・リハビリテーションのデータ提出加算について、データ提出に遅延等があった別添1の医療機関は令和8年8月以降算定できず、提出実績が認められた別添2の医療機関は8月以降算定できる。同一年度に累積3回の遅延等があった別添3の医療機関は令和8年7月1日以降算定できない。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0396&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1 令和8年8月以降算定できない保険医療機関",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0396&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別添2 令和8年8月以降算定できる保険医療機関",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0396&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別添3 適用日以降算定できない保険医療機関",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0396&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0424",
+      "title": "「特定保険医療材料及びその材料価格（材料価格基準）の一部改正に伴う特定保険医療材料料（使用歯科材料料）の算定について」の一部改正について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-07-31",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生（支）局医療課・都道府県民生主管部（局）国民健康保険主管課（部）・都道府県後期高齢者医療主管部（局）後期高齢者医療主管課（部）あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-09-01",
+      "fields": [
+        "医療保険",
+        "診療報酬"
+      ],
+      "summary": "歯科用貴金属の材料価格改定に伴い、支台築造、装着、充填、金属歯冠修復、CAD/CAM冠、有床義歯、鋳造鉤などの使用歯科材料料の点数を改める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0424&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙1 改正後の使用歯科材料料点数表",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0424&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0361",
+      "title": "「障害年金受給権者等に係る障害状態確認届の取扱いについて」の一部改正について〔国民年金法〕",
+      "docNumber": "年管発0702第1号",
+      "issuedDate": "2026-07-02",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体",
+        "市区町村"
+      ],
+      "recipientsText": "日本年金機構理事長あて（同日付の年管発0702第2号は地方厚生（支）局長・市区町村長あて）",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "年金"
+      ],
+      "summary": "障害状態確認届の審査結果を受けて遺族基礎年金・遺族厚生年金等が失権する場合の時期の取扱いを明確化し、提出期限後に届け出た者の現症日の扱いなどを整理する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0361&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 改正内容（画像）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027255",
+          "inMain": false
+        },
+        {
+          "name": "年管発0702第2号の別添（画像）",
+          "type": "通知本文",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027256",
+          "inMain": false
+        }
+      ],
+      "memo": "法令等データベースでは国民年金法・厚生年金保険法の項目に分けて同じ通知が載っている（00td0361、00td0362）。",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0376",
+      "title": "国民年金法施行令等の一部を改正する政令及び国民年金法施行規則等の一部を改正する省令の公布について〔国民年金法〕",
+      "docNumber": "障発0715第2号・年発0715第1号",
+      "issuedDate": "2026-07-15",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局障害保健福祉部・年金局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県知事・市町村長（特別区の区長を含む。）・地方厚生（支）局長・日本年金機構理事長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-10-01",
+      "fields": [
+        "年金",
+        "障害福祉"
+      ],
+      "summary": "20歳前傷病による障害基礎年金の所得制限額を3,761,000円から3,858,000円（全額停止の額は4,794,000円から4,918,000円）に引き上げ、障害児福祉手当等（3,661,000円→3,758,000円、令和8年8月1日施行）、特別障害給付金、年金生活者支援給付金の所得基準額も同様に改める。都道府県・市町村は内容を了知し、遺漏なく実施する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0376&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "法令等データベースでは国民年金法・特別児童扶養手当等の支給に関する法律・特別障害給付金法・年金生活者支援給付金法の項目に分けて同じ通知が載っている（00td0376〜00td0379）。",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0421",
+      "title": "国民年金法施行規則の一部を改正する省令の公布について",
+      "docNumber": "年管発0731第1号",
+      "issuedDate": "2026-07-31",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体",
+        "市区町村"
+      ],
+      "recipientsText": "日本年金機構理事長・地方厚生（支）局長・市町村長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-10-01",
+      "fields": [
+        "年金"
+      ],
+      "summary": "国民年金第1号被保険者の育児期間免除の創設に伴い、免除の届出を市町村長に提出することや、産前産後期間免除の届出済みの場合の省略、子と同居しなくなった場合や養子縁組・里親委託に関する事由などを定める。あわせて国民年金被保険者実態調査の調査項目から医療保険の加入状況、保険料の納付状況、資産を削る。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0421&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0371",
+      "title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令の公布について",
+      "docNumber": "年発0708第1号",
+      "issuedDate": "2026-07-08",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体",
+        "市区町村"
+      ],
+      "recipientsText": "地方厚生（支）局長・市町村長（特別区の区長を含む。）・日本年金機構理事長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-10-01",
+      "fields": [
+        "年金"
+      ],
+      "summary": "年金生活者支援給付金の所得基準額を、昭和31年4月1日以前生まれは806,700円から824,100円、同年4月2日以後生まれは809,000円から826,500円に引き上げ、補足的所得基準額も924,100円・926,500円に改める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0371&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
     }
   ]
 }
