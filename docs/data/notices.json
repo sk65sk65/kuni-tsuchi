@@ -5450,6 +5450,618 @@
       "memo": "",
       "addedBy": "auto",
       "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0449",
+      "title": "令和８年熊本地震による災害に対する「特定非常災害の被害者の権利利益の保全等を図るための特別措置に関する法律」の企業年金制度等への適用について",
+      "docNumber": "年企発0810第1号",
+      "issuedDate": "2026-08-10",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局保険年金(企業年金)課長あて",
+      "revisionType": "その他",
+      "effectiveDate": "2026-08-07",
+      "fields": [
+        "年金",
+        "企業年金",
+        "災害対策"
+      ],
+      "summary": "熊本地震が特定非常災害に指定されたことを受け、厚生年金基金・確定給付企業年金・確定拠出年金・国民年金基金について、令和8年7月28日〜11月27日に期限が来る法令上の義務を11月28日までに履行すれば行政上・刑事上の責任を問わない扱いを示す。民事上の責任は対象外で、履行できなかったかは義務者ごとに判断する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0449&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1 政令",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0449&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別添2 法律",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0449&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0434",
+      "title": "健康保険組合基礎情報データの提供依頼について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-08-03",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "健康保険組合連合会あて",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医療保険",
+        "統計調査"
+      ],
+      "summary": "令和8年度の健康保険・船員保険被保険者実態調査（統計法に基づく一般統計調査）のため、令和8年8月1日時点の各健康保険組合の組合コード・名称・記号番号・電話番号などの基礎データの提供を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0434&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0454",
+      "title": "令和８年熊本地震に係る厚生年金基金及び国民年金基金の事務処理に関する指導等について〔厚生年金保険法〕",
+      "docNumber": "年企発0812第1号",
+      "issuedDate": "2026-08-12",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局保険年金(企業年金)課長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "年金",
+        "企業年金",
+        "災害対策"
+      ],
+      "summary": "熊本地震による厚生年金保険料等の納期限延長に合わせ、厚生年金基金・国民年金基金の掛金の納期限延長、1年以内の納付猶予、代議員会が開けない場合の理事長専決、裁定請求・現況届の弾力的な取扱いなどを基金に指導するよう求める。国民年金基金の掛金上限は令和8年12月1日から引き上げる（通常枠月68,000円→75,000円）。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0454&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1 厚生労働省告示第314号（画像1）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027751",
+          "inMain": false
+        },
+        {
+          "name": "別添（画像2）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027752",
+          "inMain": false
+        },
+        {
+          "name": "別添（画像3）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027753",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0453",
+      "title": "令和８年熊本地震に係る厚生年金基金及び国民年金基金の事務処理に関する指導等について〔国民年金法〕",
+      "docNumber": "年企発0812第1号",
+      "issuedDate": "2026-08-12",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局保険年金(企業年金)課長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "年金",
+        "企業年金",
+        "災害対策"
+      ],
+      "summary": "熊本地震による厚生年金保険料等の納期限延長に合わせ、厚生年金基金・国民年金基金の掛金の納期限延長、1年以内の納付猶予、代議員会が開けない場合の理事長専決、裁定請求・現況届の弾力的な取扱いなどを基金に指導するよう求める。国民年金基金の掛金上限は令和8年12月1日から引き上げる（通常枠月68,000円→75,000円）。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0453&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1 厚生労働省告示第314号（画像1）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027748",
+          "inMain": false
+        },
+        {
+          "name": "別添（画像2）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027749",
+          "inMain": false
+        },
+        {
+          "name": "別添（画像3）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027750",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0455",
+      "title": "熊本県の一部の地域における事業主掛金及び企業型年金加入者掛金の納付の特例について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-08-12",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局保険年金(企業年金)課長あて",
+      "revisionType": "告示改正",
+      "effectiveDate": "",
+      "fields": [
+        "年金",
+        "企業年金",
+        "災害対策"
+      ],
+      "summary": "熊本県の一部地域の事業主掛金・企業型年金加入者掛金について、納付期限の特例を定める告示（厚生労働省告示第313号）が出された。期限の延長には企業型年金規約への規定が必要で、規定がない場合は個別に相談するよう事業主に周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0455&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 厚生労働省告示第313号",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027754",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0462",
+      "title": "令和８年熊本地震に際し災害救助法が適用された市町村の区域における国民年金、厚生年金保険、船員保険等の年金受給権者等が届書等を提出すべき日を延長する件について（通知）〔厚生年金保険法〕",
+      "docNumber": "年管発0817第1号",
+      "issuedDate": "2026-08-17",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "日本年金機構理事長あて",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-08-17",
+      "fields": [
+        "年金",
+        "災害対策"
+      ],
+      "summary": "熊本地震で災害救助法が適用された市町村に令和8年7月28日時点で住所があった年金受給権者等について、誕生日が7月1日〜12月31日の人の生計維持確認届・障害状態確認届・現況届、20歳前障害基礎年金の所得状況届、年金生活者支援給付金の所得状況届等の提出期限を令和9年1月27日まで延ばす。期限内の未提出による支払の一時差止めを避けるためのもので、地方厚生（支）局と市町村には別途周知するとしている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0462&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0461",
+      "title": "令和８年熊本地震に際し災害救助法が適用された市町村の区域における国民年金、厚生年金保険、船員保険等の年金受給権者等が届書等を提出すべき日を延長する件について（通知）〔国民年金法〕",
+      "docNumber": "年管発0817第1号",
+      "issuedDate": "2026-08-17",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "日本年金機構理事長あて",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-08-17",
+      "fields": [
+        "年金",
+        "災害対策"
+      ],
+      "summary": "熊本地震で災害救助法が適用された市町村に令和8年7月28日時点で住所があった年金受給権者等について、誕生日が7月1日〜12月31日の人の生計維持確認届・障害状態確認届・現況届、20歳前障害基礎年金の所得状況届、年金生活者支援給付金の所得状況届等の提出期限を令和9年1月27日まで延ばす。期限内の未提出による支払の一時差止めを避けるためのもので、地方厚生（支）局と市町村には別途周知するとしている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0461&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0463",
+      "title": "令和８年熊本地震に際し災害救助法が適用された市町村の区域における国民年金、厚生年金保険、船員保険等の年金受給権者等が届書等を提出すべき日を延長する件について（通知）〔年金生活者支援給付金の支給に関する法律〕",
+      "docNumber": "年管発0817第1号",
+      "issuedDate": "2026-08-17",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "日本年金機構理事長あて",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-08-17",
+      "fields": [
+        "年金",
+        "災害対策"
+      ],
+      "summary": "熊本地震で災害救助法が適用された市町村に令和8年7月28日時点で住所があった年金受給権者等について、誕生日が7月1日〜12月31日の人の生計維持確認届・障害状態確認届・現況届、20歳前障害基礎年金の所得状況届、年金生活者支援給付金の所得状況届等の提出期限を令和9年1月27日まで延ばす。期限内の未提出による支払の一時差止めを避けるためのもので、地方厚生（支）局と市町村には別途周知するとしている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0463&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0465",
+      "title": "令和８年熊本地震に際し災害救助法が適用された市町村の区域における国民年金、厚生年金保険、船員保険等の年金受給権者等にかかる届書等の取扱いについて（通知）〔厚生年金保険法〕",
+      "docNumber": "年管管発0817第2号",
+      "issuedDate": "2026-08-17",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "日本年金機構年金給付事業部門担当理事あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "年金",
+        "災害対策"
+      ],
+      "summary": "熊本地震の届書等の提出期限延長（令和9年1月27日まで）に伴い、障害年金受給権者等の増額改定は誕生月の翌月分から、減額改定・支給停止は令和9年4月分から行うとする。特別障害給付金の受給資格者も、期限までに現況届等を出せば支払の一時差止めを行わない。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0465&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0464",
+      "title": "令和８年熊本地震に際し災害救助法が適用された市町村の区域における国民年金、厚生年金保険、船員保険等の年金受給権者等にかかる届書等の取扱いについて（通知）〔国民年金法〕",
+      "docNumber": "年管管発0817第2号",
+      "issuedDate": "2026-08-17",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "日本年金機構年金給付事業部門担当理事あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "年金",
+        "災害対策"
+      ],
+      "summary": "熊本地震の届書等の提出期限延長（令和9年1月27日まで）に伴い、障害年金受給権者等の増額改定は誕生月の翌月分から、減額改定・支給停止は令和9年4月分から行うとする。特別障害給付金の受給資格者も、期限までに現況届等を出せば支払の一時差止めを行わない。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0464&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0441",
+      "title": "「食薬区分における成分本質（原材料）の取扱いの例示」の一部改正について",
+      "docNumber": "医薬監麻発0805第1号",
+      "issuedDate": "2026-08-05",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品",
+        "食品"
+      ],
+      "summary": "「専ら医薬品として使用される成分本質リスト」と「医薬品的効能効果を標ぼうしない限り医薬品と判断しない成分本質リスト」を改め、植物由来の表に学名欄を設けるほか、センソ・レイヨウカク・イザヨイバラなどの他名や部位の表記を見直す。管下の関係業者への指導取締りで留意するよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0441&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙1 専ら医薬品として使用される成分本質（原材料）リスト",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0441&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別紙2 医薬品的効能効果を標ぼうしない限り医薬品と判断しない成分本質（原材料）リスト",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0441&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0460",
+      "title": "「経血吸収ショーツ等に係る評価の観点について」及び「経血吸収ショーツ等に係る広告表現の考え方について」の改定について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-08-14",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "都道府県・各保健所設置市・各特別区衛生主管部(局)あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品"
+      ],
+      "summary": "業界団体が改定した経血吸収ショーツ等の評価の観点（医薬部外品として申請する際の成分・規格、表面材への抗菌作用付与は認めないこと、洗濯後の性能評価など）と広告表現の考え方（「ナプキンのいらない」などの表現の適否）を情報提供する。管内の製造販売業者への周知を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0460&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 経血吸収ショーツ等に係る評価の観点",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0460&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "参考資料 経血吸収ショーツ等に係る広告表現の考え方",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0460&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0471",
+      "title": "特定非常災害の被害者の権利利益の保全等を図るための特別措置に関する法律第三条第二項の規定に基づき同条第一項の特定権利利益に係る期間の延長に関し当該延長後の満了日を令和九年一月二十七日とする措置を指定する件等について",
+      "docNumber": "医薬発0817第7号",
+      "issuedDate": "2026-08-17",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長・各地方厚生局長あて",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-08-07",
+      "fields": [
+        "医薬品",
+        "薬局",
+        "災害対策"
+      ],
+      "summary": "熊本地震の特定非常災害指定に伴い、災害救助法適用区域内の薬局・医薬品製造販売業・毒物劇物営業者・麻薬や向精神薬の取扱者など21項目の許可・登録等の有効期間や副作用救済給付の請求期限の満了日を令和9年1月27日まで延ばす。令和8年7月28日〜11月26日が期限の届出等は11月27日までに行えば行政上・刑事上の責任を問わない。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0471&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1―1 政令の概要",
+          "type": "概要資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0471&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別添1―2（画像1）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027792",
+          "inMain": false
+        },
+        {
+          "name": "別添1―3（画像3）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027794",
+          "inMain": false
+        },
+        {
+          "name": "別添2―1（画像13）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027804",
+          "inMain": false
+        },
+        {
+          "name": "別添2―2 告示の概要と対象一覧",
+          "type": "概要資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0471&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0467",
+      "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部改正について",
+      "docNumber": "医薬発0818第1号",
+      "issuedDate": "2026-08-18",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-08-28",
+      "fields": [
+        "医薬品",
+        "薬物乱用防止"
+      ],
+      "summary": "N―イソブチル―5―メトキシトリプタミンなど4物質とその塩類を新たに指定薬物とし、これらを含む物を規制対象にする（厚生労働省令第131号）。関係方面への周知と適切な指導を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0467&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0440",
+      "title": "麻薬、麻薬原料植物、向精神薬、麻薬向精神薬原料等を指定する政令の一部を改正する政令の公布について（通知）",
+      "docNumber": "医薬発0807第1号",
+      "issuedDate": "2026-08-07",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-09-06",
+      "fields": [
+        "医薬品",
+        "薬物乱用防止"
+      ],
+      "summary": "国連の通告を受け、Isotonitazepyne、N-Desethyl etonitazene、MDMB-FUBINACAの3物質を指定薬物から麻薬に移す（令和8年政令第258号）。扱う業者・研究者には施行日までに麻薬研究者などの免許を取らせるか、不要な在庫を廃棄させるよう指導を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0440&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 構造式等（画像1）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027565",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0469",
+      "title": "特定非常災害の被害者の権利利益の保全等を図るための特別措置に関する法律第三条第二項の規定に基づき同条第一項の特定権利利益に係る期間の延長に関し当該延長後の満了日を令和九年一月二十七日とする措置を指定する件について（援護行政関係）",
+      "docNumber": "社援発0817第5号",
+      "issuedDate": "2026-08-17",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各市区町村長あて",
+      "revisionType": "告示改正",
+      "effectiveDate": "",
+      "fields": [
+        "援護",
+        "災害対策"
+      ],
+      "summary": "熊本地震の特定非常災害指定に伴い、特定被災区域に住む中国残留邦人等のうち、令和8年7月28日〜令和9年1月26日に自立支度金の申請期間（本邦上陸後1年以内）が満了する人の申請期間を令和9年1月27日まで延ばす。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0469&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1 令和8年政令第260号",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0469&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別添2 令和8年厚生労働省告示第324号",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0469&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0468",
+      "title": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第十二条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める命令等の制定について（通知）",
+      "docNumber": "障発0807第1号・こ支障第226号",
+      "issuedDate": "2026-08-07",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局障害保健福祉部（こども家庭庁支援局と連名）",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各指定都市市長・各中核市市長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-08-07",
+      "fields": [
+        "障害福祉",
+        "デジタル化"
+      ],
+      "summary": "障害者福祉システムの機能要件・帳票要件・実装区分・適合基準日などを定める標準化基準の命令と告示を制定した。内容は「障害者福祉システム標準仕様書」に準拠しており、自治体はこれに沿ったシステムの標準化を進める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0468&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "障害者福祉システム標準仕様書",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/stf/newpage_20807.html",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0457",
+      "title": "「厚生労働大臣が指定する病院の病棟における療養に要する費用の額の算定方法第一項第五号の規定に基づき厚生労働大臣が別に定める者について」の一部改正について",
+      "docNumber": "保医発0812第3号",
+      "issuedDate": "2026-08-12",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長あて",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-08-13",
+      "fields": [
+        "医療保険",
+        "診療報酬"
+      ],
+      "summary": "病院の病棟での療養費算定で別に定める者（別表1）に、ベバシズマブ・バリシチニブ・イソトレチノインなど15品目を加え、トアルクエタマブ・リツキシマブなど4品目の適応症を追加する（厚生労働省告示第312号）。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0457&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 別表1（改正後）",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0457&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
     }
   ]
 }
