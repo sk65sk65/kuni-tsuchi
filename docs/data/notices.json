@@ -1498,9 +1498,13 @@
       "docNumber": "医薬発0930第5号・医産発0930第2号・保発0930第7号",
       "issuedDate": "2026-09-30",
       "ministry": "厚生労働省",
-      "bureau": "医薬局",
-      "recipients": [],
-      "recipientsText": "PDFから読み取れず（要確認）",
+      "bureau": "医薬局（大臣官房医薬産業振興審議官・保険局と連名）",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県知事、各保健所設置市長、特別区長、地方厚生（支）局長",
       "revisionType": "政令・省令改正",
       "effectiveDate": "2027-05-20",
       "fields": [
@@ -1510,7 +1514,14 @@
       "summary": "医薬品品質保証責任者・医薬品安全管理責任者・特定医薬品の供給体制管理責任者の設置と要件、製造所の管理状況の定期確認、医薬品リスク管理計画の作成などを省令に定める。薬局の服薬指導記録と、保険薬局の処方箋・調剤録の保存期間を5年にし、登録認証機関の休廃止の届出期限を6か月前までに延ばす。",
       "summaryBy": "ai",
       "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261002I0150.pdf",
-      "attachments": [],
+      "attachments": [
+        {
+          "name": "別添 整備省令（令和8年厚生労働省令第142号）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261002I0150.pdf",
+          "inMain": true
+        }
+      ],
       "memo": "",
       "addedBy": "manual",
       "addedDate": "2026-11-25"
