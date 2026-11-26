@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "sources": [
     {
       "ministry": "厚生労働省",
@@ -3784,6 +3784,485 @@
       "memo": "",
       "addedBy": "auto",
       "addedDate": "2026-11-25"
+    },
+    {
+      "id": "mhlw-T261118I0010",
+      "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第四十三条第一項の規定に基づき検査を要するものとして厚生労働大臣の指定する医薬品等の一部を改正する件について",
+      "docNumber": "医薬監麻発1118第1号",
+      "issuedDate": "2026-11-18",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県衛生主管部（局）長",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-11-18",
+      "fields": [
+        "医薬品"
+      ],
+      "summary": "国家検定を要する医薬品等の告示を改め、組換え沈降B型肝炎ワクチン（酵母由来）の検査基準で引用する生物学的製剤基準の試験法の条番号を3.3.6から3.3.5に改める。都道府県には管下の関係業者等への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261118I0010.pdf",
+      "attachments": [
+        {
+          "name": "告示の改正新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261118I0010.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-T261118S0020",
+      "title": "「厚生労働大臣が指定する病院の病棟における療養に要する費用の額の算定方法の一部改正等に伴う実施上の留意事項について」の一部改正について",
+      "docNumber": "保医発1112第2号",
+      "issuedDate": "2026-11-12",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生（支）局医療課長、都道府県民生主管部（局）国民健康保険主管課（部）長、都道府県後期高齢者医療主管部（局）後期高齢者医療主管課（部）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-11-13",
+      "fields": [
+        "医療保険",
+        "診療報酬",
+        "DPC"
+      ],
+      "summary": "DPCの診断群分類定義表のうち、がん関連の約40区分で手術・処置等2の項目を改め、ペムブロリズマブ/ベラヒアルロニダーゼ アルファ（その他の悪性腫瘍）、ゲフルリマブ（重症筋無力症）、イコトロキンラ塩酸塩（炎症性角化症）を追加する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261118S0020.pdf",
+      "attachments": [
+        {
+          "name": "別紙 改正後の診断群分類定義表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261118S0020.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-T261118S0030",
+      "title": "「厚生労働大臣が指定する病院の病棟における療養に要する費用の額の算定方法第一項第五号の規定に基づき厚生労働大臣が別に定める者について」の一部改正について",
+      "docNumber": "保医発1112第3号",
+      "issuedDate": "2026-11-12",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生（支）局医療課長、都道府県民生主管部（局）国民健康保険主管課（部）長、都道府県後期高齢者医療主管部（局）後期高齢者医療主管課（部）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-11-13",
+      "fields": [
+        "医療保険",
+        "診療報酬",
+        "DPC"
+      ],
+      "summary": "DPCの包括評価の対象外とする患者を定めた別表1に、エプコリタマブ、パルボシクリブ、トボラフェニブなど10薬剤を追加し、イプタコパン（IgA腎症）、チスレリズマブ（上咽頭癌）などの適応症を追加する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261118S0030.pdf",
+      "attachments": [
+        {
+          "name": "別表1（改正後）",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261118S0030.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-T261113Q0040",
+      "title": "特別障害者手当制度の創設等について",
+      "docNumber": "社更第160号（最終改正 雇児発第502号・障発第325号）",
+      "issuedDate": "2001-07-31",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "障害福祉"
+      ],
+      "summary": "特別障害者手当と障害児福祉手当の実施上の留意事項として、福祉事務所への事務の委任、認定請求時に省略できる添付書類、被爆者の介護手当との調整、所得制限、支払方法、時効（支払期月から2年）、3か月を超える入院や20歳到達による受給資格喪失、経過的福祉手当などを定める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261113Q0040.pdf",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり。昭和60年12月28日付けの通知（施行は昭和61年4月1日）を、平成13年7月31日の第2次改正までを反映した形で掲載したもの",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-T261105I0030",
+      "title": "「医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第五項から第七項までの規定により…」等の改正について",
+      "docNumber": "医薬発1105第4号",
+      "issuedDate": "2026-11-05",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医療機器"
+      ],
+      "summary": "医療機器のクラス分類の一覧に「眼内植込み型医薬品投与システム」（クラスIV）と「家庭用一酸化窒素（NO）産生血行促進用具」（クラスI）を追加し、修理区分の別表にも2品目を加える。「中心循環系マイクロカテーテル」と「体温調節装置システム」の定義も改める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261105I0030.pdf",
+      "attachments": [
+        {
+          "name": "別添1 クラス分類の記録内容の改正箇所",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261105I0030.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添2 修理区分の別表への追加",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261105I0030.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "件名は長いため一部省略（全文はPDF参照）",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-T261105K0020",
+      "title": "事業場における労働者の健康保持増進のための指針の改正について",
+      "docNumber": "基発1019第51号",
+      "issuedDate": "2026-10-19",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県労働局長",
+      "revisionType": "告示改正",
+      "effectiveDate": "",
+      "fields": [
+        "労働安全衛生",
+        "健診"
+      ],
+      "summary": "健康保持増進措置に二次予防を加え、がん（国が推奨する5がん）、女性特有の健康課題、歯科疾患、骨粗しょう症、眼科疾患の検診・検査と受診勧奨を明記する。医療保険者との連携、治療と就業の両立支援、PHRの活用に関する情報提供も盛り込む。労働局には地域・職域連携推進協議会を通じた自治体や協会けんぽとの連携を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261105K0020.pdf",
+      "attachments": [
+        {
+          "name": "別添1 指針の新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261105K0021.pdf",
+          "inMain": false
+        },
+        {
+          "name": "別添2 改正後の指針",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261105K0022.pdf",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-T261104I0010",
+      "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律等の施行等について（公布の日から起算して２年を超えない範囲内において政令で定める日（令和９年５月20日）施行事項関係）",
+      "docNumber": "医薬発1030第2号・医産発1030第1号・保発1030第13号",
+      "issuedDate": "2026-10-30",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局（大臣官房医薬産業振興審議官・保険局と連名）",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県知事、各保健所設置市長、特別区長、地方厚生（支）局長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2027-05-20",
+      "fields": [
+        "医薬品",
+        "薬機法改正",
+        "薬局"
+      ],
+      "summary": "健康増進支援薬局の創設、調剤業務の一部外部委託（許可制）、登録受渡店舗による一般用医薬品の遠隔受渡し、定期適合性調査の間隔の5年から3年への短縮、処方箋・調剤録の保存期間の5年への延長などの施行内容を示す。都道府県知事（保健所設置市長・特別区長）は、薬局の認定、外部委託の許可、登録受渡店舗の登録、麻薬の譲渡届の受理などを担う。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261104I0010.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-T261102S0040",
+      "title": "「特定保険医療材料及びその材料価格（材料価格基準）の一部改正に伴う特定保険医療材料料（使用歯科材料料）の算定について」の一部改正について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-10-30",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生（支）局医療課、都道府県民生主管部（局）国民健康保険主管課（部）、都道府県後期高齢者医療主管部（局）後期高齢者医療主管課（部）",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-12-01",
+      "fields": [
+        "医療保険",
+        "診療報酬"
+      ],
+      "summary": "歯科用貴金属の材料価格改定に伴い、金銀パラジウム合金や14カラット金合金を使う歯科材料料の点数を引き下げる（例：レジン前装金属冠1,642点→1,538点）。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261102S0040.pdf",
+      "attachments": [
+        {
+          "name": "別紙1 改正後の使用歯科材料料",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261102S0040.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添3参考 新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261102S0040.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "通知上は「適用する予定」とされている",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-T261102S0060",
+      "title": "「診療報酬の算定方法の一部改正に伴う実施上の留意事項について」等の一部改正について",
+      "docNumber": "保医発1030第1号",
+      "issuedDate": "2026-10-30",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生（支）局医療課長、都道府県民生主管部（局）国民健康保険主管課（部）長、都道府県後期高齢者医療主管部（局）後期高齢者医療主管課（部）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-11-01",
+      "fields": [
+        "医療保険",
+        "診療報酬"
+      ],
+      "summary": "神経膠腫のBRAF遺伝子検査・BRAF融合遺伝子検査（次世代シーケンシング）を算定対象に加え、再発卵巣癌で抗葉酸受容体α抗体の投与判断に用いるFOLR1タンパクの免疫染色を算定可能にする。固定用内副子（スクリュー）の定義に上腕骨ステムの固定用を加える。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261102S0060.pdf",
+      "attachments": [
+        {
+          "name": "別添1・別添2 各留意事項通知の改正部分",
+          "type": "通知本文",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261102S0060.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添1参考・別添2参考 新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261102S0060.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-T261030G0020",
+      "title": "令和８年医師、歯科医師及び薬剤師の届出について（通知）",
+      "docNumber": "医政発1029第1号・医薬発1029第1号",
+      "issuedDate": "2026-10-29",
+      "ministry": "厚生労働省",
+      "bureau": "医政局（医薬局と連名）",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "統計調査",
+        "医療"
+      ],
+      "summary": "令和8年12月31日現在の医師・歯科医師・薬剤師の届出を行う。オンラインは令和9年1月15日まで、紙は保健所から都道府県へ1月31日まで、都道府県から国へ2月28日までに提出する。医師・歯科医師が届け出ないと、原則として資格確認検索システムに掲載されなくなる。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261030G0020.pdf",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-T261030S0010",
+      "title": "データ提出の実績が認められた保険医療機関における外来データ提出加算等の取扱いについて（令和８年熊本地震関係）",
+      "docNumber": "保医発1029第2号",
+      "issuedDate": "2026-10-29",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生（支）局医療課長、都道府県民生主管部（局）国民健康保険主管課（部）長、都道府県後期高齢者医療主管部（局）後期高齢者医療主管課（部）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医療保険",
+        "診療報酬"
+      ],
+      "summary": "令和8年7月の熊本の地震で試行データを期限内に提出できなかった医療機関のうち別添の2機関は、外来データ提出加算・充実管理加算・在宅データ提出加算・リハビリテーションデータ提出加算を、様式7の11の届出により算定できる。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261030S0010.pdf",
+      "attachments": [
+        {
+          "name": "別添 算定できる保険医療機関の一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261030S0010.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-T261028I0010",
+      "title": "「医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令第３条の規定に基づき厚生労働大臣の指定する医薬品の有効成分の一部を改正する件について」の一部改正について",
+      "docNumber": "医薬発1027第7号",
+      "issuedDate": "2026-10-27",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "都道府県知事、各保健所設置市長、特別区長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "薬局",
+        "医薬品"
+      ],
+      "summary": "薬局製造販売医薬品のうち都道府県知事の製造販売承認を要する品目の一覧（別紙1）を改め、一連番号424〜483を追加する。承認を要しない品目（別紙2）は事前の製造販売届出が必要であることも示す。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261028I0010.pdf",
+      "attachments": [
+        {
+          "name": "別添 一連番号・処方番号の新旧対照",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261028I0010.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙1 製造販売承認を要する薬局製造販売医薬品",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261028I0010.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙2 製造販売承認を要しない薬局製造販売医薬品",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261028I0010.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-T261028I0020",
+      "title": "「薬局製造販売医薬品の取扱いについて」の一部改正について",
+      "docNumber": "医薬薬審発1027第1号",
+      "issuedDate": "2026-10-27",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "都道府県・保健所設置市・特別区衛生主管部（局）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-10-27",
+      "fields": [
+        "薬局",
+        "医薬品"
+      ],
+      "summary": "薬局製剤指針に60処方（K217〜K263）を追加し、ダイオウ、カンゾウ、マオウ、ブシ、サンシシを含む処方は最大分量から最小分量までの範囲で選べるようにする。漢方・生薬製剤の確認試験は必要に応じて実施すればよいとする。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261028I0020.pdf",
+      "attachments": [
+        {
+          "name": "別紙 追加する処方の一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261028I0020.pdf",
+          "inMain": true
+        },
+        {
+          "name": "新旧対照表（分量の幅・確認試験）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261028I0020.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "通知の発出日以降に申請・製造販売されるものに適用",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-T261028I0030",
+      "title": "薬局製剤指針に関する質疑応答集（Ｑ＆Ａ）について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-10-27",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "都道府県・保健所設置市・特別区衛生主管部（局）薬務主管課",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "薬局",
+        "医薬品"
+      ],
+      "summary": "5種の生薬の分量を減らす際の考え方（例：カンゾウは低カリウム血症に注意、サンシシは長期服用時に定期的な大腸内視鏡検査を推奨）を示す。最大分量以外で販売しても承認の取り直しは不要だが、事前に手順書で考え方を定め、製造・販売記録に選んだ分量と理由を残す。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261028I0030.pdf",
+      "attachments": [
+        {
+          "name": "別添 質疑応答集",
+          "type": "Q&A・疑義照会回答",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261028I0030.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
     }
   ]
 }
