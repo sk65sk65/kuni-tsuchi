@@ -133,6 +133,15 @@
   .tag::before { content: "#"; }
   .memo { margin-top: 8px; font-size: .82rem; background: #fbfaf6; border-left: 3px solid var(--line); padding: 4px 8px; }
   .empty { text-align: center; color: var(--muted); padding: 40px; }
+  .pager { display: flex; flex-wrap: wrap; justify-content: center; gap: 4px; margin: 8px 0 14px; }
+  .pager:empty { display: none; }
+  .pager button {
+    min-width: 34px; padding: 4px 9px; border: 1px solid var(--line); background: #fff;
+    border-radius: 5px; font: inherit; font-size: .85rem; cursor: pointer; color: var(--ink);
+  }
+  .pager button[aria-current=page] { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: bold; }
+  .pager button:disabled { opacity: .4; cursor: default; }
+  .pager .gap { padding: 4px 4px; color: var(--muted); font-size: .85rem; }
   footer {
     max-width: 1200px;
     margin: 30px auto;
@@ -186,7 +195,9 @@
         <option value="added-desc">登録が新しい順</option>
       </select>
     </div>
+    <nav class="pager" id="pager-top" aria-label="ページ送り"></nav>
     <div id="list"></div>
+    <nav class="pager" id="pager-bottom" aria-label="ページ送り"></nav>
   </main>
 </div>
 
@@ -332,13 +343,69 @@ function card(n) {
   </article>`;
 }
 
+const PAGE_SIZE = 100;
+let currentList = [];
+let currentPage = 1;
+
+// 条件が変わったとき：絞り込み直して1ページ目へ
 function render() {
-  const list = notices.filter(matches).sort(sorter);
-  document.getElementById("count").textContent = `${list.length}件 / 全${notices.length}件`;
-  document.getElementById("list").innerHTML = list.length
-    ? list.map(card).join("")
-    : '<div class="empty">条件に合う通知はありません。</div>';
+  currentList = notices.filter(matches).sort(sorter);
+  currentPage = 1;
+  draw();
 }
+
+// 表示するページ番号の並び（先頭・末尾・今のページの前後2つ。間は null＝省略）
+function pageNumbers(total, cur) {
+  const keep = new Set([1, total]);
+  for (let i = cur - 2; i <= cur + 2; i++) if (i >= 1 && i <= total) keep.add(i);
+  const nums = [...keep].sort((a, b) => a - b);
+  const out = [];
+  nums.forEach((n, i) => { if (i && n - nums[i - 1] > 1) out.push(null); out.push(n); });
+  return out;
+}
+
+function pagerHtml(total, cur) {
+  if (total <= 1) return "";
+  const btn = (label, page, opts = "") => `<button type="button" data-page="${page}" ${opts}>${label}</button>`;
+  return [
+    btn("« 前へ", cur - 1, cur === 1 ? "disabled" : ""),
+    ...pageNumbers(total, cur).map(n => n === null
+      ? '<span class="gap">…</span>'
+      : btn(n, n, n === cur ? 'aria-current="page"' : "")),
+    btn("次へ »", cur + 1, cur === total ? "disabled" : ""),
+  ].join("");
+}
+
+function draw() {
+  const n = currentList.length;
+  const totalPages = Math.max(1, Math.ceil(n / PAGE_SIZE));
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const pageItems = currentList.slice(start, start + PAGE_SIZE);
+  const fmt = x => x.toLocaleString("ja-JP");
+  document.getElementById("count").textContent = n
+    ? `全${fmt(n)}件中 ${fmt(start + 1)}〜${fmt(start + pageItems.length)}件を表示` + (n < notices.length ? `（登録全${fmt(notices.length)}件）` : "")
+    : `0件（登録全${fmt(notices.length)}件）`;
+  document.getElementById("list").innerHTML = n
+    ? pageItems.map(card).join("")
+    : '<div class="empty">条件に合う通知はありません。</div>';
+  const pager = pagerHtml(totalPages, currentPage);
+  document.getElementById("pager-top").innerHTML = pager;
+  document.getElementById("pager-bottom").innerHTML = pager;
+}
+
+function goToPage(p) {
+  const totalPages = Math.max(1, Math.ceil(currentList.length / PAGE_SIZE));
+  if (p < 1 || p > totalPages || p === currentPage) return;
+  currentPage = p;
+  draw();
+  document.querySelector("main").scrollIntoView({ block: "start" });
+}
+
+["pager-top", "pager-bottom"].forEach(id =>
+  document.getElementById(id).addEventListener("click", e => {
+    const b = e.target.closest("button[data-page]");
+    if (b && !b.disabled) goToPage(Number(b.dataset.page));
+  }));
 
 fetch("data/notices.json", { cache: "no-cache" })
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
