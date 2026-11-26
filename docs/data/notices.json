@@ -4989,6 +4989,467 @@
       "memo": "",
       "addedBy": "auto",
       "addedDate": "2026-11-26"
+    },
+    {
+      "id": "kaigo-1505",
+      "series": "介護保険最新情報 Vol.1505",
+      "title": "「介護保険資格確認等WEBサービスとの連携におけるAPI仕様書（暫定版）」の公開及び「ケアプランデータ連携標準仕様」の今後の取扱いについて",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-05-27",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県介護保険担当課（室）、各市町村介護保険担当課（室）、各介護保険関係団体",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "介護",
+        "介護情報基盤",
+        "ケアマネジメント",
+        "デジタル化"
+      ],
+      "summary": "国民健康保険中央会が、介護保険資格確認等WEBサービスと介護ソフトを連携させるAPI仕様書の暫定版を公開した（確定版は夏頃に公表予定、介護ソフトベンダー向けの試験も予定）。ケアプランデータ連携システムは介護情報基盤との統合後にWEBサービスの一機能となり、標準仕様はAPI仕様書の別紙に位置付けられ、統合後は標準仕様第4.1版または第5.0版に対応した介護ソフトだけが連携機能を使える。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001705072.pdf",
+      "attachments": [
+        {
+          "name": "別添 介護保険資格確認等WEBサービスとの連携におけるAPI仕様書（暫定版）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/content/001705072.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "kaigo-1506",
+      "series": "介護保険最新情報 Vol.1506",
+      "title": "令和８年８月からの特定入所者介護（予防）サービス費の見直し等に係る周知への協力依頼について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-05-29",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各介護保険担当主管部（局）、各介護保険関係団体",
+      "revisionType": "その他",
+      "effectiveDate": "2026-08-01",
+      "fields": [
+        "介護",
+        "補足給付"
+      ],
+      "summary": "8月1日から施設入所者等の食費・居住費の負担限度額と基準費用額が引き上げられる（第3段階①・②の食費は日額30〜60円、居住費は一部を除き日額100円、基準費用額の食費は日額100円）。利用者負担段階の所得基準も80.9万円から82.65万円に見直す予定で、自治体には添付の参考資料を使って管内の介護サービス事業者へ周知するよう依頼している。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001706483.pdf",
+      "attachments": [
+        {
+          "name": "参考資料（負担限度額・基準費用額・利用者負担段階の表）",
+          "type": "概要資料",
+          "url": "https://www.mhlw.go.jp/content/001706483.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "kaigo-1507",
+      "series": "介護保険最新情報 Vol.1507",
+      "title": "令和８年度介護事業実態調査（介護従事者処遇状況等調査）へのご協力依頼について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-06-01",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県介護保険担当主管部（局）、各市区町村介護保険担当主管部（局）",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "介護",
+        "統計調査",
+        "処遇改善"
+      ],
+      "summary": "令和8年7月に無作為抽出の介護サービス施設・事業所を対象に介護従事者処遇状況等調査を行い（回答期限は8月28日）、処遇改善加算の影響の評価や令和9年度介護報酬改定の基礎資料とする。法人本部が6月19日までに届け出れば、傘下事業所分の調査票を本部にまとめて送る「一括送付」を利用できる。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001706555.pdf",
+      "attachments": [
+        {
+          "name": "別紙1 介護サービス施設・事業所向けのお知らせ",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/content/001706555.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙2 法人本部向け「一括送付」の手続き案内・届出書",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/content/001706555.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "kaigo-1508",
+      "series": "介護保険最新情報 Vol.1508",
+      "title": "介護支援専門員等の在宅介護従事者の安全確保の徹底について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-06-03",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県介護保険担当課（室）、各市町村介護保険担当課（室）、各介護保険関係団体",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "介護",
+        "ケアマネジメント",
+        "介護人材"
+      ],
+      "summary": "利用者宅で介護支援専門員が危害を加えられ死亡した事件を受け、深刻なトラブルのおそれがある事案では職員個人でなく組織として体制を整え、地域ケア会議・地域包括支援センター・警察などと日頃から連携するよう、解釈通知で示した安全確保措置を改めて周知する。研修や相談窓口の設置には地域医療介護総合確保基金、複数名での同行訪問の経費には介護支援専門員業務負担軽減支援事業などを活用できる。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001707964.pdf",
+      "attachments": [
+        {
+          "name": "別添 一般社団法人日本介護支援専門員協会の声明文",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/content/001707964.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "kaigo-1509",
+      "series": "介護保険最新情報 Vol.1509",
+      "title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の公布及び施行について（通知）",
+      "docNumber": "老発0603第3号",
+      "issuedDate": "2026-06-03",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県介護保険担当課（室）、各市町村介護保険担当課（室）、各介護保険関係団体（本文：都道府県知事、各指定都市市長、中核市市長）",
+      "revisionType": "法律改正",
+      "effectiveDate": "2026-06-03",
+      "fields": [
+        "介護",
+        "補助金",
+        "介護人材"
+      ],
+      "summary": "都道府県が介護サービス事業者等の従事者確保の費用に補助金を交付できることを介護保険法に定め、その交付事務を国民健康保険団体連合会に委託でき、国は都道府県の補助額を予算の範囲内で補助できるようにする。ただし令和7年度補正予算の「介護分野の職員の賃上げ・職場環境改善支援事業」は、国保連のシステムが未構築のため引き続き都道府県が支払事務等を行う必要がある。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001707972.pdf",
+      "attachments": [
+        {
+          "name": "地方分権一括法（令和8年法律第27号）の本文",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/content/001707972.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "kaigo-1512",
+      "series": "介護保険最新情報 Vol.1512",
+      "title": "公益社団法人国民健康保険中央会運用LIFEへの移行に係る再度の周知について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-06-18",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県介護保険主管課（室）、各市町村介護保険担当課（室）、各介護保険関係団体",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "介護",
+        "介護報酬",
+        "デジタル化"
+      ],
+      "summary": "令和8年5月11日に国民健康保険中央会による運用が始まったLIFEへの移行作業を終えていない事業所・施設が一定数あるため、移行期間内に作業しないとLIFEを使えず、データ提出が必要な加算も算定を続けられなくなることを改めて周知する。移行ガイドや説明動画、問い合わせ先（移行前は厚労省運用LIFE、移行後は国保中央会運用LIFEのヘルプデスク）を案内している。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001713143.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "kaigo-1513",
+      "series": "介護保険最新情報 Vol.1513",
+      "title": "介護保険法施行規則の一部を改正する省令等の公布について（通知）",
+      "docNumber": "老発0622第3号",
+      "issuedDate": "2026-06-22",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県介護保険担当課（室）、各市町村介護保険担当課（室）、各介護保険関係団体（本文：都道府県知事、市町村長）",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-08-01",
+      "fields": [
+        "介護",
+        "補足給付"
+      ],
+      "summary": "特定入所者介護（予防）サービス費の所得区分のうち、前年の公的年金等収入金額と合計所得金額の合計額の基準を80.9万円以下から82.65万円以下に引き上げ、食費・居住費等の負担限度額の告示も同様に改める。令和7年の老齢基礎年金（満額）が80.9万円を超えたことへの対応で、8月以後のサービス分から適用する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001714217.pdf",
+      "attachments": [
+        {
+          "name": "別添① 介護保険法施行規則の一部を改正する省令（令和8年厚生労働省令第105号）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/content/001714217.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添② 食費の負担限度額等の一部を改正する告示（令和8年厚生労働省告示第253号）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/content/001714217.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "kaigo-1515",
+      "series": "介護保険最新情報 Vol.1515",
+      "title": "「介護老人福祉施設等における診療行為に係る報酬の給付調整」に関するリーフレットの一部見直しについて（周知依頼）",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-06-23",
+      "ministry": "厚生労働省",
+      "bureau": "老健局・保険局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県介護保険担当課（室）、各市町村介護保険担当課（室）",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "介護",
+        "介護報酬",
+        "診療報酬"
+      ],
+      "summary": "令和8年度診療報酬改定で往診加算等の施設基準にある協力医療機関とのカンファレンスの頻度が見直されたことに合わせ、特別養護老人ホームで配置医師・配置医師以外の医師が行う診療のうち診療報酬で算定できるものを事例（急変時の往診、皮膚科受診、末期がんの看取りなど）ごとに示したリーフレットを令和8年6月版に改める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001714541.pdf",
+      "attachments": [
+        {
+          "name": "別添 リーフレット「特別養護老人ホームにおける診療行為に対する報酬の給付調整について（令和８年６月版）」",
+          "type": "概要資料",
+          "url": "https://www.mhlw.go.jp/content/001714541.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "kaigo-1516",
+      "series": "介護保険最新情報 Vol.1516",
+      "title": "健康保険法施行令等の一部を改正する政令の公布について（通知）",
+      "docNumber": "老発0625第3号",
+      "issuedDate": "2026-06-25",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "都道府県知事、市町村長（本文）",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-08-01",
+      "fields": [
+        "介護",
+        "医療保険"
+      ],
+      "summary": "高額介護（予防）サービス費の所得区分の基準（前年の公的年金等収入と合計所得金額の合計額）を80.9万円から82.65万円に引き上げ、健康保険・国民健康保険・後期高齢者医療などの同様の基準も82.65万円に改める。令和7年の老齢基礎年金（満額）が80.9万円を超えたことへの対応で、8月以後のサービス・療養分から適用する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001715374.pdf",
+      "attachments": [
+        {
+          "name": "健康保険法施行令等の一部を改正する政令（令和8年政令第219号）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/content/001715374.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "kaigo-1518",
+      "series": "介護保険最新情報 Vol.1518",
+      "title": "社会福祉法等の一部を改正する法律の公布について（通知）",
+      "docNumber": "社援発0625第10号・老発0625第9号・障発0625第1号・こ支障第178号",
+      "issuedDate": "2026-06-25",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局・老健局・障害保健福祉部（こども家庭庁支援局と連名）",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "都道府県知事、市町村長、特別区長",
+      "revisionType": "法律改正",
+      "effectiveDate": "2027-04-01",
+      "fields": [
+        "介護",
+        "障害福祉",
+        "ケアマネジメント",
+        "介護人材"
+      ],
+      "summary": "介護保険法では、介護支援専門員の更新制の廃止と研修の見直し、夜間対応型訪問介護の廃止、特定地域での特例居宅サービスの類型新設、被保険者証の電子資格確認、指定介護老人福祉施設等の指定辞退に1か月以上の予告期間を設けることなどを定める。あわせて社会福祉法人の残余財産の帰属先の見直し、災害時福祉業務従事者の登録、有料老人ホームの登録制度、准介護福祉士の資格廃止など関係法も改める（一部は公布日や政令で定める日から施行）。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001715668.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "kaigo-1520",
+      "series": "介護保険最新情報 Vol.1520",
+      "title": "公益社団法人国民健康保険中央会運用LIFEへの移行に係る再周知について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-07-02",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県介護保険主管課（室）、各市町村介護保険担当課（室）、各介護保険関係団体",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "介護",
+        "介護報酬",
+        "デジタル化"
+      ],
+      "summary": "令和8年7月31日までに国民健康保険中央会運用LIFEへの移行作業を終えない事業所・施設は、8月1日以降データを提出できず、7月分以降のLIFE関連加算の算定要件を満たさなくなる。7月サービス提供分は8月10日までに国保中央会運用LIFEへ提出する必要があり、厚労省運用LIFEは9月1日に停止する予定。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001718022.pdf",
+      "attachments": [
+        {
+          "name": "別紙1 移行作業が必要な対象",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/content/001718022.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙2 移行作業の手順",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/content/001718022.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
+    },
+    {
+      "id": "kaigo-1522",
+      "series": "介護保険最新情報 Vol.1522",
+      "title": "介護職員等処遇改善加算に関する様式例の一部差替について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-07-08",
+      "ministry": "厚生労働省",
+      "bureau": "老健局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県介護保険担当課（室）、各市町村介護保険担当課（室）、各介護保険関係団体（本文：各介護保険担当主管部（局））",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "介護",
+        "処遇改善",
+        "介護報酬"
+      ],
+      "summary": "介護職員等処遇改善加算の令和7年度・令和8年度の実績報告書（別紙様式3）の計算式の誤りなどを直して厚生労働省ホームページの様式を差し替えたため、今後は差替後の様式を使うよう周知を求める。郵便番号欄の体裁、対象事業所がない場合の表示、令和8年度に新たに対象となった訪問看護等の記入方法のメモなどを修正している。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/content/001720493.pdf",
+      "attachments": [
+        {
+          "name": "令和７年度 実績報告書 別紙様式３（Excel）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/content/001720494.xlsx",
+          "inMain": false
+        },
+        {
+          "name": "令和７年度 記入例（Excel）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/content/001720496.xlsx",
+          "inMain": false
+        },
+        {
+          "name": "令和７年度 大規模版（Excel）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/content/001722556.xlsx",
+          "inMain": false
+        },
+        {
+          "name": "令和８年度 実績報告書 別紙様式３（Excel）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/content/001720499.xlsx",
+          "inMain": false
+        },
+        {
+          "name": "令和８年度 記入例（Excel）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/content/001720501.xlsx",
+          "inMain": false
+        },
+        {
+          "name": "令和８年度 大規模版（Excel）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/content/001720503.xlsx",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-26"
     }
   ]
 }
