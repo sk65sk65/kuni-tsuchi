@@ -193,6 +193,8 @@
 <footer>
   <p>出典：各通知のリンク先（<a href="https://www.mhlw.go.jp/hourei/new/tsuchi/newindex.html" target="_blank" rel="noopener">厚生労働省 法令等データベースサービス</a>、<a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/index_00010.html" target="_blank" rel="noopener">厚生労働省 介護保険最新情報掲載ページ</a>ほか）。件名・文書番号・発出日などは出典をもとに整理し、概要は出典をもとにAIが作成・加工したものです。</p>
   <p id="updated"></p>
+  <p id="views" hidden></p>
+  <p>アクセス数の計測に <a href="https://www.goatcounter.com/" target="_blank" rel="noopener">GoatCounter</a> を使用しています（クッキーは使用しません）。</p>
 </footer>
 
 <script>
@@ -349,6 +351,18 @@ fetch("data/notices.json", { cache: "no-cache" })
   .catch(err => {
     document.getElementById("list").innerHTML = `<div class="empty">データを読み込めませんでした（${esc(err.message)}）。</div>`;
   });
+
+// 累計閲覧数（GoatCounter）。取得できなければ表示しない
+fetch("https://sgfy2.goatcounter.com/counter/TOTAL.json")
+  .then(r => r.ok ? r.json() : null)
+  .then(d => {
+    if (!d || d.count == null) return;
+    const el = document.getElementById("views");
+    el.textContent = `累計閲覧数：${d.count}回`;
+    el.hidden = false;
+  })
+  .catch(() => {});
 </script>
+<script data-goatcounter="https://sgfy2.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
