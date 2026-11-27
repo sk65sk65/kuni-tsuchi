@@ -10,6 +10,11 @@
       "ministry": "厚生労働省",
       "name": "介護保険最新情報掲載ページ",
       "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/index_00010.html"
+    },
+    {
+      "ministry": "総務省",
+      "name": "所管法令・通達",
+      "url": "https://www.soumu.go.jp/menu_hourei/tsutatsu/t_tsutatsu.html"
     }
   ],
   "notices": [
