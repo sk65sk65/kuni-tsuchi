@@ -11628,6 +11628,530 @@
       "memo": "都道府県経由で市町村へ周知依頼あり",
       "addedBy": "auto",
       "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0143",
+      "title": "「柔道整復師の施術に係る療養費の算定基準」の一部改正について",
+      "docNumber": "保発0601第4号",
+      "issuedDate": "2026-06-01",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県知事・地方厚生(支)局長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-07-01",
+      "fields": [
+        "医療保険"
+      ],
+      "summary": "柔道整復師の施術に係る療養費の算定基準（昭和33年保発第64号）を改め、令和8年7月1日施術分から適用する。改正内容（料金・明細書発行加算の取扱いなど）は別紙（画像）に記載されており、本文には記載なし。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0143&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 改正内容（画像1〜3）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8025967",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0144",
+      "title": "「柔道整復師の施術に係る療養費について」の一部改正について",
+      "docNumber": "保発0601第5号",
+      "issuedDate": "2026-06-01",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県知事・地方厚生(支)局長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-07-01",
+      "fields": [
+        "医療保険"
+      ],
+      "summary": "柔道整復の受領委任の取扱いを定めた通知（平成22年保発0524第2号）の別紙と様式第5号・第5号の2を改める。改正前の様式の用紙は当分の間、取り繕って使用できる。改正内容は別紙（画像）に記載。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0144&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 改正内容・様式（画像1〜17）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8025970",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0145",
+      "title": "「柔道整復師の施術に係る療養費の算定基準の実施上の留意事項等について（通知）」の一部改正について",
+      "docNumber": "保医発0601第1号",
+      "issuedDate": "2026-06-01",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-07-01",
+      "fields": [
+        "医療保険"
+      ],
+      "summary": "算定基準の改正（保発0601第4号）に合わせて柔道整復の療養費の留意事項通知（平成9年保険発第57号）を改める。第2の1と第4の3は令和8年7月1日以降に負傷の治癒または施術の中止があった場合から適用する。改正内容は別紙（画像）に記載。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0145&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 改正内容（画像1〜8）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8025987",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0146",
+      "title": "「柔道整復師の施術に係る療養費について」の一部改正について",
+      "docNumber": "保医発0601第2号",
+      "issuedDate": "2026-06-01",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-07-01",
+      "fields": [
+        "医療保険"
+      ],
+      "summary": "柔道整復施術療養費支給申請書の取扱い（平成11年保険発第138号）を改め、申請書の様式を改正する。改正前の様式の用紙は当分の間、取り繕って使用できる。改正内容は別紙（画像）に記載。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0146&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 改正内容・様式（画像1〜4）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8025995",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0147",
+      "title": "「柔道整復師の施術に係る療養費について（通知）」の一部改正について",
+      "docNumber": "保医発0601第3号",
+      "issuedDate": "2026-06-01",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-07-01",
+      "fields": [
+        "医療保険"
+      ],
+      "summary": "算定基準の改正（保発0601第4号）で明細書発行加算の取扱いが変わったことに合わせ、平成22年保医発0524第3号通知を改める。具体的な改正内容は別紙（画像）に記載されており、本文には記載なし。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0147&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 改正内容（画像1〜8）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8025999",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0165",
+      "title": "はり師、きゅう師及びあん摩・マッサージ・指圧師の施術に係る療養費の支給について",
+      "docNumber": "保発0605第8号",
+      "issuedDate": "2026-06-05",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県知事・地方厚生(支)局長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-07-01",
+      "fields": [
+        "医療保険"
+      ],
+      "summary": "はり・きゅうとあん摩・マッサージの療養費の料金を改める（例：はり・きゅうの施術料1術1,650円・2術1,820円、往療料2,300円、あん摩・マッサージ1局所470円、明細書発行加算10円）。同一患者の月16回目以降は所定料金の50%、訪問施術料4・5で集中率90%以上の場合は80%とする。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0165&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 様式等（画像1〜6）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=7906800",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0166",
+      "title": "「はり師、きゅう師及びあん摩マッサージ指圧師の施術に係る療養費に関する受領委任の取扱いについて」の一部改正について",
+      "docNumber": "保発0605第9号",
+      "issuedDate": "2026-06-05",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県知事・地方厚生(支)局長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-07-01",
+      "fields": [
+        "医療保険"
+      ],
+      "summary": "はり・きゅう、あん摩マッサージの受領委任の取扱い（平成30年保発0612第2号）の別添1の表と様式を改める。従来の様式は当分の間、取り繕って使用できる。改正内容は別添（画像）に記載。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0166&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1 表の改正（画像1〜5）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8026104",
+          "inMain": false
+        },
+        {
+          "name": "様式（画像6〜26）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8026109",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0167",
+      "title": "「はり師、きゅう師及びあん摩・マッサージ・指圧師の施術に係る療養費の支給の留意事項等について」の一部改正について",
+      "docNumber": "保医発0605第3号",
+      "issuedDate": "2026-06-05",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-07-01",
+      "fields": [
+        "医療保険"
+      ],
+      "summary": "はり・きゅう、あん摩・マッサージの療養費の留意事項通知（平成16年保医発第1001002号）の別添1・別添2の表と様式を改める。従来の様式は当分の間、取り繕って使用できる。改正内容は別添（画像）に記載。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0167&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1 表の改正（画像1〜5）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8026130",
+          "inMain": false
+        },
+        {
+          "name": "別添1 様式（画像6〜14）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8026135",
+          "inMain": false
+        },
+        {
+          "name": "別添2 表の改正（画像15〜20）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8026144",
+          "inMain": false
+        },
+        {
+          "name": "別添2 様式（画像21〜29）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8026150",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0168",
+      "title": "はり・きゅう及びあんま・マッサージに係る明細書について（通知）",
+      "docNumber": "保医発0605第4号",
+      "issuedDate": "2026-06-05",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医療保険"
+      ],
+      "summary": "明細書発行加算の算定が可能になったことに伴い、施術所は一部負担金等の支払いを受けるとき、正当な理由がない限り領収証と施術内容の分かる明細書を無償で交付する。標準様式は支払いごとが様式1・2、患者の求めで1か月分まとめる場合が様式3・4で、まとめて交付するときは様式5で患者の意向を事前に文書で確認する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0168&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙様式1〜5（画像1〜9）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=7668747",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0354",
+      "title": "「診療報酬の算定方法の一部改正に伴う実施上の留意事項について」等の一部改正について",
+      "docNumber": "保医発0630第7号",
+      "issuedDate": "2026-06-30",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-07-01",
+      "fields": [
+        "診療報酬",
+        "医療保険"
+      ],
+      "summary": "NUDT15遺伝子多型の測定の対象に難治性の炎症性腸疾患などでチオプリン製剤を投与する患者を加え、APOE遺伝型の測定と子宮頸部のp16/Ki-67タンパク二重免疫染色を既存の点数の準用で算定できるようにする。あわせて特定保険医療材料の定義に、抗酸化剤添加原材料にガンマ線照射で架橋処理したものと大腿膝窩動脈用の回転切削カテーテルを加える。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0354&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1 留意事項通知の改正",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0354&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別添2 特定保険医療材料の定義の改正",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0354&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "参考（画像1〜5）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8027134",
+          "inMain": false
+        }
+      ],
+      "memo": "周知先は保険医療機関・審査支払機関等",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0152",
+      "title": "令和９年度特別調整交付金（算定省令第６条第９号関係）のうち後期高齢者医療制度の保険者インセンティブ分について",
+      "docNumber": "保高発0602第1号",
+      "issuedDate": "2026-06-02",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県民生主管部(局)後期高齢者医療制度主管課(部)長・都道府県後期高齢者医療広域連合事務局長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "後期高齢者医療",
+        "補助金",
+        "健診"
+      ],
+      "summary": "令和9年度の後期高齢者医療の保険者インセンティブ（予算100億円）の評価指標（健診受診率、糖尿病性腎症重症化予防、マイナ保険証利用率、後発医薬品使用割合、一体的実施、アウトカム指標など）と配分方法を示す。広域連合は自己採点して採点表を都道府県に送り、都道府県は内容を確認して令和8年10月23日までに厚生労働省へ提出する。Q&A（問1〜90）が付く。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0152&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 採点表・Q&A等（画像1〜23）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8026047",
+          "inMain": false
+        },
+        {
+          "name": "令和9年度保険者インセンティブに係るQ&A（事務連絡）",
+          "type": "Q&A・疑義照会回答",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0152&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0162",
+      "title": "特定健康診査及び特定保健指導の実施に関する基準の一部を改正する省令の施行について",
+      "docNumber": "保発0605第5号",
+      "issuedDate": "2026-06-05",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "都道府県知事あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-06-05",
+      "fields": [
+        "健診",
+        "医療保険",
+        "デジタル化"
+      ],
+      "summary": "高確法第20条の改正により、特定健診に相当する健診を受けた加入者の結果は「結果の記録の写し」で保険者に提供することとなり、基準省令に第1条の2を設けて提出は光ディスク等の電子情報によることを原則とした（書面も可）。保険者は結果の授受・保管で個人情報保護のガイダンスに基づく措置をとる。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0162&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "都道府県経由で市町村（特別区を含む）・関係団体へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0363",
+      "title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の一部の施行に伴う関係省令の整備等及び経過措置に関する省令等の公布について（通知）",
+      "docNumber": "年発0630第1号",
+      "issuedDate": "2026-06-30",
+      "ministry": "厚生労働省",
+      "bureau": "年金局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局長・国民年金基金連合会理事長・企業年金連合会理事長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-12-01",
+      "fields": [
+        "企業年金",
+        "年金"
+      ],
+      "summary": "iDeCoに第5号加入者を新設することに伴い、国民年金保険料等の引上げで拠出限度額を超える場合の掛金引下げ、他の企業年金から資産移換の申出がない第5号加入者の資格喪失（取得から3か月）、施行後3年間の60歳以上70歳未満の加入の経過措置、令和9年11月30日までの掛金変更回数制限の特例などを定める。企業型DC・iDeCoの報告書様式も改める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0363&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0129",
+      "title": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第七条第三号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める省令等の制定について（通知）",
+      "docNumber": "政統発0529第1号",
+      "issuedDate": "2026-05-29",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（統計・情報システム管理、労使関係担当）",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各指定都市市長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-05-29",
+      "fields": [
+        "デジタル化",
+        "統計調査"
+      ],
+      "summary": "人口動態調査事務システムの標準化基準として、機能要件・帳票要件の標準、実装区分（必須・事業者判断・実装不可）、適合基準日を省令と告示で定めた。内容は人口動態調査事務システム標準仕様書に準拠する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0129&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1（画像1〜3）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8025810",
+          "inMain": false
+        },
+        {
+          "name": "別添2（画像4〜80）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8025813",
+          "inMain": false
+        },
+        {
+          "name": "別添3（画像81〜84）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8025890",
+          "inMain": false
+        },
+        {
+          "name": "別添4（画像85〜87）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_img?img=8025894",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で保健所長・市区町村長へ周知依頼あり（中核市へは都道府県から連絡）。別添の内容（省令・告示の別）は画像のため未確認",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0170",
+      "title": "広告可能な診療科名の改正について",
+      "docNumber": "医政発0529第10号",
+      "issuedDate": "2026-05-29",
+      "ministry": "厚生労働省",
+      "bureau": "医政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-06-01",
+      "fields": [
+        "医療"
+      ],
+      "summary": "医療法施行令を改正し、内科などと組み合わせて広告できる疾病・病態に「睡眠障害」を加える（従来は感染症、腫瘍、糖尿病、アレルギー疾患）。都道府県・保健所設置市・特別区は管内の関係機関に周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0170&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
     }
   ]
 }
