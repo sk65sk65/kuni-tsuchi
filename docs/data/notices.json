@@ -13264,6 +13264,590 @@
           "inMain": true
         }
       ]
+    },
+    {
+      "id": "mhlw-db-00td0079",
+      "title": "労働組合法施行令の一部を改正する政令の施行について",
+      "docNumber": "基発0501第1号",
+      "issuedDate": "2026-05-01",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "中央労働委員会会長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-05-21",
+      "fields": [
+        "労働",
+        "デジタル化"
+      ],
+      "summary": "労働委員会の和解調書などの公示送達を、ウェブ等での公開と委員会の掲示場または端末での閲覧を組み合わせる方法に変える。官報・公報への掲載を廃止し、後に始めた措置の翌日から2週間で送達とみなす。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0079&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0085",
+      "title": "「保存血液等の抜き取り検査について」の廃止について",
+      "docNumber": "医薬発0507第1号",
+      "issuedDate": "2026-05-07",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-05-07",
+      "fields": [
+        "医薬品",
+        "衛生"
+      ],
+      "summary": "一部の血液製剤が法令に基づく検査の対象となったため、都道府県の協力で行っていた旧来の抜き取り検査の取扱いを廃止する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0085&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0093",
+      "title": "「公認心理師法第7条第1号及び第2号に規定する公認心理師となるために必要な科目の確認について」の一部改正について",
+      "docNumber": "8文科高第226号・障発0512第1号",
+      "issuedDate": "2026-05-13",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局障害保健福祉部・文部科学省高等教育局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県知事・各国公私立大学長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "障害福祉",
+        "資格"
+      ],
+      "summary": "公認心理師に必要な科目の確認に用いる様式を改める。使用中の旧様式の書類は新様式とみなし、手元の旧用紙は当分の間、手直しして使える。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0093&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0093&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0098",
+      "title": "「公認心理師法施行規則第5条第26号の規定に基づき文部科学大臣及び厚生労働大臣が認める施設及び同施行規則附則第6条第2号の規定に基づき文部科学大臣及び厚生労働大臣が認める施設並びに公認心理師法施行規則第三条第三項の規定に基づき文部科学大臣及び厚生労働大臣が別に定める施設第24号の規定に基づき文部科学大臣及び厚生労働大臣が認める施設について」の一部改正について",
+      "docNumber": "8文科高第168号・障発0514第1号",
+      "issuedDate": "2026-05-14",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局障害保健福祉部・文部科学省初等中等教育局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県知事・各国公私立大学長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "障害福祉",
+        "資格"
+      ],
+      "summary": "公認心理師の実習先などとして認める施設の取扱いを改める。都道府県には教育委員会、市区町村、関係機関への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0098&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0098&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0107",
+      "title": "「障害年金受給権者等に係る障害状態確認届の取扱いについて」の一部改正について〔厚生年金保険法〕",
+      "docNumber": "年管発0515第1号",
+      "issuedDate": "2026-05-15",
+      "ministry": "厚生労働省",
+      "bureau": "大臣官房年金管理審議官",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "日本年金機構理事長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "年金"
+      ],
+      "summary": "障害状態確認届を複数の認定医で審査し、審査結果の確定に相当の期間を要した事案の取扱いを改める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0107&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0107&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "参考 改正後全文",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0107&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0113",
+      "title": "「厚生労働大臣が指定する病院の病棟における療養に要する費用の額の算定方法の一部改正等に伴う実施上の留意事項について」の一部改正について",
+      "docNumber": "保医発0519第6号",
+      "issuedDate": "2026-05-19",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-05-20",
+      "fields": [
+        "医療",
+        "診療報酬"
+      ],
+      "summary": "DPCの診断群分類「骨髄増殖性腫瘍」の手術・処置等2の区分4にフェドラチニブ塩酸塩を加える。医療機関などへの周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0113&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 診断群分類定義表",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0113&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0114",
+      "title": "「厚生労働大臣が指定する病院の病棟における療養に要する費用の額の算定方法第一項第五号の規定に基づき厚生労働大臣が別に定める者について」の一部改正について",
+      "docNumber": "保医発0519第7号",
+      "issuedDate": "2026-05-19",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-05-20",
+      "fields": [
+        "医療",
+        "診療報酬"
+      ],
+      "summary": "DPCの包括評価の対象外となる高額薬剤の一覧を見直し、旧・新通知の別表に対象薬剤や銘柄などを追加する。医療機関などへの周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0114&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 対象薬剤の別表",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0114&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0122",
+      "title": "データの提出に遅延等が認められた保険医療機関における外来データ提出加算等の取扱いについて",
+      "docNumber": "保医発0525第5号",
+      "issuedDate": "2026-05-25",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-06-01",
+      "fields": [
+        "医療",
+        "診療報酬"
+      ],
+      "summary": "外来・在宅・リハビリテーションのデータ提出加算について、提出が遅れた施設は算定を停止し、提出実績を回復した施設は算定を再開する。同一調査年度に遅延等が3回に達した施設の取扱いも示し、関係者への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0122&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1～9 対象医療機関一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0122&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0123",
+      "title": "データの提出に遅延等が認められた保険医療機関におけるデータ提出加算(A245)の取扱いについて",
+      "docNumber": "保医発0525第3号",
+      "issuedDate": "2026-05-25",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-06-01",
+      "fields": [
+        "医療",
+        "診療報酬"
+      ],
+      "summary": "期限までにデータを提出しなかった別添の医療機関は、令和8年6月分の入院データ提出加算（A245）を算定できない。関係者への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0123&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 対象医療機関一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0123&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0124",
+      "title": "データ提出の実績が認められた保険医療機関の外来データ提出加算等の取扱いについて",
+      "docNumber": "保医発0525第2号",
+      "issuedDate": "2026-05-25",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医療",
+        "診療報酬"
+      ],
+      "summary": "提出実績が認められた医療機関は、様式7の11を届け出ることで、実績が認められた外来・在宅・リハビリテーションのデータ提出加算を算定できる。関係者への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0124&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 対象医療機関一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0124&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0125",
+      "title": "データ提出の実績が認められた保険医療機関のデータ提出加算の取扱いについて",
+      "docNumber": "保医発0525第1号",
+      "issuedDate": "2026-05-25",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医療",
+        "診療報酬"
+      ],
+      "summary": "提出実績が認められた別添の医療機関は、様式40の7を届け出ることで、入院データ提出加算（A245）を算定できる。関係者への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0125&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 対象医療機関一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0125&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0126",
+      "title": "「児童福祉施設入所児童であって扶養義務者のあるもの等に対する国民健康保険の適用について(内かん)」の再周知について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-05-22",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "都道府県民生主管部(局)国民健康保険主管課(部)",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "国民健康保険",
+        "児童福祉"
+      ],
+      "summary": "児童福祉施設に入所する18歳以上の人は、個別事情から家族と同一世帯と扱うのが妥当な場合、18歳未満の入所児童の取扱いを参考に国民健康保険を適用する。都道府県には、市区町村への周知と個別事情を踏まえた運用を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0126&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 国民健康保険の適用に関する従前の内かん",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0126&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0127",
+      "title": "国民健康保険料(税)の納付に係るフィッシングメールの注意喚起について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-05-01",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "都道府県民生主管部(局)国民健康保険主管課(部)",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "国民健康保険"
+      ],
+      "summary": "国民健康保険料・税の未納を装い、電子決済へ誘導するメールについて、都道府県から市区町村と国保組合に知らせるよう求める。自治体のサイトや被保険者への郵送物などを使った注意喚起も求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0127&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0131",
+      "title": "旅館業の許可時における建築基準法への適合確認の徹底について(通知)",
+      "docNumber": "健生衛発0528第1号・国住指第164号",
+      "issuedDate": "2026-05-28",
+      "ministry": "厚生労働省",
+      "bureau": "健康・生活衛生局・国土交通省住宅局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区担当部長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "生活衛生",
+        "建築"
+      ],
+      "summary": "既存建築物を旅館などに用途変更する際の建築基準法上の手続を再周知し、旅館業の許可時に衛生・建築部局が連携して適合確認を徹底するよう求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0131&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0132",
+      "title": "旅館業許可施設に関する情報の固定資産税担当部局への提供について(通知)",
+      "docNumber": "健生衛発0520第1号",
+      "issuedDate": "2026-05-20",
+      "ministry": "厚生労働省",
+      "bureau": "健康・生活衛生局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "生活衛生",
+        "地方税"
+      ],
+      "summary": "旅館業を許可したときは、施設情報を所在地の市町村、特別区では東京都の固定資産税担当部局へ可能な限り速やかに提供するよう求める。課税部局から情報提供の依頼があった場合も協力する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0132&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0133",
+      "title": "「食薬区分における成分本質(原材料)の取扱いの例示」の一部改正について",
+      "docNumber": "医薬監麻発0528第1号",
+      "issuedDate": "2026-05-28",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品",
+        "食品衛生"
+      ],
+      "summary": "医薬品として扱う原材料と、効能をうたわなければ医薬品と判断しない原材料のリストを更新する。後者は植物由来物等に学名欄を追加し、自治体に監視指導での参照を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0133&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙1・2 食薬区分リスト",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0133&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0134",
+      "title": "香りへの配慮に関する啓発ポスターの再周知について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-05-29",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局・健康・生活衛生局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "生活衛生",
+        "消費者行政"
+      ],
+      "summary": "香り付き製品のマナーを呼びかけるポスターに、こども家庭庁と国土交通省が加わった。自治体の衛生主管部局に、ポスターと作成の趣旨を関係者へ再周知するよう求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0134&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 関係団体への周知依頼",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0134&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0141",
+      "title": "「診療報酬の算定方法の一部改正に伴う実施上の留意事項について」等の一部改正について",
+      "docNumber": "保医発0529第2号",
+      "issuedDate": "2026-05-29",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-06-01",
+      "fields": [
+        "医療",
+        "診療報酬"
+      ],
+      "summary": "小児の注意欠如多動症や不眠障害の治療支援アプリに関する診療報酬の算定条件を定め、特定保険医療材料の価格算定や歯科材料の取扱いも改める。医療機関と審査支払機関への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0141&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1～4 改正内容",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0141&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0142",
+      "title": "療担規則及び薬担規則並びに療担基準に基づき厚生労働大臣が定める掲示事項等の一部改正等について",
+      "docNumber": "保医発0529第1号",
+      "issuedDate": "2026-05-29",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-06-01",
+      "fields": [
+        "医療",
+        "診療報酬"
+      ],
+      "summary": "保険医が投与できる注射薬と在宅自己注射指導管理料の対象薬剤に2製剤を追加する。対象製剤の算定上の留意事項を示し、医療機関と審査支払機関への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0142&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
     }
   ]
 }
