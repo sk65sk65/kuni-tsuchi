@@ -16326,6 +16326,379 @@
       "memo": "",
       "addedBy": "manual",
       "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9840",
+      "title": "データ提出の実績が認められた保険医療機関のデータ提出加算の取扱いについて",
+      "docNumber": "保医発0317第6号",
+      "issuedDate": "2026-03-17",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "診療報酬"
+      ],
+      "summary": "データ提出実績を認められた医療機関は、所定の届出書（様式40の7）を提出することで入院データ提出加算（A245）を算定できる。関係者への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9840&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 対象医療機関一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9840&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9841",
+      "title": "データ提出の実績が認められた保険医療機関の外来データ提出加算等の取扱いについて",
+      "docNumber": "保医発0317第7号",
+      "issuedDate": "2026-03-17",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "診療報酬"
+      ],
+      "summary": "提出実績を認められた医療機関は、様式7の11を届け出ることで、実績が認められた外来・在宅・リハビリテーションのデータ提出加算を算定できる。関係者への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9841&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 対象医療機関一覧",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9841&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9879",
+      "title": "厚生労働大臣が指定する病院の病棟における療養に要する費用の額の算定方法第五項第三号の規定に基づき厚生労働大臣が実施する調査について",
+      "docNumber": "保医発0318第6号",
+      "issuedDate": "2026-03-18",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-06-01",
+      "fields": [
+        "診療報酬"
+      ],
+      "summary": "DPCと入院医療を評価・検証する調査の目的、対象、データの提出などの取扱いを定める。提出結果は点数表や医療機関別係数の設定に用い、患者を特定できないよう集計して機関別に公表する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9879&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9842",
+      "title": "法人の役員である個人事業主等に係る被保険者資格の取扱いについて",
+      "docNumber": "保保発0318第1号・年管管発0318第1号",
+      "issuedDate": "2026-03-18",
+      "ministry": "厚生労働省",
+      "bureau": "保険局・年金局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "全国健康保険協会理事長・健康保険組合理事長・日本年金機構理事長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "健康保険",
+        "年金"
+      ],
+      "summary": "個人事業主等が法人の役員となった場合の健康保険・厚生年金の資格は、法人に常態的に使用され、労務の対価として報酬を受ける実態があるか確認して判断する。役員の届出だけで適用を決めない。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9842&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9948",
+      "title": "マイナ資格確認アプリにおけるスマートフォンのマイナ保険証の読み取り機能の追加について(周知)",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-03-18",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "関係団体",
+      "revisionType": "その他",
+      "effectiveDate": "2026-03-23",
+      "fields": [
+        "医療",
+        "デジタル化"
+      ],
+      "summary": "マイナ資格確認アプリの更新により、対応するiPhone・Android端末で、スマートフォンのマイナ保険証を読み取って資格確認できるようにする。関係団体に医療機関などへの周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9948&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9946",
+      "title": "マイナ保険証の円滑な利用に向けた医療機関・薬局における対応について(周知)",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-03-26",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県民生主管部(局)国民健康保険主管課(部)・後期高齢者医療主管課(部)・都道府県後期高齢者医療広域連合事務局・全国健康保険協会・健康保険組合・健康保険組合連合会・関係各省共済組合等所管課(室)",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医療",
+        "国民健康保険",
+        "後期高齢者医療"
+      ],
+      "summary": "期限切れの健康保険証などを持参した患者の資格をオンライン照会等で確かめる暫定対応を、2026年7月末まで継続する。次回からはマイナ保険証か資格確認書を持参するよう窓口で案内を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9946&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 医療関係団体向けの事務連絡（3月25日付）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9947&dataType=1&pageNo=1",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9897",
+      "title": "DPC制度への参加等の手続きについて",
+      "docNumber": "保医発0327第1号",
+      "issuedDate": "2026-03-27",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局医療課長・都道府県民生主管部(局)国民健康保険主管課(部)長・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-06-01",
+      "fields": [
+        "診療報酬"
+      ],
+      "summary": "DPC制度への参加要件と、参加や退出等に必要な手続を定める。医療機関と審査支払機関への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9897&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9997",
+      "title": "国民健康保険の事務費負担金等の交付額等の算定に関する省令の一部を改正する省令の施行について(通知)",
+      "docNumber": "保発0325第28号",
+      "issuedDate": "2026-03-25",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "都道府県知事",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-03-25",
+      "fields": [
+        "国民健康保険"
+      ],
+      "summary": "国保組合向け普通調整補助金の法令上の額を予算額に合わせるため、調整対象収入額の算定係数を変更する。令和7年度の組合事務費負担金の基本額も定める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9997&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9996",
+      "title": "国民健康保険の調整交付金等の交付額の算定に関する省令の一部を改正する省令の施行について(通知)",
+      "docNumber": "保発0325第29号",
+      "issuedDate": "2026-03-25",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "都道府県知事",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-03-25",
+      "fields": [
+        "国民健康保険"
+      ],
+      "summary": "令和7年度の普通調整交付金の法令上の額を予算額に合わせるため、調整対象収入額の算定係数を改める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9996&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9995",
+      "title": "国民健康保険組合における個人情報の適切な取扱いのためのガイダンスの一部改正について(通知)",
+      "docNumber": "個情第754号・保発0331第6号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "保険局・個人情報保護委員会事務局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "国民健康保険",
+        "個人情報保護"
+      ],
+      "summary": "関係政令の施行に合わせ、国民健康保険組合の個人情報取扱いに関するガイダンスを改める。都道府県などに組合への周知・指導を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9995&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9994",
+      "title": "国民健康保険団体連合会等における個人情報の適切な取扱いのためのガイダンスの一部改正について(通知)",
+      "docNumber": "個情第756号・保発0331第8号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "保険局・個人情報保護委員会事務局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "国民健康保険",
+        "個人情報保護"
+      ],
+      "summary": "関係政令の施行に合わせ、国保連合会などの個人情報取扱いに関するガイダンスを改める。都道府県などを通じて関係団体へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9994&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9930",
+      "title": "令和七年度における後期高齢者医療の調整交付金の交付額の算定に関する省令第四条第二項及び第四項並びに第五条第四項の規定に基づき厚生労働大臣が定める普通調整係数及び補正係数並びに一人平均所得額の告示について(通知)",
+      "docNumber": "保高発0326第1号",
+      "issuedDate": "2026-03-26",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県後期高齢者医療主管部(局)長・市町村後期高齢者医療主管課(部)長・都道府県後期高齢者医療広域連合事務局長",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-03-26",
+      "fields": [
+        "後期高齢者医療"
+      ],
+      "summary": "令和7年度の後期高齢者医療の調整交付金の計算に用いる普通調整係数、補正係数、一人平均所得額を定める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9930&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9929",
+      "title": "後期高齢者医療の調整交付金の交付額の算定に関する省令の一部を改正する省令の公布について(通知)",
+      "docNumber": "保高発0327第2号",
+      "issuedDate": "2026-03-27",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県後期高齢者医療主管部(局)長・市町村後期高齢者医療主管課(部)長・都道府県後期高齢者医療広域連合事務局長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "後期高齢者医療"
+      ],
+      "summary": "後期高齢者医療の調整交付金の算定に、子ども・子育て支援納付金に関する費用を反映する。特別調整交付金の総額には、納付金見込額の120分の1相当額を加える。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9929&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9814",
+      "title": "国民年金の事務費交付金の算定に関する省令の一部を改正する省令の公布について(通知)",
+      "docNumber": "年管発0306第2号",
+      "issuedDate": "2026-03-06",
+      "ministry": "厚生労働省",
+      "bureau": "大臣官房年金管理審議官",
+      "recipients": [
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "地方厚生(支)局長・日本年金機構理事長・市町村長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "",
+      "fields": [
+        "年金"
+      ],
+      "summary": "市区町村が法定受託事務として行う国民年金事務について、国が交付する事務費の算定基準を改める。事務の種類に応じた人件費等の算定方法を示す。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9814&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
     }
   ]
 }
