@@ -4243,6 +4243,12 @@
           "type": "新旧対照表",
           "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261028I0020.pdf",
           "inMain": true
+        },
+        {
+          "name": "薬局製剤指針の正誤表（令和8年11月25日事務連絡）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/hourei/doc/tsuchi/T261126I0010.pdf",
+          "inMain": false
         }
       ],
       "memo": "通知の発出日以降に申請・製造販売されるものに適用",
@@ -13053,6 +13059,100 @@
       ],
       "memo": "都道府県経由で市町村へ周知依頼あり",
       "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001103331",
+      "title": "地方公務員災害補償法及び地方公務員等共済組合法の一部を改正する法律の施行に伴う「議会の議員その他非常勤の職員の公務災害補償等に関する条例（案）」の改正について（通知）",
+      "docNumber": "総行安第55号",
+      "issuedDate": "2026-11-26",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県総務部（局）長、各指定都市人事主管局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2027-04-01",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "非常勤職員等の公務災害補償に関する条例案で、遺族補償年金を受ける夫の年齢・障害要件を廃止し、遺族が1人の場合の年金額を平均給与額の175日分に統一する。自治体に条例改正と職員への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001103331.pdf",
+      "attachments": [
+        {
+          "name": "別添 条例案の新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001103331.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001103317",
+      "title": "地方公務員災害補償法及び地方公務員等共済組合法の一部を改正する法律の経過措置に関する留意事項について（通知）",
+      "docNumber": "総行安第53号・総行安第54号",
+      "issuedDate": "2026-11-26",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県総務部（局）長、各指定都市人事主管局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2027-04-01",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "遺族補償年金の新しい受給資格は施行日以後に死亡した職員の遺族に適用し、遺族1人の場合の増額は受給中の人にも施行日以後の分から適用する。対象疾病の補償請求権の時効は、施行日以後に権利が生じた場合に5年となる。自治体に職員等への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001103317.pdf",
+      "attachments": [
+        {
+          "name": "別紙 経過措置に関する留意事項",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001103317.pdf",
+          "inMain": true
+        },
+        {
+          "name": "地方公務員災害補償基金本部事務局長あて通知（総行安第54号）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001103315.pdf",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-261127_bousai_1",
+      "title": "降積雪期における防災態勢の強化等について",
+      "docNumber": "中防消第10号",
+      "issuedDate": "2026-11-27",
+      "ministry": "中央防災会議",
+      "bureau": "",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県防災会議会長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "消防・防災"
+      ],
+      "summary": "大雪・暴風雪に備え、特別警報を待たずに初動体制を確保し、予防的な通行規制や集中除雪、要配慮者・孤立のおそれがある地域への対策を進めるよう求める。都道府県防災会議に、改定された降雪対応の手引きも含めて市町村防災会議や関係機関への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/261127_bousai_1.pdf",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
       "addedDate": "2026-11-27"
     }
   ]
