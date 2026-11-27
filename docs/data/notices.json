@@ -12291,6 +12291,331 @@
       "memo": "都道府県経由で市町村へ周知依頼あり",
       "addedBy": "auto",
       "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-261125_yobou_504",
+      "title": "建築確認の電子申請に係る消防同意通知の取扱いについて（通知）",
+      "docNumber": "消防予第504号",
+      "issuedDate": "2026-11-25",
+      "ministry": "総務省",
+      "bureau": "消防庁",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県消防防災主管部長、各消防本部消防長、非常備町村消防防災主管部局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "消防・防災",
+        "建築",
+        "デジタル化"
+      ],
+      "summary": "電子情報処理組織で消防同意を通知する場合は、確認申請書第一面の「消防関係同意欄」への記載・押印を省略できるとする。電子での同意を運用する消防機関は、消防同意事務処理規定などの改正が必要になる場合があることに留意するよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/261125_yobou_504.pdf",
+      "attachments": [
+        {
+          "name": "別添1 建築基準法施行規則等の一部を改正する省令の公布について（技術的助言）（国住指第396号）",
+          "type": "参考資料",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/261125_yobou_504.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添2 情報通信技術を利用した建築基準法令に基づく手続の取扱いについて（技術的助言）（国住指第395号）",
+          "type": "参考資料",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/261125_yobou_504.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添3 改正概要",
+          "type": "概要資料",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/261125_yobou_504.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-261124_yobou_1",
+      "title": "化学物質の審査及び製造等の規制に関する法律施行令附則第四項の表ＰＦＯＳ又はその塩の項等に規定する消火器、消火器用消火薬剤及び泡消火薬剤に関する技術上の基準を定める省令の一部を改正する省令の施行に伴う留意事項について（通知）",
+      "docNumber": "消防消第436号・消防予第496号・消防危第247号・消防特第211号",
+      "issuedDate": "2026-11-24",
+      "ministry": "総務省",
+      "bureau": "消防庁",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県消防防災主管部長、各消防本部消防長、非常備町村消防防災主管部局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-11-22",
+      "fields": [
+        "消防・防災"
+      ],
+      "summary": "長鎖ペルフルオロアルカン酸（PFCA）とその塩などが第一種特定化学物質に加わったことに関し、工業会の調査では泡消火薬剤や機械泡・強化液（中性）消火器の薬剤に意図的に使用したものはないとしている。含有が不明な消火薬剤などを保有する場合は、工業会のホームページを確認したうえでメーカーに含有の有無を確かめ、含有していれば改正後の基準に従って対応し、廃棄や汚染物の処分は水質汚濁防止法などの関係法令に従うよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/261124_yobou_1.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-261120_yobou_1",
+      "title": "化学物質の審査及び製造等の規制に関する法律施行令附則第四項の表ＰＦＯＳ又はその塩の項等に規定する消火器、消火器用消火薬剤及び泡消火薬剤に関する技術上の基準を定める省令の一部を改正する省令の公布について（通知）",
+      "docNumber": "消防消第431号・消防予第493号・消防危第243号・消防特第202号",
+      "issuedDate": "2026-11-20",
+      "ministry": "総務省",
+      "bureau": "消防庁",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県消防防災主管部長、各消防本部消防長、非常備町村消防防災主管部局長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-11-22",
+      "fields": [
+        "消防・防災"
+      ],
+      "summary": "化審法施行令の改正で長鎖ペルフルオロアルカン酸（PFCA）とその塩、関連物質が第一種特定化学物質に指定されたことに伴い、これらを使用した消火器・消火器用消火薬剤・泡消火薬剤を技術上の基準の対象に加える。運用上の留意事項は別途通知するとしている。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/261120_yobou_1.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-r81113toku195",
+      "title": "石油コンビナート等特別防災区域の変更に係る防災体制について（通知）",
+      "docNumber": "消防特第195号",
+      "issuedDate": "2026-11-13",
+      "ministry": "総務省",
+      "bureau": "消防庁",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県消防防災主管部長、各消防本部消防長、非常備町村消防防災主管部局長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-11-14",
+      "fields": [
+        "消防・防災",
+        "災害対策"
+      ],
+      "summary": "石油コンビナート等特別防災区域を指定する政令の改正で、広野地区（福島県広野町）と赤穂地区（兵庫県赤穂市）の指定を解除し、苫小牧地区の区域を拡張・変更し、大分地区・新潟西港地区の区域の一部を削る。関係する自治体・消防本部には、区域変更の周知徹底、石油コンビナート等防災計画の見直し、改正後の区域での防災体制の確立を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/r81113toku195.pdf",
+      "attachments": [
+        {
+          "name": "改正政令（令和8年政令第350号）・新旧対照条文",
+          "type": "法令・告示の本文",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/r81113toku195.pdf",
+          "inMain": true
+        },
+        {
+          "name": "区域を指定する告示・新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/r81113toku195.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-r81113toku196",
+      "title": "広域共同防災組織を設置することができる区域の変更に係る防災体制について（通知）",
+      "docNumber": "消防特第196号",
+      "issuedDate": "2026-11-13",
+      "ministry": "総務省",
+      "bureau": "消防庁",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県消防防災主管部長、各消防本部消防長、非常備町村消防防災主管部局長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-11-14",
+      "fields": [
+        "消防・防災",
+        "災害対策"
+      ],
+      "summary": "石油コンビナート等災害防止法施行令の改正で、広域共同防災組織を設置できる区域の第二地区から区域令別表第十四号の地区を外し、区域を縮小する。関係する自治体・消防本部には、区域変更の周知徹底、防災計画の見直し、改正後の区域での防災体制の確立を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/r81113toku196.pdf",
+      "attachments": [
+        {
+          "name": "改正政令（令和8年政令第349号）・新旧対照条文",
+          "type": "法令・告示の本文",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/r81113toku196.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-261111_kyuuki411",
+      "title": "救急年報報告における調査項目の変更等について（通知）",
+      "docNumber": "消防救第411号",
+      "issuedDate": "2026-11-11",
+      "ministry": "総務省",
+      "bureau": "消防庁",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県消防防災主管部（局）長、各消防本部（局）消防長、非常備町村消防防災主管部（局）長",
+      "revisionType": "その他",
+      "effectiveDate": "2027-01-01",
+      "fields": [
+        "消防・防災",
+        "救急",
+        "統計調査"
+      ],
+      "summary": "疾病分類の統計基準がICD-11に改められたことを受け、消防庁の「救急・ウツタイン様式調査業務」のシステムをICD-11準拠に改修し、令和11年1月1日から運用を始める予定とする。準備が整うまでは当分の間ICD-10で運用してよく、改修の具体的な内容（消防本部のOAシステム側を含む）は改めて通知するとしている。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/261111_kyuuki411.pdf",
+      "attachments": [
+        {
+          "name": "別紙 統計基準の告示",
+          "type": "法令・告示の本文",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/261111_kyuuki411.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-kyuuki261112",
+      "title": "鳥インフルエンザの発生事例について（お知らせ）",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-11-12",
+      "ministry": "総務省",
+      "bureau": "消防庁",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県消防防災主管部（局）",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "消防・防災",
+        "救急",
+        "感染症"
+      ],
+      "summary": "京都府亀岡市の養鶏場で高病原性鳥インフルエンザの疑似患畜が確認されたことを情報提供する。都道府県には、管内市町村（消防事務を処理する一部事務組合を含む）へ情報提供し感染予防の留意事項を周知すること、関係機関から協力依頼があれば必要に応じて協力することを求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/kyuuki261112.pdf",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-3c6bd1be7a2606e52ab0e67d304a22c68602ece0",
+      "title": "鳥インフルエンザの発生事例について（お知らせ）",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-11-06",
+      "ministry": "総務省",
+      "bureau": "消防庁",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県消防防災主管部(局) 御中",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "消防・防災",
+        "救急",
+        "感染症"
+      ],
+      "summary": "秋田県由利本荘市で回収された死亡野鳥から高病原性鳥インフルエンザウイルス（H5亜型）が検出された（今シーズン国内の野鳥で1例目）ことを情報提供する。都道府県には、管内市町村（消防事務を処理する一部事務組合を含む）へ情報提供し感染予防の留意事項を周知すること、関係機関から協力依頼があれば必要に応じて協力することを求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/3c6bd1be7a2606e52ab0e67d304a22c68602ece0.pdf",
+      "attachments": [
+        {
+          "name": "別添 環境省報道発表「野鳥における高病原性鳥インフルエンザ発生状況について」",
+          "type": "参考資料",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/3c6bd1be7a2606e52ab0e67d304a22c68602ece0.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-kiken238",
+      "title": "危険物規制事務に関する執務資料の送付について",
+      "docNumber": "消防危第238号",
+      "issuedDate": "2026-11-06",
+      "ministry": "総務省",
+      "bureau": "消防庁",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県消防防災主管部長、各消防本部消防長、非常備町村消防防災主管部局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "消防・防災"
+      ],
+      "summary": "海上に設置する移送取扱所の配管の最小厚さについて、流出時の拡散防止のためオイルフェンスと油回収船（装置）を備え、監視装置の設置などで監視・安全管理体制を確保している場合は、危険物の規制に関する政令第23条を適用し、規則第28条の5第2項第5号ロと同様に扱って差し支えないとする問答を示す。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/kiken238.pdf",
+      "attachments": [
+        {
+          "name": "別添 執務資料（問と答）",
+          "type": "Q&A・疑義照会回答",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/kiken238.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-261104_yobou477",
+      "title": "非常電源（自家発電設備）の点検における負荷運転の状況等に係る調査結果について（通知）",
+      "docNumber": "消防予第477号",
+      "issuedDate": "2026-11-04",
+      "ministry": "総務省",
+      "bureau": "消防庁",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県消防防災主管部長、各消防本部消防長、非常備町村消防防災主管部局長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "消防・防災"
+      ],
+      "summary": "調査では、自家発電設備の約59%で消防法令に基づく点検（負荷運転または内部観察等）が行われていた一方、関係者が点検制度を十分理解していない実態が分かったとする。消防本部には、点検報告書の受領時や立入検査の際に負荷運転などの維持管理状況を確認し、不備があれば早期の是正を指導するよう求め、点検率向上の取組事例を示している。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/261104_yobou477.pdf",
+      "attachments": [
+        {
+          "name": "別紙 調査の実施について（消防予第327号）",
+          "type": "参考資料",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/261104_yobou477.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
     }
   ]
 }
