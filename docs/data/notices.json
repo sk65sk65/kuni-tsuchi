@@ -8811,6 +8811,1793 @@
       "memo": "",
       "addedBy": "auto",
       "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001066510",
+      "title": "令和8年度の地方公営企業繰出金について（通知）",
+      "docNumber": "総財公第18号",
+      "issuedDate": "2026-04-01",
+      "ministry": "総務省",
+      "bureau": "自治財政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事、各指定都市市長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "地方財政",
+        "公営企業"
+      ],
+      "summary": "令和8年度に一般会計から公営企業会計へ繰り出す経費の基準を、上水道・交通・病院・下水道など事業ごとに示した。基準に沿って繰り出した経費の一部は地方交付税等で考慮され、固定価格買取制度等による売電事業の経費は対象外とされている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001066510.pdf",
+      "attachments": [
+        {
+          "name": "繰出基準（別紙）",
+          "type": "通知本文",
+          "url": "https://www.soumu.go.jp/main_content/001066510.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001066481",
+      "title": "運輸事業の振興の助成に関する法律、同法施行規則の改正等について",
+      "docNumber": "総税都第21号・国自貨第1427号・国自旅第208号",
+      "issuedDate": "2026-04-01",
+      "ministry": "総務省",
+      "bureau": "自治税務局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "法律改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "地方税",
+        "地方財政"
+      ],
+      "summary": "運輸事業振興助成交付金を引き続き交付することとし、法律の効力は令和13年3月31日までとなった。交付金の基準額の算定に用いる数値は国土交通大臣が定めることになり、令和8年度以降は交付金の業務が総務省から国土交通省へ移管される。令和8年度も現行と同等の地方財政措置が講じられる。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001066481.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001081615",
+      "title": "地方公共団体におけるサイバーセキュリティを確保するための方針の策定又は変更に関する指針の策定について（通知）",
+      "docNumber": "総行サ第1号",
+      "issuedDate": "2026-04-01",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事、各都道府県議会議長、各指定都市市長、各指定都市市議会議長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "地方自治制度",
+        "デジタル化"
+      ],
+      "summary": "改正地方自治法により、議会・長・委員会等の執行機関と地方独立行政法人にサイバーセキュリティ確保の方針の策定と措置が義務付けられ、その方針の策定・変更の指針が示された。情報セキュリティポリシー未策定の執行機関は施行日までに少なくとも基本方針を定める必要があり、方針を策定・変更したときは住民への公表が必要となる。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001081615.pdf",
+      "attachments": [
+        {
+          "name": "別紙1 サイバーセキュリティを確保するための方針の策定又は変更に関する指針",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001081615.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001072693",
+      "title": "令和8年度における重点支援地方交付金（公共調達における価格転嫁の円滑化）の取扱い等について（通知）",
+      "docNumber": "総行行第171号",
+      "issuedDate": "2026-04-01",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県財政担当部長、各都道府県契約担当部長、各都道府県市区町村担当部長、各指定都市財政担当局長、各指定都市契約担当局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "地方財政",
+        "公共調達",
+        "補助金"
+      ],
+      "summary": "物価高騰対応の重点支援地方交付金を、公共調達での価格転嫁の円滑化に活用できることが示された。同封の内閣府の事務連絡では、令和8年度実施計画の提出期限（4回）、交付対象事業と推奨事業メニュー、対象外経費、個人給付・特定事業者支援の公表など事業実施状況の公表を定めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001072693.pdf",
+      "attachments": [
+        {
+          "name": "事務連絡（内閣府地方創生推進室）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001072693.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙1 執行スケジュール",
+          "type": "スケジュール",
+          "url": "https://www.soumu.go.jp/main_content/001072693.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙2〜4 公表様式・活用状況・完了事業報告様式",
+          "type": "様式・記載例",
+          "url": "https://www.soumu.go.jp/main_content/001072693.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添2・3 制度要綱（改正後・新旧対照）",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001072693.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添4 推奨事業メニューのQ&A",
+          "type": "Q&A・疑義照会回答",
+          "url": "https://www.soumu.go.jp/main_content/001072693.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001067848",
+      "title": "デジタル活用推進事業債等の取扱いについて（周知）",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-04-01",
+      "ministry": "総務省",
+      "bureau": "自治財政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県財政担当課、各都道府県市区町村担当課、各都道府県情報政策担当課、各指定都市財政担当課、各指定都市情報政策担当課",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "地方財政",
+        "デジタル化"
+      ],
+      "summary": "デジタル活用推進事業債は、デジタル活用推進計画に基づく情報システムの導入・改修等（1件100万円以上）が対象で、充当率90%、元利償還金の交付税措置率50%（令和11年度まで）。公営企業デジタル活用推進事業債は充当率100%・交付税措置なし。起債協議・届出の期限の30日前までに計画を地域DX推進室へ提出する（市区町村は都道府県経由）。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001067848.pdf",
+      "attachments": [
+        {
+          "name": "別紙1〜3 計画の記載事項・対象事業例・手続の流れ",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001067848.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添1〜4 計画の記載例・共同調達方針の例・入力様式",
+          "type": "様式・記載例",
+          "url": "https://www.soumu.go.jp/main_content/001067848.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001066910",
+      "title": "地方税法の施行に関する取扱いについて（市町村税関係）の一部改正について",
+      "docNumber": "総税市第25号",
+      "issuedDate": "2026-04-01",
+      "ministry": "総務省",
+      "bureau": "自治税務局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "地方税"
+      ],
+      "summary": "令和8年の地方税法等の改正に伴い、市町村税関係の取扱通知を改正した。法人の市町村民税の規定は、産業競争力強化法等の改正法の施行前後で読替表により読み替えて適用する。軽自動車税関係は令和8年度分以後、公的年金等の扶養親族等申告書関係は令和9年1月1日以後の支払分から適用するなど、項目ごとに適用時期が異なる。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001066910.pdf",
+      "attachments": [
+        {
+          "name": "別添1 新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001066911.pdf",
+          "inMain": false
+        },
+        {
+          "name": "別添2 読替表",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001066907.pdf",
+          "inMain": false
+        },
+        {
+          "name": "別添3 読替表",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001066912.pdf",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001066888",
+      "title": "地方税法の施行に関する取扱いについて（道府県税関係）の一部改正について",
+      "docNumber": "総税都第15号",
+      "issuedDate": "2026-04-01",
+      "ministry": "総務省",
+      "bureau": "自治税務局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "地方税"
+      ],
+      "summary": "令和8年の地方税法等の改正に伴い、道府県税関係の取扱通知を改正した。法人の道府県民税の規定は、産業競争力強化法等の改正法の施行前後で読替表により読み替えて適用する。自動車税関係は令和8年度分以後、軽油引取税は令和8年4月1日以後の引取り等から適用するなど、項目ごとに適用時期が異なる。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001066888.pdf",
+      "attachments": [
+        {
+          "name": "別添1 新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001066891.pdf",
+          "inMain": false
+        },
+        {
+          "name": "別添2 読替表",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001066892.pdf",
+          "inMain": false
+        },
+        {
+          "name": "別添3 読替表",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001066893.pdf",
+          "inMain": false
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001066015",
+      "title": "平成3年自治省告示第74号（外国の地方公共団体の機関等に派遣される一般職の地方公務員の処遇等に関する法律第5条第2項の規定による平均給与額等を定める省令第3条第1項の規定に基づき総務大臣が定める率を定める件）他5件の一部改正について（通知）",
+      "docNumber": "総行安第10号・総行安第11号",
+      "issuedDate": "2026-03-31",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県総務部（局）長、各指定都市人事主管局長（総行安第10号）、地方公務員災害補償基金事務局長（総行安第11号）",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "外国派遣職員等の平均給与額等に関する告示6件（令和8年総務省告示第126〜131号）が改正された。地方公務員災害補償制度が国の制度と均衡を失しないよう、取扱いに遺漏のないよう求めている。改正の具体的な内容は本文に記載なし。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001066015.pdf",
+      "attachments": [
+        {
+          "name": "別添 改正告示の一覧",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001066015.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001066005",
+      "title": "地方公務員災害補償法施行規則の一部を改正する省令の施行について（通知）",
+      "docNumber": "総行安第8号・総行安第9号",
+      "issuedDate": "2026-03-31",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県総務部（局）長、各指定都市人事主管局長（総行安第8号）、地方公務員災害補償基金事務局長（総行安第9号）",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "第二種初任給調整手当の創設を踏まえ、採用の日に災害を受けた場合の平均給与額の算定基礎に同手当を加える。あわせて所要の規定整備を行う。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001066005.pdf",
+      "attachments": [
+        {
+          "name": "改正省令の新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001066005.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001083961",
+      "title": "地方自治法等に基づく事務手続における旧氏の取扱いについて（通知）",
+      "docNumber": "総行行第144号・総行市第43号",
+      "issuedDate": "2026-03-31",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県総務部長、各指定都市総務局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "地方自治制度"
+      ],
+      "summary": "地方自治法等に基づく事務手続のうち別紙1のものは戸籍上の氏名に代えて旧氏と名を用いてよく、別紙2のものは戸籍上の氏名に旧氏を付記してよいことが示された。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001083961.pdf",
+      "attachments": [
+        {
+          "name": "別紙1 旧氏及び名を用いることができる事務手続の一覧",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001083971.pdf",
+          "inMain": false
+        },
+        {
+          "name": "別紙2 旧氏を付記できる事務手続の一覧",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001083966.pdf",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001067112",
+      "title": "公共建築工事の円滑な施工確保に向けた『営繕積算方式』の適切な運用について",
+      "docNumber": "総行行第147号・国不入企第36号",
+      "issuedDate": "2026-03-31",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県担当部局長、各指定都市担当部局長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "公共調達"
+      ],
+      "summary": "国土交通省が『営繕積算方式』活用マニュアルを改訂し、営繕工事の猛暑対策と、被災地で遠隔地から労働者を確保する場合の費用の積み上げを拡充した。自治体には別添を参考に適切な運用を図るよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001067112.pdf",
+      "attachments": [
+        {
+          "name": "別添1 国営積第27号（官庁営繕部計画課長通知）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001067112.pdf",
+          "inMain": true
+        },
+        {
+          "name": "『営繕積算方式』活用マニュアル",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001067112.pdf",
+          "inMain": true
+        },
+        {
+          "name": "『営繕積算方式』活用マニュアル【概要版】",
+          "type": "概要資料",
+          "url": "https://www.soumu.go.jp/main_content/001067112.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001067090",
+      "title": "コンビニエンスストア等への収納事務の委託に係る収納関係書類の保管方法の見直しに係る運用変更時期等について（通知）",
+      "docNumber": "総行行第162号",
+      "issuedDate": "2026-03-31",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県契約担当部長、各都道府県会計管理者、各都道府県市区町村担当部長、各指定都市契約担当局長、各指定都市会計管理者",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2027-04-01",
+      "fields": [
+        "地方自治制度",
+        "デジタル化"
+      ],
+      "summary": "コンビニ等への収納事務委託での収納関係書類の保管方法の見直しは、令和9年4月1日以降の公金収納から適用する。住民への周知はコンビニ店舗で行う予定で、自治体も必要に応じ納入通知書への同封などを検討する。標準的な委託契約書は令和8年度第2四半期に示す予定で、自治体には運用変更に伴う契約変更等の検討を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001067090.pdf",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001067084",
+      "title": "中東情勢の変化等による原材料費、エネルギーコスト等の取引価格を反映した適正な請負代金の設定や適正な工期の確保について（要請）",
+      "docNumber": "総行行第161号・国不入企第39号",
+      "issuedDate": "2026-03-31",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事、各都道府県議会議長、各指定都市市長、各指定都市議会議長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "公共調達"
+      ],
+      "summary": "エネルギーコスト・原材料費の上昇を受け、公共工事で積算単価の適時改定と最新単価の適用、必要に応じた見積書の活用、納期を考えた工期設定・延長を求めている。スライド条項の運用基準の事前策定と受注者との共有、契約変更協議への誠実な対応も求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001067084.pdf",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001063612",
+      "title": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第三条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める省令等の公布及び施行等について（通知）",
+      "docNumber": "総行デ第28号",
+      "issuedDate": "2026-03-27",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事、各指定都市市長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "デジタル化",
+        "住民基本台帳"
+      ],
+      "summary": "住民記録・戸籍附票・印鑑登録の各システムについて、機能要件・帳票要件の標準化基準を定める省令（令和8年総務省令第31号）と告示が公布された。適合が困難と総務大臣が認める特定移行支援システムは、施行日から5年を超えない範囲で総務大臣が定める日から適用する。この通知で新たに適合すべき要件が増えるものではないとしている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001063612.pdf",
+      "attachments": [
+        {
+          "name": "別紙 標準化基準一覧（住民記録・戸籍附票・印鑑登録）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001063612.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001067082",
+      "title": "中東情勢の変化等による原材料価格・エネルギーコストの上昇を踏まえた官公需契約における配慮について（通知）",
+      "docNumber": "総行行第160号",
+      "issuedDate": "2026-03-27",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県担当部局長、各指定都市担当部局長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "公共調達"
+      ],
+      "summary": "原材料費・エネルギーコストの上昇を受け、官公需契約で最新の実勢価格を踏まえた予定価格の作成、コスト上昇時の契約変更、受注者からの申出への迅速な協議、再委託先を含む価格転嫁を求めている。中小企業庁の相談窓口や取引かけこみ寺の周知も挙げている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001067082.pdf",
+      "attachments": [
+        {
+          "name": "事務連絡（中小企業庁取引課長）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001067082.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添 経済産業大臣の要請文",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001067082.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001067077",
+      "title": "中東情勢を受けた燃料油価格の上昇に伴う契約価格の柔軟な変更について（通知）",
+      "docNumber": "総行行第136号",
+      "issuedDate": "2026-03-24",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県担当部局長、各指定都市担当部局長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "公共調達"
+      ],
+      "summary": "燃料油価格の上昇で契約単価との乖離が生じうるため、契約途中で実勢価格が変化した場合の契約金額の変更を検討し、燃料販売業者等からの申出に迅速に協議するよう求めている。そのための契約条項の事前設定や、燃料調達部局と財政部局の連携も求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001067077.pdf",
+      "attachments": [
+        {
+          "name": "事務連絡（資源エネルギー庁燃料流通政策室長）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001067077.pdf",
+          "inMain": true
+        },
+        {
+          "name": "参考 中小企業者に関する国等の契約の基本方針（抜粋）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001067077.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001062480",
+      "title": "地域活性化起業人制度推進要綱の一部改正について（通知）",
+      "docNumber": "総行応第68号",
+      "issuedDate": "2026-03-23",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県担当部局長（市町村担当課・地域振興担当課扱い）",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "地域振興",
+        "地方財政"
+      ],
+      "summary": "地域活性化起業人制度推進要綱を改正した（令和8年度から特別交付税措置の対象）。特別交付税措置の上限は企業派遣型が年610万円/人、副業型・シニア型の報償費等と旅費がそれぞれ年100万円/人。改正箇所の詳細は本文からは読み取れず、新旧対照表を確認する必要がある。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001062480.pdf",
+      "attachments": [
+        {
+          "name": "別添 地域活性化起業人制度（概要）",
+          "type": "概要資料",
+          "url": "https://www.soumu.go.jp/main_content/001062480.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添 地域活性化起業人制度推進要綱（改正後）",
+          "type": "改正後全文",
+          "url": "https://www.soumu.go.jp/main_content/001062480.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添 地域活性化起業人制度推進要綱（新旧対照表）",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001062480.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添 地域活性化起業人の活用に係るQ&A",
+          "type": "Q&A・疑義照会回答",
+          "url": "https://www.soumu.go.jp/main_content/001062480.pdf",
+          "inMain": true
+        },
+        {
+          "name": "協定・契約のチェックリスト",
+          "type": "様式・記載例",
+          "url": "https://www.soumu.go.jp/main_content/001062480.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001061130",
+      "title": "男性職員の育児休業等の取得促進に向けた取組の一層の推進について",
+      "docNumber": "総行公第20号・総行女第8号",
+      "issuedDate": "2026-03-16",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事、各指定都市市長、各人事委員会委員長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "令和6年度の一般行政部門の男性育休取得率は75.0%だが、1週間以上・2週間以上の取得は政府目標に届いていない。自治体に、国家公務員と同程度の取組（取得方針・目標の明確化、取得計画の作成など）の検討と、数値目標の未設定団体には設定を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001061130.pdf",
+      "attachments": [
+        {
+          "name": "別紙1 地方公務員における働き方改革に係る状況",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001061130.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙2 育児・子育てに関する休暇・休業制度の制定状況",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001061130.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001067074",
+      "title": "政府契約の支払遅延防止等に関する法律第8条第1項の規定に基づく政府契約の支払遅延に対する遅延利息の率を定める件の一部を改正する件の施行について（通知）",
+      "docNumber": "総行行第100号",
+      "issuedDate": "2026-03-11",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県総務部長、各都道府県会計管理者、各都道府県財政担当部長、各都道府県市区町村担当部長、各指定都市総務局長、各指定都市会計管理者、各指定都市財政担当局長",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "公共調達"
+      ],
+      "summary": "政府契約の支払遅延に対する遅延利息の率が年2.5%から年3.0%に引き上げられ、令和8年4月1日から適用される。同法は地方公共団体の契約にも準用されるため、適切な施行への配慮を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001067074.pdf",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001060039",
+      "title": "「非常災害時における資金前渡の取扱いについて」の一部改正について",
+      "docNumber": "総行行第73号",
+      "issuedDate": "2026-02-25",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県総務部長、各都道府県議会事務局長、各指定都市総務局長、各指定都市議会事務局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "地方自治制度",
+        "災害対策"
+      ],
+      "summary": "資金前渡の対象となる「非常災害のため即時支払を必要とする経費」に、会計年度開始日が金融機関の休業日で、その日に災害が発生する（おそれが高い）ため前渡金の用意が困難な場合を加えた。現場職員の事前承諾、領収書の受領、後日の精算という事務処理の流れも示している。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001060039.pdf",
+      "attachments": [
+        {
+          "name": "別紙 新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001060039.pdf",
+          "inMain": true
+        },
+        {
+          "name": "改正後の全文",
+          "type": "改正後全文",
+          "url": "https://www.soumu.go.jp/main_content/001060039.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001060036",
+      "title": "「地方からの提案等に関する対応方針」を踏まえた地方財務制度に関する地方自治法の解釈等について（通知）",
+      "docNumber": "総行行第72号",
+      "issuedDate": "2026-02-25",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県総務部長、各都道府県会計管理者、各都道府県財政担当部長、各都道府県市区町村担当部長、各指定都市総務局長、各指定都市会計管理者、各指定都市財政担当局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "地方自治制度"
+      ],
+      "summary": "公共料金等の自動口座引き落としは包括的な支出命令と口座振替で行えること、前払式・即時払式の決済の誤納分は指定納付受託者と指定公金事務取扱者を併せて指定すれば即時払戻しできることなどの解釈を示した。生活支援目的の一律給付金の支払事務は私人委託の対象になりうるが、支給決定は委託できないとしている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001060036.pdf",
+      "attachments": [
+        {
+          "name": "別添 令和7年・令和6年の地方からの提案等に関する対応方針（抄）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001060036.pdf",
+          "inMain": true
+        },
+        {
+          "name": "参照条文",
+          "type": "法令・告示の本文",
+          "url": "https://www.soumu.go.jp/main_content/001060036.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001058145",
+      "title": "軽油引取税の当分の間税率の廃止に伴う課税の取扱いについて",
+      "docNumber": "総税都第7号",
+      "issuedDate": "2026-02-20",
+      "ministry": "総務省",
+      "bureau": "自治税務局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各道府県税務主管部長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "地方税"
+      ],
+      "summary": "軽油引取税の当分の間税率が令和8年4月1日に廃止され、同日前の行為には1kL当たり32,100円、以後は本則の15,000円が適用される（改正法案の閣議決定時点）。特別徴収義務者が販売業者へ委託販売する場合の課税関係（引渡し時点での課税、在庫の先入先出、報告・書類保存）と都道府県の確認事項を示し、業界への周知を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001058145.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001060033",
+      "title": "ビルメンテナンス業務の公共調達における令和8年度建築保全業務労務単価の活用等について（通知）",
+      "docNumber": "総行行第70号",
+      "issuedDate": "2026-02-19",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県会計管理者、各都道府県財政担当部長、各都道府県契約担当部長、各都道府県庁舎管理等担当部長、各都道府県市区町村担当部長、各指定都市会計管理者、各指定都市財政担当局長、各指定都市契約担当局長、各指定都市庁舎管理等担当局長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "公共調達"
+      ],
+      "summary": "ビルメンテナンス業務の予定価格の積算に、令和8年度建築保全業務労務単価を使うよう求めている。契約済みの令和8年度分でも、受注者から単価の上昇率を根拠に協議の申入れがあれば、価格交渉の指針に沿って協議に応じるよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001060033.pdf",
+      "attachments": [
+        {
+          "name": "別紙 厚生労働省からの依頼（健生衛発0219第3号）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001060033.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添 厚生労働省生活衛生課長通知（健生衛発0219第2号）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001060033.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001060029",
+      "title": "ビルメンテナンス業務の調達における低入札価格調査制度及び最低制限価格制度の価格基準について（通知）",
+      "docNumber": "総行行第61号",
+      "issuedDate": "2026-02-13",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県会計管理者、各都道府県財政担当部長、各都道府県契約担当部長、各都道府県庁舎管理等担当部長、各都道府県市区町村担当部長、各指定都市会計管理者、各指定都市財政担当局長、各指定都市契約担当局長、各指定都市庁舎管理等担当局長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "公共調達"
+      ],
+      "summary": "ビルメンテナンス業務の低入札価格調査制度・最低制限価格制度の価格基準として、直接人件費、直接物品費、業務管理費の3/10、一般管理費等の3/10の合計に消費税等を加えた額という目安が厚生労働省から示された。制度の導入に向け、会計・契約・庁舎管理部局の連携を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001060029.pdf",
+      "attachments": [
+        {
+          "name": "厚生労働省からの依頼（健生衛発0213第3号）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001060029.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別添 厚生労働省生活衛生課長通知（健生衛発0213第2号）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001060029.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001055575",
+      "title": "eL-QR を活用した公金収納の開始に向けた留意事項等の更新（2.0 版）について（通知）",
+      "docNumber": "総行経第9号",
+      "issuedDate": "2026-02-10",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県担当部局長、各指定都市担当部局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-09-24",
+      "fields": [
+        "デジタル化",
+        "地方自治制度"
+      ],
+      "summary": "地方税統一QRコード（eL-QR）を使った公金収納が令和8年9月24日以後に開始できるよう準備を求め、導入未定の団体にも検討を促している。システム改修経費はデジタル活用推進事業債の対象で、対象公金は国保料・介護保険料・水道料金など。同じPDFに、前払式支払手段の扱いを反映した2.1版の事務連絡（令和8年3月27日）も含まれる。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001055575.pdf",
+      "attachments": [
+        {
+          "name": "別添 eL-QRを活用した公金収納の開始に向けた留意事項等について",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001055575.pdf",
+          "inMain": true
+        },
+        {
+          "name": "事務連絡（2.1版への更新、令和8年3月27日）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001055575.pdf",
+          "inMain": true
+        },
+        {
+          "name": "eL-QRを活用した公金収納の開始に向けた留意事項等について【2.1版】",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001055576.pdf",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001054973",
+      "title": "地方公共団体におけるソフトウェア等のオープンソース化について（通知）",
+      "docNumber": "総行行第52号",
+      "issuedDate": "2026-02-06",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県財政担当部長、各都道府県情報システム担当部長、各都道府県市区町村担当部長、各指定都市財政担当局長、各指定都市情報システム担当部長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "デジタル化",
+        "地方自治制度"
+      ],
+      "summary": "自治体が開発したソフトウェアは、著作権は公有財産に当たるが著作物そのものは公有財産等に当たらないため、財産の管理・処分の制限を受けず、他団体に利用させることに地方自治法上の制約はないとの解釈を示した。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001054973.pdf",
+      "attachments": [
+        {
+          "name": "参照条文（著作権法・地方自治法）",
+          "type": "法令・告示の本文",
+          "url": "https://www.soumu.go.jp/main_content/001054973.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001053738",
+      "title": "地方公共団体の物品等又は特定役務の調達手続の特例を定める政令第三条第一項に規定する総務大臣の定める区分及び総務大臣の定める額を定める件の施行について（通知）",
+      "docNumber": "総行行第26号",
+      "issuedDate": "2026-01-30",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事、各指定都市市長",
+      "revisionType": "告示改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "公共調達"
+      ],
+      "summary": "令和8・9年度に締結する調達契約で政府調達協定の対象となる基準額を、物品等4千万円、建設工事30億2千万円、建築のためのサービス等の技術的サービス3億円、その他の特定役務4千万円と定めた。令和7年度中の契約は従前の告示の額による。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001053738.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001052773",
+      "title": "広域リージョン連携推進要綱の改正について（通知）",
+      "docNumber": "総行行第41号",
+      "issuedDate": "2026-01-28",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事、各指定都市市長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-01-28",
+      "fields": [
+        "地方自治制度",
+        "地域振興"
+      ],
+      "summary": "広域リージョン連携推進要綱を改正し、国の支援、プロジェクト実施主体の例示（いわゆるシンク・アンド・ドゥー・タンク）、広域リージョン連携ビジョンの公表等の手続を整備した。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001052773.pdf",
+      "attachments": [
+        {
+          "name": "広域リージョン連携推進要綱（改正後全文）",
+          "type": "改正後全文",
+          "url": "https://www.soumu.go.jp/main_content/001052918.pdf",
+          "inMain": false
+        },
+        {
+          "name": "広域リージョン連携推進要綱 新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001052927.pdf",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001052862",
+      "title": "令和7年9月期の価格交渉・価格転嫁の状況に係るフォローアップ調査の結果を踏まえた更なる取組について（通知）",
+      "docNumber": "総行行第35号",
+      "issuedDate": "2026-01-23",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県会計管理者、各都道府県財政担当部長、各都道府県契約担当部長、各都道府県市区町村担当部長、各指定都市会計管理者、各指定都市財政担当局長、各指定都市契約担当局長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "公共調達"
+      ],
+      "summary": "令和7年9月期のフォローアップ調査で、発注者リストに載った82団体のうち価格交渉で最低評価が3団体、価格転嫁で「ウ」評価が15団体あった。予定価格の作成や契約変更、受注者からの申出への協議などを全庁的に点検し、次回も低評価が続けば総務省が個別にヒアリングするとしている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001052862.pdf",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001052857",
+      "title": "「労務費の適切な転嫁のための価格交渉に関する指針」の改正について（通知）",
+      "docNumber": "総行行第36号",
+      "issuedDate": "2026-01-23",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県財政担当部長、各都道府県契約担当部長、各都道府県市区町村担当部長、各指定都市財政担当局長、各指定都市契約担当局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "公共調達"
+      ],
+      "summary": "取適法（改正下請法）の施行を踏まえ、受注者から協議の要請があったのに応じず取引価格を据え置くことが「協議に応じない一方的な代金決定」に当たると指針に明記され、業種ごとの取組事例も追加された。自治体にも発注者として指針を踏まえた対応を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001052857.pdf",
+      "attachments": [
+        {
+          "name": "指針（改正後全文）",
+          "type": "改正後全文",
+          "url": "https://www.soumu.go.jp/main_content/001052857.pdf",
+          "inMain": true
+        },
+        {
+          "name": "指針の概要・改正のポイント",
+          "type": "概要資料",
+          "url": "https://www.soumu.go.jp/main_content/001052857.pdf",
+          "inMain": true
+        },
+        {
+          "name": "新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001052857.pdf",
+          "inMain": true
+        },
+        {
+          "name": "価格交渉の申込み様式（例）",
+          "type": "様式・記載例",
+          "url": "https://www.soumu.go.jp/main_content/001052857.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001053325",
+      "title": "令和8年度地方税制改正・地方税務行政の運営に当たっての留意事項等について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-01-21",
+      "ministry": "総務省",
+      "bureau": "自治税務局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県税制担当課、各都道府県市町村担当課、各都道府県財政担当課、各都道府県議会事務局、各指定都市税制担当課、各指定都市財政担当課、各指定都市議会事務局",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "地方税"
+      ],
+      "summary": "令和8年度地方税制改正の内容として、個人住民税の給与所得控除の見直し（令和9年度分以後）、ふるさと納税の控除限度額の見直し（令和10年度分以後）、環境性能割の廃止、軽油引取税の当分の間税率の廃止などを示した。市区町村にはシステム改修や事務対応の準備が求められている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001053325.pdf",
+      "attachments": [
+        {
+          "name": "別紙 留意事項・今後の検討事項・増減収見込み",
+          "type": "概要資料",
+          "url": "https://www.soumu.go.jp/main_content/001053325.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001048568",
+      "title": "軽油引取税の当分の間税率の廃止に伴う特別徴収義務者に対する交付金の取扱いについて",
+      "docNumber": "事務連絡",
+      "issuedDate": "2025-12-26",
+      "ministry": "総務省",
+      "bureau": "自治税務局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県税務主管課",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "地方税"
+      ],
+      "summary": "軽油引取税の当分の間税率の廃止後も特別徴収義務者交付金を令和7年度と同水準にする場合、交付率は軽油引取税収の4.9%相当（現行2.5%）になるという参考値を示した。令和8年度の交付金経費も現行と同様の地方財政措置を講じるとし、都道府県に交付率の決定の参考にするよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001048568.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001048788",
+      "title": "コンビニエンスストア等への収納事務の委託に係る収納関係書類の保管方法の見直しについて（通知）",
+      "docNumber": "総行行第556号",
+      "issuedDate": "2025-12-26",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県契約担当部長、各都道府県会計管理者、各都道府県市区町村担当部長、各指定都市契約担当局長、各指定都市会計管理者",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "地方自治制度",
+        "デジタル化"
+      ],
+      "summary": "コンビニ等への公金収納事務の委託で、収納関係書類を紙に限らず収納情報の電磁的記録で保管できることとし、会計管理者の検査もオンラインで行えるようにする。運用変更は全団体一斉に令和9年度からとする方向で調整中で、標準委託契約書等は別途通知するとしている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001048788.pdf",
+      "attachments": [
+        {
+          "name": "別添 留意事項",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001048788.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001048753",
+      "title": "運輸事業振興助成交付金の算定に用いる令和8年度分の数値（見込み）について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2025-12-26",
+      "ministry": "総務省",
+      "bureau": "自治税務局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県税務主管課",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "地方税",
+        "地方財政"
+      ],
+      "summary": "令和8年度分の運輸事業振興助成交付金の算定に用いる数値の見込みとして、営業用バス等の軽油使用量の割合80/100、標準軽油使用量（営業用バス10,020リットルなど）、乗ずべき数値0.0913を示した。確定値は令和8年3月下旬頃に告示される予定。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001048753.pdf",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001048531",
+      "title": "地方公務員の綱紀粛正及び健康確保の徹底について（通知）",
+      "docNumber": "総行公第129号・総行安第58号",
+      "issuedDate": "2025-12-25",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事（人事担当課、市町村担当課、区政課扱い）、各指定都市市長（人事担当課扱い）",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "令和6年度の懲戒処分者数が前年度を上回り、分限処分者数は調査開始以来最多で心身の故障による休職者も増えているとして、服務規律の確保と綱紀粛正を求めている。不祥事防止の組織的対策（自己診断手法の導入、事務処理体制の見直しなど）と、首長のリーダーシップの下でのメンタルヘルス対策の計画的な推進を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001048531.pdf",
+      "attachments": [
+        {
+          "name": "別添 令和6年度 地方公務員の分限処分者数、懲戒処分者数及び刑事処分者数等に関する調",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001048531.pdf",
+          "inMain": true
+        },
+        {
+          "name": "地方公共団体におけるメンタルヘルス対策の更なる推進に向けた取組について（総行安第8号）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001048531.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001048843",
+      "title": "地方公共団体における人事評価結果の活用について（令和7年12月25日）",
+      "docNumber": "総行給第66号・総行女第43号",
+      "issuedDate": "2025-12-25",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県総務部長（人事担当課、市町村担当課、区政課扱い）、各指定都市総務局長（人事担当課扱い）",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "市区町村で人事評価結果を昇給・勤勉手当・昇任昇格に活用していない団体が約2割、分限に活用していない団体が約3割あるとして、速やかな是正を求めている。会計年度任用職員の勤勉手当の成績率への反映や、再度の任用時に前任期の評価を判断要素とすることも示している。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001048843.pdf",
+      "attachments": [
+        {
+          "name": "別添 地方公共団体における人事評価結果の活用状況等調査結果",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001048843.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001048318",
+      "title": "「政党助成事務委託要綱」の一部改正について",
+      "docNumber": "総行助第86号",
+      "issuedDate": "2025-12-25",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県選挙管理委員会書記長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-01-01",
+      "fields": [
+        "選挙"
+      ],
+      "summary": "政党助成法の改正に伴い、都道府県選挙管理委員会への委託事務に、支部報告書等を閲覧に供し、またはその写しを交付する事務を加えた。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001048318.pdf",
+      "attachments": [
+        {
+          "name": "新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001048318.pdf",
+          "inMain": true
+        },
+        {
+          "name": "政党助成事務委託要綱（改正後全文）",
+          "type": "改正後全文",
+          "url": "https://www.soumu.go.jp/main_content/001048318.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別記様式（交付申請書・精算結果報告書兼請求書）",
+          "type": "様式・記載例",
+          "url": "https://www.soumu.go.jp/main_content/001048318.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001048311",
+      "title": "「政党助成法に基づく都道府県の法定受託事務に係る処理基準について」の一部改正について",
+      "docNumber": "総行助第85号",
+      "issuedDate": "2025-12-25",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県選挙管理委員会書記長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-01-01",
+      "fields": [
+        "選挙"
+      ],
+      "summary": "政党助成法の改正に伴い、総務省による公表を「報告書等の公表」から「報告書等の要旨の公表」に改め、都道府県の開示除外の対象を「要旨が公表される前」に改めた。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001048311.pdf",
+      "attachments": [
+        {
+          "name": "新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001048311.pdf",
+          "inMain": true
+        },
+        {
+          "name": "処理基準（改正後全文）",
+          "type": "改正後全文",
+          "url": "https://www.soumu.go.jp/main_content/001048311.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙 提出文書受付台帳",
+          "type": "様式・記載例",
+          "url": "https://www.soumu.go.jp/main_content/001048311.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001048307",
+      "title": "「公職選挙法等に規定する申請等における旧姓の取扱いについて（通知）」の一部改正について",
+      "docNumber": "総行選第162号・総行管第754号・総行資第287号",
+      "issuedDate": "2025-12-25",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県選挙管理委員会書記長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-01-01",
+      "fields": [
+        "選挙"
+      ],
+      "summary": "旧姓を記載できる申請等の一覧に、政党助成法施行規則に基づく使途等報告書の写しの交付請求を加えた。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001048307.pdf",
+      "attachments": [
+        {
+          "name": "新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001048307.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙 旧姓を記載できる申請等の一覧",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001048307.pdf",
+          "inMain": true
+        },
+        {
+          "name": "改正後の通知全文",
+          "type": "改正後全文",
+          "url": "https://www.soumu.go.jp/main_content/001048307.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001048305",
+      "title": "「政治資金規正法に基づく都道府県の法定受託事務に係る処理基準について｣の一部改正について",
+      "docNumber": "総行資第286号・総行収第67号・総行支第587号",
+      "issuedDate": "2025-12-25",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県選挙管理委員会書記長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-01-01",
+      "fields": [
+        "選挙"
+      ],
+      "summary": "政治資金規正法の改正に伴い、「国会議員関係政治団体とみなされた旨の届出」を形式審査の対象に加え、収支報告書のインターネット公表を令和8年1月1日以降は公表日から3年間ホームページに掲載することとした（電子データの総務大臣への送付は不要）。令和7年12月31日までに開始された公表は改正前の範囲で扱う。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001048305.pdf",
+      "attachments": [
+        {
+          "name": "新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001048305.pdf",
+          "inMain": true
+        },
+        {
+          "name": "処理基準（改正後全文）",
+          "type": "改正後全文",
+          "url": "https://www.soumu.go.jp/main_content/001048305.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙1〜4 送付票・督促文例・公表例・報告様式",
+          "type": "様式・記載例",
+          "url": "https://www.soumu.go.jp/main_content/001048305.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001048527",
+      "title": "地方公共団体における時間外勤務の上限規制及び健康確保措置を実効的に運用するための取組の一層の推進について",
+      "docNumber": "総行公第128号・総行安第60号",
+      "issuedDate": "2025-12-25",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県総務部長（人事担当課、安全衛生担当課、市町村担当課、区政課扱い）、各指定都市総務局長（人事担当課、安全衛生担当課扱い）、各人事委員会事務局長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "勤務時間を自己申告のみで把握している団体が23.9%あるとして、客観的な方法での把握、他律的部署の指定の最小化、上限超過の要因分析を求めている。勤務間インターバル（目安11時間）の確保の検討、長時間勤務者の医師による面接指導の例規整備、ストレスチェックの集団分析の活用なども求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001048527.pdf",
+      "attachments": [
+        {
+          "name": "別紙1 働き方改革に係る状況",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001048527.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙2 勤務間インターバルの確保に関する調査結果",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001048527.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙3 人事院通知「勤務間のインターバル確保について」の一部改正",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001048527.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001073129",
+      "title": "「令和6年度地方公共団体の勤務条件等に関する調査」の結果等を踏まえた地方公共団体における勤務環境の整備・改善等について",
+      "docNumber": "総行公第127号・総行安第59号",
+      "issuedDate": "2025-12-25",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県総務部長（人事担当課、安全衛生担当課、市町村担当課、区政課扱い）、各指定都市総務局長（人事担当課、安全衛生担当課扱い）、各人事委員会事務局長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "フレックスタイム制など柔軟な勤務制度の条例化、時間外勤務の縮減と年次有給休暇の取得促進、育児休業等の条例整備、会計年度任用職員の休暇等の見直しを求めている。令和7年4月・10月施行の制度改正に未対応の団体は速やかに対応するよう求め、中途採用など人材確保にも触れている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001073129.pdf",
+      "attachments": [
+        {
+          "name": "別紙1・2 調査結果",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001073129.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001047937",
+      "title": "一般職の職員の給与に関する法律等の一部を改正する法律による地方公務員災害補償法の一部改正について（通知）",
+      "docNumber": "総行安第56号・総行安第57号",
+      "issuedDate": "2025-12-24",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県総務部（局）長、各指定都市人事主管局長（総行安第56号）、地方公務員災害補償基金事務局長（総行安第57号）",
+      "revisionType": "法律改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "第二種初任給調整手当の新設と初任給調整手当の「第一種」への改称に伴い、地方公務員災害補償法の平均給与額の算入給与に両手当を加える。災害発生日が令和8年6月30日以前の場合は、改正前の初任給調整手当も算入対象になる。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001047937.pdf",
+      "attachments": [
+        {
+          "name": "新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001047937.pdf",
+          "inMain": true
+        },
+        {
+          "name": "改正法（抄）",
+          "type": "法令・告示の本文",
+          "url": "https://www.soumu.go.jp/main_content/001047937.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001046299",
+      "title": "政治資金規正法施行規則及び政党助成法施行規則の一部を改正する省令の公布について（通知）",
+      "docNumber": "総行資第276号・総行助第83号",
+      "issuedDate": "2025-12-19",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事、各都道府県選挙管理委員会委員長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-01-01",
+      "fields": [
+        "選挙"
+      ],
+      "summary": "政治資金規正法第19条の16の3第2項の文書が電磁的に交付された場合に、電磁的記録で保存できることを明確にするため、政治資金規正法施行規則に第39条の2を新設し、関連規定を整備した。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001046299.pdf",
+      "attachments": [
+        {
+          "name": "参照条文",
+          "type": "法令・告示の本文",
+          "url": "https://www.soumu.go.jp/main_content/001046299.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001048784",
+      "title": "公共工事の円滑な施工確保について",
+      "docNumber": "総行行第532号・国不建第115号",
+      "issuedDate": "2025-12-17",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事、各都道府県議会議長、各指定都市市長、各指定都市議会議長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "公共調達"
+      ],
+      "summary": "公共工事で、中長期的な発注見通しの公表、歩切りの厳禁を含む適正な予定価格の設定、ダンピング対策、設計変更の適切な実施、猛暑日や週休2日を考慮した工期設定を求めている。スライド条項の運用基準の策定、入札・契約情報の公表、前金払の活用なども求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001048784.pdf",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001048777",
+      "title": "低入札価格調査制度・最低制限価格制度の適切な運用及び総合評価落札方式の活用について（通知）",
+      "docNumber": "総行行第541号・総行経第4号",
+      "issuedDate": "2025-12-16",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県会計管理者、各都道府県契約担当部長、各都道府県財政担当部長、各都道府県行政改革担当部長、各都道府県市区町村担当部長、各指定都市会計管理者、各指定都市財政担当局長、各指定都市契約担当局長、各指定都市行政改革担当局長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "公共調達"
+      ],
+      "summary": "価格転嫁の実現に向け、低入札価格調査制度・最低制限価格制度の未導入団体には導入の検討を、導入済みの団体には基準の見直しを求めている。ビルメンテナンス・庁舎清掃・警備の契約で総合評価落札方式の活用を検討することも求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001048777.pdf",
+      "attachments": [
+        {
+          "name": "別紙 各府省庁等の契約における適切な価格転嫁の推進に向けた取組について（府省庁等申合せ）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001048777.pdf",
+          "inMain": true
+        },
+        {
+          "name": "財務省主計局長の依頼文（写し）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001048777.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001045508",
+      "title": "医療法等の一部を改正する法律による地方公務員災害補償法の一部改正について（通知）",
+      "docNumber": "総行安第54号・総行安第55号",
+      "issuedDate": "2025-12-12",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県総務部（局）長、各指定都市人事主管局長（総行安第54号）、地方公務員災害補償基金事務局長（総行安第55号）",
+      "revisionType": "法律改正",
+      "effectiveDate": "",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "地方公務員に特定医師手当が創設されることに伴い、地方公務員災害補償法の平均給与額の算入給与に特定医師手当を加える。施行は公布の日から3年を超えない範囲で政令で定める日。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001045508.pdf",
+      "attachments": [
+        {
+          "name": "新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001045508.pdf",
+          "inMain": true
+        },
+        {
+          "name": "医療法等の一部を改正する法律（抄）",
+          "type": "法令・告示の本文",
+          "url": "https://www.soumu.go.jp/main_content/001045508.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001048762",
+      "title": "公共建築工事の円滑な施工確保に向けた『営繕積算方式』の適切な運用について",
+      "docNumber": "総行行第529号・国不建第111号",
+      "issuedDate": "2025-12-10",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県担当部局長、各指定都市担当部局長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "公共調達"
+      ],
+      "summary": "国土交通省が『営繕積算方式』活用マニュアルを改訂し、労務費等の内訳が分かる積算単価「単位施工単価」を導入し、見積単価の設定方法も充実させた。自治体には別添を参考に適切な運用を図るよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001048762.pdf",
+      "attachments": [
+        {
+          "name": "別添1 『営繕積算方式』の普及・促進について（国営積第11号）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001048762.pdf",
+          "inMain": true
+        },
+        {
+          "name": "『営繕積算方式』活用マニュアル",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001048762.pdf",
+          "inMain": true
+        },
+        {
+          "name": "『営繕積算方式』活用マニュアル【概要版】",
+          "type": "概要資料",
+          "url": "https://www.soumu.go.jp/main_content/001048762.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001044632",
+      "title": "人事院規則15－15（非常勤職員の勤務時間及び休暇）の一部改正等について（令和8年4月の非常勤職員の休暇制度等の見直し関係）",
+      "docNumber": "総行公第118号",
+      "issuedDate": "2025-12-08",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県総務部長（人事担当課、市町村担当課、区政課扱い）、各指定都市総務局長（人事担当課扱い）、各人事委員会事務局長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "非常勤職員について、6月以上の任期で採用された職員の年次休暇を採用日に付与し、骨髄等ドナー休暇・保育時間・子の看護等休暇・短期介護休暇を有給化し、通勤上傷病休暇（無給）を新設する。地方公務員の年次休暇の最小単位は現行のままとし、自治体には令和8年4月1日から適用できるよう例規改正などを求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001044632.pdf",
+      "attachments": [
+        {
+          "name": "別紙1 非常勤職員の年次休暇の付与方法",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001044632.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙2 経過措置",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001044632.pdf",
+          "inMain": true
+        },
+        {
+          "name": "人事院規則・運用通知の新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001044632.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
     }
   ]
 }
