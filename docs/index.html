@@ -133,6 +133,28 @@
   .tag::before { content: "#"; }
   .memo { margin-top: 8px; font-size: .82rem; background: #fbfaf6; border-left: 3px solid var(--line); padding: 4px 8px; }
   .empty { text-align: center; color: var(--muted); padding: 40px; }
+  .latest {
+    background: var(--panel); border: 1px solid var(--line); border-radius: 8px;
+    padding: 12px 16px 10px; margin-bottom: 14px;
+  }
+  .latest h2 { margin: 0 0 6px; font-size: .9rem; color: var(--accent); letter-spacing: .05em; }
+  .latest ol { list-style: none; margin: 0; padding: 0; }
+  .latest li {
+    display: grid; grid-template-columns: 8.5em 7.5em 1fr; gap: 10px; align-items: baseline;
+    padding: 4px 0; border-top: 1px dashed var(--line); font-size: .85rem;
+  }
+  .latest li:first-child { border-top: none; }
+  .latest .l-date { color: var(--muted); white-space: nowrap; }
+  .latest .l-min { color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .latest .l-title { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
+  .latest a { color: var(--ink); text-decoration: none; }
+  .latest a:hover { color: var(--accent); text-decoration: underline; }
+  .latest .short { display: none; }
+  @media (max-width: 600px) {
+    .latest li { grid-template-columns: 5.2em 5em 1fr; gap: 6px; }
+    .latest .long { display: none; }
+    .latest .short { display: inline; }
+  }
   .pager { display: flex; flex-wrap: wrap; justify-content: center; gap: 4px; margin: 8px 0 14px; }
   .pager:empty { display: none; }
   .pager button {
@@ -157,7 +179,7 @@
 <header>
   <h1>国の通知文書リンク集（非公式）</h1>
   <p>各省庁が公開している通知文書へのリンクを、宛先・改正の種類・添付資料で探せるようにまとめた個人運営のサイトです。</p>
-  <p>現在は開発・試験中で、令和7年12月以降に発出された文書を対象に検証しています。対象の省庁と掲載している文書の範囲は、順次広げているところです（現在の対象：厚生労働省、総務省）。</p>
+  <p>現在は開発・試験中で、令和7年12月以降に発出された文書を対象に検証しています。対象の省庁と掲載している文書の範囲は、順次広げているところです（現在の対象：厚生労働省、総務省、消防庁、文部科学省。消防庁と文部科学省は新着のみ）。</p>
 </header>
 <div class="notice-bar">
   このサイトは国が運営するものではありません。概要はAIによる要約で、省庁が作成したものではなく、誤りを含む場合があります。内容は必ずリンク先の原文で確認してください。
@@ -190,6 +212,10 @@
   </aside>
 
   <main>
+    <section class="latest" id="latest" hidden aria-labelledby="latest-h">
+      <h2 id="latest-h">新着文書</h2>
+      <ol id="latest-list"></ol>
+    </section>
     <div class="toolbar">
       <span class="count" id="count"></span>
       <select id="sort" aria-label="並び順">
@@ -443,7 +469,41 @@ function pagerHtml(total, cur) {
   ].join("");
 }
 
+const LATEST_COUNT = 10;
+
+// 「R8.11.25」形式（スマホ用の短い表示）
+function toWarekiShort(iso) {
+  if (!iso) return "—";
+  const [y, m, d] = iso.split("-").map(Number);
+  return y >= 2019 ? `R${y - 2018}.${m}.${d}` : `${y}.${m}.${d}`;
+}
+
+// 検索・絞り込みを何もしていないか
+function noConditions() {
+  return !state.q.trim() && !state.ministry && !state.bureau && !state.type && !state.attach
+    && state.recipients.size === 0 && state.fields.size === 0;
+}
+
+// 新着文書一覧：1ページ目で、検索・絞り込みをしていないときだけ出す
+function drawLatest() {
+  const box = document.getElementById("latest");
+  const show = currentPage === 1 && noConditions() && notices.length > 0;
+  box.hidden = !show;
+  if (!show) return;
+  const items = [...notices]
+    .filter(n => n.issuedDate)
+    .sort((a, b) => b.issuedDate.localeCompare(a.issuedDate) || (b.addedDate || "").localeCompare(a.addedDate || ""))
+    .slice(0, LATEST_COUNT);
+  document.getElementById("latest-list").innerHTML = items.map(n => `
+    <li>
+      <span class="l-date"><span class="long">${toWareki(n.issuedDate)}</span><span class="short">${toWarekiShort(n.issuedDate)}</span></span>
+      <span class="l-min" title="${esc(n.ministry)}">${esc(n.ministry)}</span>
+      <span class="l-title"><a href="${esc(n.url)}" target="_blank" rel="noopener" title="${esc(n.title)}">${esc(n.title)}</a></span>
+    </li>`).join("");
+}
+
 function draw() {
+  drawLatest();
   const n = currentList.length;
   const totalPages = Math.max(1, Math.ceil(n / PAGE_SIZE));
   const start = (currentPage - 1) * PAGE_SIZE;
