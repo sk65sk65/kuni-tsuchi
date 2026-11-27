@@ -11282,6 +11282,352 @@
       "memo": "都道府県経由で市町村へ周知依頼あり",
       "addedBy": "auto",
       "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001103053",
+      "title": "地方公務員災害補償法及び地方公務員等共済組合法の一部を改正する法律による地方公務員災害補償法の改正等について（通知）",
+      "docNumber": "総行安第51号・総行安第52号",
+      "issuedDate": "2026-11-25",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事、各政令指定都市市長",
+      "revisionType": "法律改正",
+      "effectiveDate": "2027-04-01",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "遺族補償年金の受給資格から夫の年齢要件（60歳以上、経過措置の55歳以上）を廃止し、受給資格遺族が1人の場合の年金額を一律に平均給与額の175日分とする。補償事由に当たるか判断しにくい疾病として政令で定めるものは、補償を受ける権利の時効を5年とする。公務災害担当部署による制度の周知や被災職員の請求支援を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001103053.pdf",
+      "attachments": [
+        {
+          "name": "地方公務員災害補償基金理事長あて通知（総行安第52号）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001103054.pdf",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001102510",
+      "title": "地方公務員災害補償法及び地方公務員等共済組合法の一部を改正する法律による地方公務員等共済組合法の改正について（通知）",
+      "docNumber": "総行福第241号",
+      "issuedDate": "2026-11-20",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県総務部長（市町村担当課・区政課扱い）",
+      "revisionType": "法律改正",
+      "effectiveDate": "2027-04-01",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "公務遺族年金・弔慰金・遺族に対する一時金の受給資格から、夫は組合員死亡時に55歳以上とする要件を廃止し、あわせて公務遺族年金の支給停止・失権の規定を改める。施行日以後に支給事由が生じたものから適用する。都道府県から市町村職員共済組合・都市職員共済組合にも通知するよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001102510.pdf",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001102096",
+      "title": "一般職の職員の勤務時間、休暇等に関する法律の一部改正等について（令和9年4月1日施行の個人の事情に配慮した柔軟な働き方の推進等のための措置関係）",
+      "docNumber": "総行公第97号",
+      "issuedDate": "2026-11-18",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県総務部長（人事担当課、市町村担当課、区政課扱い）、各指定都市総務局長（人事担当課扱い）、各人事委員会事務局長",
+      "revisionType": "法律改正",
+      "effectiveDate": "2027-04-01",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "国家公務員について、勤務日の勤務時間の一部を他の日に割り振る振替を可能にし、代休日を廃止して休日勤務代休時間を新設し、特別の事由を要しない無給の休暇（年7日）を新設する。地方公共団体には、これに沿って施行に向け条例改正などの措置を講じるよう求め、条例（案）の改正例を示している。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001102096.pdf",
+      "attachments": [
+        {
+          "name": "改正する必要のある条例（案）の改正例（別添）",
+          "type": "様式・記載例",
+          "url": "https://www.soumu.go.jp/main_content/001102096.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001102023",
+      "title": "地方公共団体の議会の議員及び長の選挙期日等の臨時特例に関する法律等の施行について（通知）",
+      "docNumber": "総行行第530号・総行選第124号",
+      "issuedDate": "2026-11-18",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事、各都道府県選挙管理委員会委員長、各指定都市市長、各指定都市選挙管理委員会委員長",
+      "revisionType": "法律改正",
+      "effectiveDate": "2026-11-18",
+      "fields": [
+        "選挙"
+      ],
+      "summary": "令和9年3月1日〜5月31日に任期満了となる地方公共団体の選挙期日を統一し、都道府県・指定都市の議員と長は4月11日、それ以外の市区町村は4月25日とする。告示日、寄附等の禁止期間、直接請求の署名収集禁止期間などの特例も定めている。執行体制の確保や投票率向上など附帯決議を踏まえた対応を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001102023.pdf",
+      "attachments": [
+        {
+          "name": "衆議院・参議院 政治改革に関する特別委員会の附帯決議（別添1・2）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001102023.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001102186",
+      "title": "一般職の職員の給与に関する法律等の一部を改正する法律による地方公務員災害補償法の一部改正について（通知）",
+      "docNumber": "総行安第49号・総行安第50号",
+      "issuedDate": "2026-11-18",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県総務部（局）長（公務災害担当課扱い）（市町村担当課、区政課扱い）、各指定都市人事主管局長（公務災害担当課扱い）",
+      "revisionType": "法律改正",
+      "effectiveDate": "2027-04-01",
+      "fields": [
+        "地方公務員"
+      ],
+      "summary": "地方自治法の改正で広域異動手当と転居手当が創設されたことに伴い、補償額算定の基礎となる平均給与額に算入する給与にこの2つの手当を加える。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001102186.pdf",
+      "attachments": [
+        {
+          "name": "地方公務員災害補償法第2条（抄）新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.soumu.go.jp/main_content/001102186.pdf",
+          "inMain": true
+        },
+        {
+          "name": "改正法（令和8年法律第79号）官報写し",
+          "type": "法令・告示の本文",
+          "url": "https://www.soumu.go.jp/main_content/001102186.pdf",
+          "inMain": true
+        },
+        {
+          "name": "地方公務員災害補償基金事務局長あて通知（総行安第50号）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001102187.pdf",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001100719",
+      "title": "分煙施設に係る整備方針の策定及び整備状況等に関する調査結果及び参考事例集の送付について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-11-11",
+      "ministry": "総務省",
+      "bureau": "自治税務局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県税務担当課、各都道府県市区町村担当課",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "地方税"
+      ],
+      "summary": "平成30年度から令和8年度（予定を含む）までに854団体（全市区町村の約半数）が分煙施設を整備しており、整備効果は路上喫煙の減少が最も多いとする調査結果と、更新した事例集を送付する。関係部署で共有し、分煙施設整備の取組を続けるよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001100719.pdf",
+      "attachments": [
+        {
+          "name": "調査結果（別添）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001100719.pdf",
+          "inMain": true
+        },
+        {
+          "name": "分煙施設整備の事例集",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001100720.pdf",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001099361",
+      "title": "大都市地域における特別区の設置に関する法律に基づく特別区の設置についての投票及び普通地方公共団体の選挙の期日について（通知）",
+      "docNumber": "総行行第514号・総行選第117号",
+      "issuedDate": "2026-10-30",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事、各都道府県選挙管理委員会委員長、各指定都市市長、各指定都市選挙管理委員会委員長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "選挙",
+        "地方自治制度"
+      ],
+      "summary": "副首都法の施行令で副首都の要件の一つに特別区の設置が定められたことを受け、特別区設置の住民投票の期間と関係する議会議員・長の選挙の期間が重ならないよう最大限調整するという参議院の附帯決議の趣旨を踏まえて、選挙管理委員会が期日を定めるよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001099361.pdf",
+      "attachments": [
+        {
+          "name": "副首都法施行令・施行規則の公布及び施行について（閣副第997号・府副整第1号）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001099362.pdf",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001102505",
+      "title": "日本国憲法の改正手続に関する法律施行令の一部を改正する政令等の施行について（通知）",
+      "docNumber": "総行選第118号",
+      "issuedDate": "2026-10-30",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事、各都道府県選挙管理委員会委員長、各指定都市市長、各指定都市選挙管理委員会委員長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-10-31",
+      "fields": [
+        "選挙"
+      ],
+      "summary": "国民投票の事務について、期日前2日以後に設けた開票区の開票立会人の選任、投票管理者等の交替制や住所の一部告示、期日前投票・不在者投票の包括的な宣誓、投票関係書類の保存の合理化、在外投票の送付経路などを定める。施行日以後に登録基準日がある国民投票から適用する。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001102505.pdf",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001099100",
+      "title": "地方公共団体の長が病気等により意識不明の状態となり、回復の見込めない状況が相当程度長期にわたる蓋然性が高いと認められる場合の対応について（通知）",
+      "docNumber": "総行行第507号",
+      "issuedDate": "2026-10-30",
+      "ministry": "総務省",
+      "bureau": "自治行政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県総務部長、各都道府県議会事務局長、各指定都市総務局長、各指定都市議会事務局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "地方自治制度"
+      ],
+      "summary": "医師の診断書などから長が意識不明で近い将来に回復の見込みがないと客観的に判断できる場合は、長が「欠けた」と解して差し支えないとする問答を示す。判断に当たっては事前に議長へ情報提供し議会に報告するなど妥当性を担保すること、職務代理者は判断した日から5日以内に選挙管理委員会へ通知することが望ましいとしている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001099100.pdf",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001098327",
+      "title": "行政相談委員の委嘱に係る御協力について（依頼）",
+      "docNumber": "総評相第130号・総行応第194号・総行過第84号",
+      "issuedDate": "2026-10-28",
+      "ministry": "総務省",
+      "bureau": "行政評価局・自治行政局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県地域おこし協力隊担当課長、各都道府県集落支援員担当課長（ご参考：行政相談担当）",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "地域振興"
+      ],
+      "summary": "現任の行政相談委員（全国約5,000人）が令和9年3月末で一斉に任期満了となるため、行政相談センターから協力依頼があった場合に、地域おこし協力隊員や集落支援員（経験者を含む）など適任者を紹介するよう依頼している。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001098327.pdf",
+      "attachments": [
+        {
+          "name": "リーフレット「総務省の行政相談」",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001098328.pdf",
+          "inMain": false
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "soumu-001100381",
+      "title": "鉄軌道駅等における多様な利用者に対する配慮について（情報提供）（分煙施設整備関係）",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-10-28",
+      "ministry": "総務省",
+      "bureau": "自治税務局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県税務担当課、各都道府県市区町村担当課",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "地方税"
+      ],
+      "summary": "国土交通省が鉄軌道事業者に対し、地方公共団体と連携した分煙環境の確保、駅周辺の喫煙所の管理と案内、指定場所以外での喫煙やポイ捨ての防止を依頼したことを情報提供する。分煙施設整備の参考にし、鉄軌道事業者と適宜連携するよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.soumu.go.jp/main_content/001100381.pdf",
+      "attachments": [
+        {
+          "name": "国土交通省鉄道局の協力依頼（国鉄総第365号、JR各社あて・その他の鉄軌道事業者あて）",
+          "type": "参考資料",
+          "url": "https://www.soumu.go.jp/main_content/001100381.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
     }
   ]
 }
