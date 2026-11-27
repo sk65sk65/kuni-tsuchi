@@ -12152,6 +12152,145 @@
       "memo": "",
       "addedBy": "auto",
       "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-20261023_kyuuki",
+      "title": "「世界保健機関（WHO）による緊急事態宣言を受けたエボラ出血熱に係る対応について」の一部改正について",
+      "docNumber": "消防救第390号",
+      "issuedDate": "2026-10-23",
+      "ministry": "総務省",
+      "bureau": "消防庁",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県消防防災主管部（局）長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-10-23",
+      "fields": [
+        "消防・防災",
+        "救急",
+        "感染症"
+      ],
+      "summary": "救急隊が渡航歴などを確認する流行地域に、コンゴ民主共和国の北ウバンギ州を加える。発熱などがあり健康監視対象者と分かった傷病者には自宅待機を求めて保健所へ引き継ぎ、対応した事案は消防庁救急企画室へ直ちに報告するという取扱いは変わらない。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/20261023_kyuuki.pdf",
+      "attachments": [
+        {
+          "name": "改正後の通知全文（消防救第162号）",
+          "type": "改正後全文",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/20261023_kyuuki.pdf",
+          "inMain": true
+        },
+        {
+          "name": "厚生労働省事務連絡（改正後全文）",
+          "type": "参考資料",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/20261023_kyuuki.pdf",
+          "inMain": true
+        },
+        {
+          "name": "質問票・健康カードなどの様式",
+          "type": "様式・記載例",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/20261023_kyuuki.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-20261023_kyuuki_03",
+      "title": "「口頭指導に関する実施基準」の一部改正について",
+      "docNumber": "消防救第387号",
+      "issuedDate": "2026-10-23",
+      "ministry": "総務省",
+      "bureau": "消防庁",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "消防・防災",
+        "救急"
+      ],
+      "summary": "救急蘇生法の指針2025に合わせて、通信指令員の教育テキストにある指趾切断の口頭指導を改める。切断された部位はできる限り回収して搬送先へ持って行くよう伝え、湿らせた清潔な布で包んで防水の袋に密封し、袋ごと冷水などで冷やすよう指導する。汚れがひどい場合は水道水で流すよう指導する。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/20261023_kyuuki_03.pdf",
+      "attachments": [
+        {
+          "name": "口頭指導に関する実施基準（改正後、別紙1）",
+          "type": "改正後全文",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/20261023_kyuuki_03.pdf",
+          "inMain": true
+        },
+        {
+          "name": "新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/20261023_kyuuki_03.pdf",
+          "inMain": true
+        },
+        {
+          "name": "通信指令員の救急に係る教育テキスト（追補版）抜粋（別紙2）",
+          "type": "参考資料",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/20261023_kyuuki_03.pdf",
+          "inMain": true
+        },
+        {
+          "name": "口頭指導の手順図など（参考1〜3）",
+          "type": "参考資料",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/20261023_kyuuki_03.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "fdma-20261023_kyuuki_02",
+      "title": "「応急手当の普及啓発活動の推進に関する実施要綱」の一部改正について",
+      "docNumber": "消防救第386号",
+      "issuedDate": "2026-10-23",
+      "ministry": "総務省",
+      "bureau": "消防庁",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-10-23",
+      "fields": [
+        "消防・防災",
+        "救急"
+      ],
+      "summary": "普通救命講習の1クラス30名程度という標準を削り、資機材1式あたり5名程度・指導者1名あたり10名程度とする。修了証などを電子媒体で交付できるようにし、交付番号などで真正性を確認できれば押印を省けるようにする。シミュレーションを取り入れた講習や、心停止リスクの高い患者の家族・介護者への普及にも配慮するよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.fdma.go.jp/laws/tutatsu/items/20261023_kyuuki_02.pdf",
+      "attachments": [
+        {
+          "name": "実施要綱（改正後全文）",
+          "type": "改正後全文",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/20261023_kyuuki_02.pdf",
+          "inMain": true
+        },
+        {
+          "name": "新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/20261023_kyuuki_02.pdf",
+          "inMain": true
+        },
+        {
+          "name": "修了証・認定証などの様式（別記様式）",
+          "type": "様式・記載例",
+          "url": "https://www.fdma.go.jp/laws/tutatsu/items/20261023_kyuuki_02.pdf",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
     }
   ]
 }
