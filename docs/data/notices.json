@@ -15165,6 +15165,688 @@
       "memo": "",
       "addedBy": "manual",
       "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9833",
+      "title": "令和8(2026)年社会福祉施設等調査の実施について(通知)",
+      "docNumber": "政統発0317第3号",
+      "issuedDate": "2026-03-17",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（統計・情報システム管理、労使関係担当）",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各指定都市市長・各中核市市長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "社会福祉"
+      ],
+      "summary": "社会福祉施設・事業所の数、利用者や職員の状況を把握するため、施設・事業所に関する調査を行う。都道府県・指定都市・中核市に実施への協力を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9833&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9854",
+      "title": "令和8年度　社会保障生計調査の実施について(通知)",
+      "docNumber": "社援発0319第4号",
+      "issuedDate": "2026-03-19",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各指定都市市長・各中核市市長(令和8年度社会保障生計調査対象自治体)",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "生活保護"
+      ],
+      "summary": "生活保護世帯の家計を調べるため、調査開始までに対象世帯の選定を終えるよう求める。調査は予算成立を前提とし、自治体に管内の福祉事務所への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9854&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 調査要綱",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9854&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9882",
+      "title": "令和8(2026)年介護サービス施設・事業所調査の実施について(通知)",
+      "docNumber": "政統発0324第3号",
+      "issuedDate": "2026-03-24",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（統計・情報システム管理、労使関係担当）",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "介護"
+      ],
+      "summary": "介護サービスの提供体制と内容を把握するため、施設・事業所の状況を調べる。都道府県に調査の実施への協力を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9882&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9883",
+      "title": "人口動態調査令施行細則の一部改正について(通知)",
+      "docNumber": "政統発0325第1号",
+      "issuedDate": "2026-03-25",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（統計・情報システム管理、労使関係担当）",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各指定都市市長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "人口動態"
+      ],
+      "summary": "離婚票の未成年の子の数の欄に、父母双方が親権を行う子と、親権者の指定を求める審判・調停の申立てがある子を追加する。管内の保健所と市区町村への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9883&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 人口動態調査離婚票",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9883&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9884",
+      "title": "人口動態調査に関する事務の処理基準について(通知)",
+      "docNumber": "政統発0325第4号",
+      "issuedDate": "2026-03-25",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（統計・情報システム管理、労使関係担当）",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各市区町村長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "人口動態"
+      ],
+      "summary": "市区町村・保健所・都道府県の事務処理基準を令和8年版の人口動態調査必携に基づくものに更新する。調査票の移送など一部の事務は技術的助言等として扱い、関係する保健所への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9884&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9888",
+      "title": "令和8年度　被保護者調査の実施について(通知)",
+      "docNumber": "社援発0326第3号",
+      "issuedDate": "2026-03-26",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各指定都市市長・各中核市市長",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "生活保護"
+      ],
+      "summary": "被保護者調査を調査要綱に基づき実施し、自治体に管内の福祉事務所への周知を求める。データシステムに入力する項目の詳細は別途送付する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9888&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 調査要綱",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9888&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9979",
+      "title": "医療施設調査規則の一部改正について(通知)",
+      "docNumber": "政統発0327第2号",
+      "issuedDate": "2026-03-27",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（統計・情報システム管理、労使関係担当）",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "医療"
+      ],
+      "summary": "医療施設動態調査の報告に関する医療法の引用条項を改める。都道府県に、指定都市・中核市・保健所設置市と特別区への連絡を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9979&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 改正省令",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9979&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0005",
+      "title": "「被保護者健康管理支援事業の手引き(第2版)」について",
+      "docNumber": "社援発0331第23号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各指定都市市長・各中核市市長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "生活保護"
+      ],
+      "summary": "生活保護受給者の健康管理支援の手引きを改訂する。新しい手引きに基づく取組は2030年度から必須とし、2029年度までは準備期間として従来の手引きによる取組を継続できる。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0005&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 被保護者健康管理支援事業の手引き（第2版）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0005&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0004",
+      "title": "「生活保護法による医療扶助運営要領について」の一部改正について(通知)",
+      "docNumber": "社援発0331第24号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各市長・各特別区長・各福祉事務所を設置する町村の長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "生活保護",
+        "医療扶助"
+      ],
+      "summary": "訪問看護の診療報酬明細の分析結果を、指定医療機関の個別指導の対象選定に活用する取扱いを加える。医療要否意見書などの福祉事務所印を廃止し、電子送受信時の個人情報保護上の留意点を示す。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0004&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 新旧対照表",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0004&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0011",
+      "title": "被保護者に対する個々の状況に応じた就労支援の充実・強化について",
+      "docNumber": "社援保発0331第4号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各指定都市・各中核市民生所管部(局)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "生活保護",
+        "就労支援"
+      ],
+      "summary": "福祉事務所に、生活保護受給者の状況に応じた就労支援を充実させるよう求める。生活困窮者自立支援制度の就労準備支援事業も活用し、日常生活・社会生活・経済面の自立につなげる。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0011&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0010",
+      "title": "被保護者の生活支援サービス利用状況の適切な把握等について",
+      "docNumber": "社援保発0331第5号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各指定都市・各中核市民生主管部(局)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "生活保護"
+      ],
+      "summary": "福祉事務所が生活保護受給者の利用する生活支援サービスを確認できるよう、費用やサービス利用の実態を点検するチェックリストを示す。都道府県に、管内の福祉事務所設置自治体への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0010&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1 生活支援サービスチェックリスト",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0010&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0009",
+      "title": "被保護者健康管理支援事業等と健康増進施策・データヘルス等との連携について",
+      "docNumber": "社援保発0331第7号・健生健発0331第1号・保国発0331第2号・保高発0331第1号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局・健康・生活衛生局・保険局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県・各指定都市・各中核市生活保護制度主管部(局)長・各都道府県・各指定都市・各中核市衛生主管部(局)長・都道府県民生主管部(局)国民健康保険主管課(部)長・後期高齢者医療主管課(部)長・都道府県後期高齢者医療広域連合事務局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "生活保護",
+        "医療"
+      ],
+      "summary": "生活保護受給者の健康管理支援を、医療保険のデータヘルスの枠組みとできる限り共通化する。自治体の生活保護・健康増進・医療保険の担当部局に、実施体制づくりで連携するよう求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0009&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0008",
+      "title": "生活保護の医療扶助における適正受診等の推進について",
+      "docNumber": "社援保発0331第8号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各指定都市・各中核市民生主管部(局)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "生活保護",
+        "医療扶助"
+      ],
+      "summary": "オンライン資格確認の実績ログで頻回受診の傾向を早期に把握し、必要な支援につなげる。長期入院や頻回転院への対応では、福祉事務所に調整会議などを通じた関係者との連携を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0008&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0007",
+      "title": "医療扶助の適正実施に関する指導監査等について",
+      "docNumber": "社援保発0331第9号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各指定都市・各中核市民生主管部(局)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "生活保護",
+        "医療扶助"
+      ],
+      "summary": "医療扶助の指導監査で、自立支援医療の活用状況と指定医療機関への指導状況を確認する。都道府県・指定都市・中核市に、所定の様式で取組状況を地方厚生局へ提出するよう求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0007&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙様式1・2",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0007&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9794",
+      "title": "子ども・子育て支援金制度に係るコールセンターの設置について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-03-02",
+      "ministry": "厚生労働省",
+      "bureau": "保険局・こども家庭庁成育局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県民生主管部(局)国民健康保険主管課(部)・都道府県後期高齢者医療主管部(局)後期高齢者医療主管課(部)・都道府県後期高齢者医療広域連合事務局",
+      "revisionType": "その他",
+      "effectiveDate": "2026-03-02",
+      "fields": [
+        "子ども",
+        "子育て支援"
+      ],
+      "summary": "個人・事業主からの子ども・子育て支援金制度に関する問い合わせ窓口を開設する。自治体に、窓口を追記したリーフレットの周知・広報への活用を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9794&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9828",
+      "title": "子育て支援制度レジストリの運用開始及び管理に係る依頼事項等について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-03-05",
+      "ministry": "厚生労働省",
+      "bureau": "厚生労働省ほか関係府省庁",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各市町村こども政策担当部(局)・私立学校担当部(局)・教育委員会担当部(局)・衛生主管部(局)・障害保健福祉主管部(局)・情報化推進担当部(局)・民生主管部(局)",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "子ども",
+        "子育て支援",
+        "デジタル化"
+      ],
+      "summary": "子育て支援制度レジストリの公開に向け、対象の市に収集済みの制度情報を確認するよう求める。既に公開を始めた自治体にはデータの管理・活用を、町村には今後の運用開始に向けた対応を示す。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9828&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9818",
+      "title": "国民年金第1号被保険者の育児期間に係る国民年金保険料免除制度の周知について(協力依頼)",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-03-06",
+      "ministry": "厚生労働省",
+      "bureau": "保険局・年金局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "都道府県民生主管部(局)国民健康保険主管課(部)",
+      "revisionType": "その他",
+      "effectiveDate": "2026-10-01",
+      "fields": [
+        "年金",
+        "国民健康保険"
+      ],
+      "summary": "国民年金第1号被保険者の父母・養父母は、子が1歳になるまでの育児期間の保険料が免除され、年金額の計算では納付済みとして扱われる。自治体に出産関係の窓口などでの案内を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9818&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9826",
+      "title": "空家等対策の推進に関する特別措置法第10条第3項に基づく福祉部局等がその事務のために利用する目的で保有する情報の提供について(情報提供)",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-03-13",
+      "ministry": "厚生労働省",
+      "bureau": "社会・援護局・老健局・保険局・総務省自治行政局・国土交通省住宅局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・指定都市空き家対策担当部局、各都道府県・指定都市・中核市民生主管部局、各都道府県・区市町村介護保険主管部局、各都道府県・区市町村国民健康保険主管部局、各都道府県・区市町村後期高齢者医療制度主管部局",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "空き家対策",
+        "生活保護",
+        "国民健康保険"
+      ],
+      "summary": "空き家の所有者を把握するため、他の市区町村長から求められた場合に、福祉部局などが持つ情報を法律の施行に必要な範囲で提供できることを示す。都道府県に管内市区町村への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9826&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9909",
+      "title": "2027年国際園芸博覧会(GREEN×EXPO　2027)の関係者等に係る国民健康保険及び後期高齢者医療制度における取扱いについて",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-03-18",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県民生主管部(局)国民健康保険主管課(部)・後期高齢者医療主管課(部)・都道府県後期高齢者医療広域連合事務局",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "国民健康保険",
+        "後期高齢者医療"
+      ],
+      "summary": "国際園芸博覧会関係者と一定の家族について、国保・後期高齢者医療の適用除外と加入できる例外を整理し、意向確認書の交付・提出の手続を示す。都道府県に保険者への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9909&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9910",
+      "title": "年金個人情報の国民健康保険事務への利用について(再周知)",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-03-18",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "都道府県民生主管部(局)国民健康保険主管課(部)",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "国民健康保険",
+        "年金"
+      ],
+      "summary": "被用者保険の資格を失った人の把握・国保加入勧奨に年金情報を活用できることを再周知する。年金機構との契約に基づく紙の一覧や窓口端末の利用方法を示し、市区町村の担当部署間の連携を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9910&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0030",
+      "title": "自治体の事務負担軽減に向けた都道府県国民健康保険団体連合会の役割強化に関する会議の「中間とりまとめ」について(周知)",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-03-19",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県民生主管部(局)国民健康保険主管課(部)・後期高齢者医療主管課(部)・都道府県後期高齢者医療広域連合事務局",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "国民健康保険",
+        "後期高齢者医療"
+      ],
+      "summary": "国保連合会による自治体支援を強化する中間取りまとめを示す。都道府県に、市区町村への周知と事務負担軽減に向けた取組を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0030&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 国保連の役割強化に関する中間とりまとめ",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0030&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0151",
+      "title": "高額療養費支給申請手続の簡素化に関する要綱(例)の送付について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "都道府県民生主管部(局)国民健康保険主管課(部)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "国民健康保険"
+      ],
+      "summary": "国保の高額療養費について、市区町村が支給申請を簡素化する際に使える要綱例を示す。対象者や申請の取扱いを自治体が定める際の参考とする。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0151&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 支給申請手続の簡素化に関する要綱例",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0151&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9923",
+      "title": "「特定健康診査・特定保健指導の円滑な実施に向けた手引き(第4.3版)」の公表について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-03-06",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "別記の関係団体（都道府県国民健康保険主管課、保険者・中央団体等）",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "特定健診",
+        "特定保健指導"
+      ],
+      "summary": "マイナ保険証を基本とする仕組みへの移行を受け、特定健診・特定保健指導の手引きから従来の健康保険証の記載などを削除する。関係団体や市区町村への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9923&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9921",
+      "title": "特定健康診査・特定保健指導の実施状況の集計方法等について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-03-25",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "別記の関係団体（都道府県国民健康保険主管課、保険者・中央団体等）",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "特定健診",
+        "特定保健指導"
+      ],
+      "summary": "第4期の制度改正を反映し、2024年度実施分からの特定健診・特定保健指導の集計・公表項目と実施率の算出方法を示す。各保険者への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9921&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
     }
   ]
 }
