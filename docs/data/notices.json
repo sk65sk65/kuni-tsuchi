@@ -15847,6 +15847,485 @@
       "memo": "",
       "addedBy": "manual",
       "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9856",
+      "title": "医療法施行規則の一部を改正する省令の公布等について(通知)",
+      "docNumber": "医政発0319第1号",
+      "issuedDate": "2026-03-19",
+      "ministry": "厚生労働省",
+      "bureau": "医政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "医療"
+      ],
+      "summary": "一定の手術や分娩を行う施設に、医療事故対応に関わる職員への研修を求める。入院・入所施設を持つ病院、診療所、助産所には医療安全管理者の配置を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9856&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 改正省令",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9856&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9893",
+      "title": "医療法等の一部を改正する法律の一部の施行等について(オンライン診療関係)",
+      "docNumber": "医政発0327第5号",
+      "issuedDate": "2026-03-27",
+      "ministry": "厚生労働省",
+      "bureau": "医政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "医療",
+        "デジタル化"
+      ],
+      "summary": "患者がオンライン診療を受ける施設を医療法上に位置付け、開設時などの届出事項と広告できる内容を定める。自治体に関係機関への周知を求め、保健所設置市・特別区から都道府県への報告手続も示す。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9893&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "改正指針・チェックリスト等",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9893&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9887",
+      "title": "「巡回診療の医療法上の取り扱いについて」及び「医療機関外の場所で行う健康診断の取扱いについて」の改正について",
+      "docNumber": "医政発0327第6号",
+      "issuedDate": "2026-03-27",
+      "ministry": "厚生労働省",
+      "bureau": "医政局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医療"
+      ],
+      "summary": "巡回診療の実績を記録し、求めに応じて提出できる体制を事前に申し出た場合、実施計画に診療場所を地区単位で記載できる。医療機関外での巡回健診の手続も見直し、保健所設置市・特別区などへの周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9887&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1・2 改正後の取扱い",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9887&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9891",
+      "title": "「特例的に医師が常駐しないオンライン診療のための診療所の開設について」の一部改正等について",
+      "docNumber": "医政総発0327第1号",
+      "issuedDate": "2026-03-27",
+      "ministry": "厚生労働省",
+      "bureau": "医政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医療",
+        "デジタル化"
+      ],
+      "summary": "医師が常駐しないオンライン診療用の診療所について、開設の特例を改め、病室の面積基準が不要であることを明確にする。自治体に開設許可申請書と開設届の標準様式を示す。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9891&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙1 改正資料",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9891&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別紙2・3 開設許可申請書・開設届の標準様式",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9891&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9962",
+      "title": "「医療安全支援センター運営要領について」の一部改正について",
+      "docNumber": "医政発0331第71号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "医政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医療"
+      ],
+      "summary": "医療安全支援センターの運営要領を改め、医療事故調査制度の普及啓発を進める。未設置の保健所設置市と特別区に、センターの新規設置を検討するよう求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9962&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "改正後の運営要領",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9962&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9960",
+      "title": "病院等における医療の安全を確保するための措置について",
+      "docNumber": "医政発0331第72号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "医政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医療"
+      ],
+      "summary": "病院・診療所・助産所の安全管理体制について、指針に盛り込む事項や委員会の役割を示す。施設内で指針を職員に徹底し、自治体から管内の医療機関や関係団体にも周知するよう求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9960&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9961",
+      "title": "医療法施行規則の一部を改正する省令の施行に伴う留意事項等について",
+      "docNumber": "医政地発0331第1号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "医政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "医療"
+      ],
+      "summary": "医療事故に対応する職員が受ける研修の範囲を示し、医療安全管理者の業務指針と養成研修の指針を改める。施設と地域で安全管理を進めるための役割を具体化する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9961&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "医療安全管理者の業務指針・研修プログラム作成指針",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9961&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0051",
+      "title": "出張理容・出張美容に関する衛生管理要領の一部改正について",
+      "docNumber": "健生発0326第1号",
+      "issuedDate": "2026-03-26",
+      "ministry": "厚生労働省",
+      "bureau": "健康・生活衛生局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-03-24",
+      "fields": [
+        "生活衛生"
+      ],
+      "summary": "常時2人以上の理容師・美容師を出張業務に従事させる営業者に、要領に沿って衛生管理責任者を置くよう求める。営業者などには具体的な衛生管理要領を作成し、従業者へ周知するよう求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0051&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 改正後の衛生管理要領",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0051&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0052",
+      "title": "理容師法施行令第4条第1号及び美容師法施行令第4条第1号に基づく出張理容・出張美容の対象等について(一部改正)",
+      "docNumber": "健生衛発0326第1号",
+      "issuedDate": "2026-03-26",
+      "ministry": "厚生労働省",
+      "bureau": "健康・生活衛生局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "生活衛生"
+      ],
+      "summary": "疾病などで理容所や美容所に出向けない人への出張サービスについて、対象の判断と衛生管理の取扱いを整理する。自治体に、作業環境や器具の消毒などが守られるよう指導を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0052&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9880",
+      "title": "医療機器に接続するVPN装置等のネットワーク機器におけるサイバーセキュリティ対策の徹底について(注意喚起)",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-03-19",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県衛生主管部(局)薬務主管課",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医療機器",
+        "情報セキュリティ"
+      ],
+      "summary": "医療機器につながるVPN装置などについて、医療機関と事業者の管理責任を確認し、機器の更新状況やサポート期限を点検するよう求める。都道府県に関係事業者への注意喚起を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9880&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9896",
+      "title": "「職場における熱中症防止対策のためのガイドライン」の策定について",
+      "docNumber": "基発0318第1号",
+      "issuedDate": "2026-03-18",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県労働局長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "労働"
+      ],
+      "summary": "事業者が業種、作業内容、作業場所に応じて熱中症対策を選べるよう、職場での対策をまとめた指針を定める。従来の基本対策要綱を廃止し、労働局に関係事業場への指導を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9896&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 熱中症防止対策ガイドライン",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9896&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9976",
+      "title": "労働安全衛生法施行令の一部を改正する政令等の施行について",
+      "docNumber": "基発0331第6号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県労働局長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "",
+      "fields": [
+        "労働"
+      ],
+      "summary": "職場で化学物質のリスク評価が必要となる対象を追加し、一部の物質は2028年4月から適用する。その時点で既に存在する対象物には、ラベル表示について経過措置を設ける。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9976&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9986",
+      "title": "労働安全衛生法及び作業環境測定法の一部を改正する法律等(機械の労働災害防止等関係)の施行について",
+      "docNumber": "基発0331第11号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県労働局長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "労働"
+      ],
+      "summary": "技能講習の規定が対象とする車両系建設機械の範囲を定める。登録機関が設計審査をした特定機械等の製造許可申請手数料を4万4,000円とする。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9986&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0372",
+      "title": "「ボイラー及び圧力容器に使用される外国規格に適合した材料の取扱いについて」の一部改正について",
+      "docNumber": "基安安発0331第4号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県労働局労働基準部長",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "労働"
+      ],
+      "summary": "ボイラー・圧力容器の構造規格の改正を受け、外国規格に適合する材料を主要材料として使う場合の取扱いを改める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0372&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 改正後の通知",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0372&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0456",
+      "title": "労働安全衛生法及び作業環境測定法の一部を改正する法律等(機械の労働災害防止等関係)の施行について(周知)",
+      "docNumber": "基安安発0331第6号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "関係団体の長",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-04-01",
+      "fields": [
+        "労働"
+      ],
+      "summary": "車両系建設機械の技能講習や特定機械等の設計審査・製造許可に関する改正について、関係団体に会員等への周知を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0456&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 労働局向け施行通知",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0456&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00tc9942",
+      "title": "建設雇用改善計画(第十一次)の策定及び実施について",
+      "docNumber": "職発0331第17号",
+      "issuedDate": "2026-03-31",
+      "ministry": "厚生労働省",
+      "bureau": "職業安定局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県労働局長",
+      "revisionType": "告示改正",
+      "effectiveDate": "",
+      "fields": [
+        "労働",
+        "建設"
+      ],
+      "summary": "2026年度から2030年度までの建設雇用改善計画を定める。労働局に、建設事業主等への周知と、建設行政機関・業界と連携した対策の推進を求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9942&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 建設雇用改善計画（第十一次）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc9942&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27"
     }
   ]
 }
