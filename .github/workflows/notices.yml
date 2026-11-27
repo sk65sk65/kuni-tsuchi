@@ -1,0 +1,121 @@
+name: 通知の収集と公開
+
+on:
+  schedule:
+    - cron: '47 11 * * 1-5'
+      timezone: Asia/Tokyo
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 実行内容
+        type: choice
+        options:
+          - discover
+          - preview
+          - deploy
+        default: discover
+  push:
+    branches: [main]
+    paths: ['docs/**']
+
+permissions:
+  contents: read
+
+concurrency:
+  group: notices-and-pages
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.mode != 'deploy'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    outputs:
+      publish: ${{ steps.mode.outputs.publish }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: npm ci --prefix scripts --ignore-scripts --no-audit --no-fund
+      - name: 実行モード
+        id: mode
+        env:
+          AUTO_PUBLISH: ${{ vars.NOTICES_AUTO_PUBLISH }}
+          PAGES_ENABLED: ${{ vars.NOTICES_PAGES_ENABLED }}
+          REQUESTED_MODE: ${{ inputs.mode }}
+        run: |
+          mode="${REQUESTED_MODE:-discover}"
+          publish=false
+          if [ "$GITHUB_EVENT_NAME" = schedule ] && [ "$AUTO_PUBLISH" = true ] && [ "$PAGES_ENABLED" = true ]; then
+            mode=apply
+            publish=true
+          fi
+          echo "mode=$mode" >> "$GITHUB_OUTPUT"
+          echo "publish=$publish" >> "$GITHUB_OUTPUT"
+      - name: 公式資料の取得と判定
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
+          MODE: ${{ steps.mode.outputs.mode }}
+        run: node scripts/collect-notices.mjs "--$MODE"
+      - name: 検証済みデータを保存
+        if: steps.mode.outputs.publish == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: notice-data
+          path: |
+            docs/data/notices.json
+            docs/data/excluded.json
+          if-no-files-found: error
+          retention-days: 1
+
+  prepare:
+    needs: collect
+    if: >-
+      always() && !cancelled() && github.ref == 'refs/heads/main' &&
+      vars.NOTICES_PAGES_ENABLED == 'true' &&
+      (github.event_name == 'push' || (github.event_name == 'workflow_dispatch' && inputs.mode == 'deploy') ||
+      (needs.collect.result == 'success' && needs.collect.outputs.publish == 'true'))
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - name: 収集結果を取得
+        if: needs.collect.outputs.publish == 'true'
+        uses: actions/download-artifact@v4
+        with:
+          name: notice-data
+          path: docs/data
+      - name: 公開用の変更を GitHub に反映
+        run: |
+          git fetch origin refs/heads/main
+          if [ "$(git rev-parse FETCH_HEAD)" != "$(git rev-parse HEAD)" ]; then
+            echo 'main が更新されたため、次の実行で最新のデータを確認します。'
+            exit 1
+          fi
+          git add -- docs/data/notices.json docs/data/excluded.json
+          if ! git diff --cached --quiet; then
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m '新着通知データを更新'
+            git push origin HEAD:refs/heads/main
+          fi
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+
+  deploy:
+    needs: prepare
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.pages.outputs.page_url }}
+    steps:
+      - name: GitHub Pages に公開
+        id: pages
+        uses: actions/deploy-pages@v4
