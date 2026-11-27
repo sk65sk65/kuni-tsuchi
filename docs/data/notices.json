@@ -13179,6 +13179,91 @@
       "memo": "",
       "addedBy": "manual",
       "addedDate": "2026-11-27"
+    },
+    {
+      "ministry": "文部科学省",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "summaryBy": "ai",
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27",
+      "id": "mext-20261124-mxt_jidou01-000048865_1",
+      "title": "学校における校外活動の安全確保の徹底等に関するフォローアップ結果及びこれを踏まえた対応について（通知）",
+      "docNumber": "8文科初第1680号",
+      "issuedDate": "2026-11-24",
+      "bureau": "初等中等教育局・総合教育政策局・高等教育局",
+      "recipients": [
+        "都道府県",
+        "市区町村",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "各都道府県教育委員会教育長、各指定都市教育委員会教育長、各都道府県知事、附属学校を置く各国公立大学法人学長、各文部科学大臣所轄学校法人理事長、株式会社立学校を所轄する認定地方公共団体の長",
+      "fields": [
+        "学校教育",
+        "教育委員会"
+      ],
+      "summary": "学校に危機管理マニュアルの見直しと、行程の事前確認や引率体制の明確化を求める。教育委員会などの設置者には、学校の対応状況を把握し、必要な指導と所管校への周知を行うよう求める。",
+      "url": "https://www.mext.go.jp/content/20261124-mxt_jidou01-000048865_1.pdf",
+      "attachments": [
+        {
+          "name": "別添1 校外活動の安全確保に関するフォローアップ結果",
+          "type": "参考資料",
+          "url": "https://www.mext.go.jp/content/20261124-mxt_kyousei01-000053481-01.pdf",
+          "inMain": false
+        },
+        {
+          "name": "別添2 令和8年4月7日付の校外活動の安全確保に関する通知",
+          "type": "参考資料",
+          "url": "https://www.mext.go.jp/content/20261124-mxt_kyousei01-000053481-02.pdf",
+          "inMain": false
+        },
+        {
+          "name": "資料 高等学校等における政治的教養の教育に関する通知（抜粋）",
+          "type": "参考資料",
+          "url": "https://www.mext.go.jp/content/20261124-mxt_kyousei01-000053481-03.pdf",
+          "inMain": false
+        }
+      ]
+    },
+    {
+      "ministry": "文部科学省",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "summaryBy": "ai",
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "manual",
+      "addedDate": "2026-11-27",
+      "id": "mext-20261113-mxt_chousa02-000045240-01",
+      "title": "令和9年度全国学力・学習状況調査に向けた「学校基本情報の確認（A）・（B）」について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-11-12",
+      "bureau": "総合教育政策局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・指定都市教育委員会 全国学力・学習状況調査担当課",
+      "fields": [
+        "学校教育",
+        "教育委員会"
+      ],
+      "summary": "教育委員会に、設置・管理する全校の基本情報を調査用システムで確認・更新するよう求める。都道府県教育委員会には、管内の市区町村教育委員会への周知も求める。",
+      "url": "https://www.mext.go.jp/content/20261113-mxt_chousa02-000045240-01.pdf",
+      "attachments": [
+        {
+          "name": "別紙1 学校基本情報の確認（A）・（B）の概要",
+          "type": "概要資料",
+          "url": "https://www.mext.go.jp/content/20261113-mxt_chousa02-000045240-01.pdf",
+          "inMain": true
+        },
+        {
+          "name": "別紙2 Webシステムの利用方法",
+          "type": "参考資料",
+          "url": "https://www.mext.go.jp/content/20261113-mxt_chousa02-000045240-01.pdf",
+          "inMain": true
+        }
+      ]
     }
   ]
 }
