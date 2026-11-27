@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "sources": [
     {
       "ministry": "厚生労働省",
@@ -7870,6 +7870,715 @@
       "memo": "",
       "addedBy": "auto",
       "addedDate": "2026-11-26"
+    },
+    {
+      "id": "mhlw-db-00td0153",
+      "title": "２０２６（令和８）年国民生活基礎調査のうち福祉事務所長を通じて実施する調査に関する事務の処理基準について",
+      "docNumber": "政統発0602第1号",
+      "issuedDate": "2026-06-02",
+      "ministry": "厚生労働省",
+      "bureau": "政策統括官（統計・情報システム管理、労使関係担当）",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県知事あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "統計調査",
+        "生活保護関連"
+      ],
+      "summary": "福祉事務所長を通じて行う2026年国民生活基礎調査の事務について、調査の客体・機関・方法・調査票の提出期限、指導員・調査員の手引や地方機関事務要領の該当部分を地方自治法上の処理基準と位置づける。都道府県から指定都市・中核市・福祉事務所設置市区町村へ連絡するよう求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0153&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "都道府県経由で指定都市・中核市・福祉事務所設置市区町村へ連絡依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0169",
+      "title": "情報機器等の廃棄時における個人情報漏えいの防止策の徹底について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-06-08",
+      "ministry": "厚生労働省",
+      "bureau": "医政局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県衛生主管部(局)あて",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医療",
+        "デジタル化"
+      ],
+      "summary": "病院が廃棄を委託した機器のHDDが破砕されずにネットオークションへ出品され個人情報が漏えいした事案を受け、医療機関に廃棄時の立会い、全機器の破壊写真やソフトウェア消去ログの提出による抹消確認、委託契約での廃棄手順・再委託の明確化を検討するよう求める。都道府県は管下医療機関へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0169&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0341",
+      "title": "都道府県における病院薬剤師確保の手引きについて",
+      "docNumber": "医政総発0619第2号",
+      "issuedDate": "2026-06-19",
+      "ministry": "厚生労働省",
+      "bureau": "医政局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県衛生主管部(局)長あて",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医療",
+        "薬局"
+      ],
+      "summary": "都道府県が病院薬剤師の確保策を進めるための手引き（第1版）で、薬剤師需給や薬学生の就職希望の調査による現状把握、庁内の理解促進、関係団体との連携や会議体の設置、薬学生・現役・潜在薬剤師向けの施策を整理している。特定の施策を一律に求めるものではない。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0341&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "都道府県における病院薬剤師確保の手引き（本文では画像）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0341&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0382",
+      "title": "「食育基本法の一部を改正する法律の施行について」を踏まえた健康づくりのための食育の推進について",
+      "docNumber": "医政発0603第7号・健生発0603第5号",
+      "issuedDate": "2026-06-03",
+      "ministry": "厚生労働省",
+      "bureau": "健康・生活衛生局・医政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各市町村長・各特別区長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "健康づくり",
+        "食品"
+      ],
+      "summary": "食育基本法の改正（食料安全保障、大人の食育、官民連携、基本計画の毎年の評価公表など）を踏まえ、自治体に関係部局の連携、食育推進計画と健康増進計画の整合、若年層を含む生涯を通じた食生活改善の支援を求める。平成17年の健康づくりのための食育推進の通知は廃止する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0382&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 食育基本法の一部を改正する法律の施行について（農林水産省消費・安全局長通知）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0382&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県に管内市町村（政令市・特別区を除く）への周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0383",
+      "title": "「食育基本法の一部を改正する法律の施行について」を踏まえた地域における健康づくりのための食育の推進について",
+      "docNumber": "健生健発0603第2号",
+      "issuedDate": "2026-06-03",
+      "ministry": "厚生労働省",
+      "bureau": "健康・生活衛生局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各市町村・各特別区衛生主管部(局)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "健康づくり",
+        "食品"
+      ],
+      "summary": "地域の食育推進で、若年層を含む生涯を通じた栄養・食生活の改善支援、母子保健・農政・教育部局との連携、市町村管理栄養士等の積極的配置、調理師の活用、食生活改善推進員などボランティアの育成支援に取り組むよう求める。平成17年の健習発第0715001号は廃止する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0383&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0136",
+      "title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の一部の施行について",
+      "docNumber": "感発0601第2号",
+      "issuedDate": "2026-06-01",
+      "ministry": "厚生労働省",
+      "bureau": "健康・生活衛生局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各市町村長・各特別区長あて",
+      "revisionType": "法律改正",
+      "effectiveDate": "2026-06-01",
+      "fields": [
+        "予防接種",
+        "デジタル化"
+      ],
+      "summary": "予防接種法の改正部分が施行され、マイナンバーカードによる定期接種の対象者確認、予防接種済証のマイナポータル交付、接種記録の保存期間を死亡後5年まで延長、予防接種・請求システム経由での厚生労働大臣への情報提供が始まる。市町村は自市町村分のみ副本登録し、システム接続や記録保存の対応が必要となる。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0136&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0154",
+      "title": "「要指導医薬品及び一般用医薬品の製造に当たり承認書の「別紙規格欄」及び「規格及び試験方法欄」に規定する試験方法に代用しうる試験方法を実施する場合の取扱いについて」の一部改正について",
+      "docNumber": "医薬薬審発0603第1号・医薬監麻発0603第7号",
+      "issuedDate": "2026-06-03",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県衛生主管部(局)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-06-03",
+      "fields": [
+        "医薬品",
+        "GMP"
+      ],
+      "summary": "要指導・一般用医薬品の承認書に定めた試験方法の代用法について、恒常的に使う場合は一部変更承認申請等が必要で、機器故障や保守による一時的な使用は申請不要とし、結果に疑義があれば規定の方法で最終判定するよう改める。都道府県は管内の関係事業者へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0154&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 新旧対照表（本文では画像）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0154&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "参考 改正後全文",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0154&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0155",
+      "title": "「医療用医薬品の製造に当たり承認書の「別紙規格欄」及び「規格及び試験方法欄」に規定する試験方法に代用しうる試験方法を実施する場合の取扱いについて」の一部改正について",
+      "docNumber": "医薬薬審発0603第4号・医薬監麻発0603第10号",
+      "issuedDate": "2026-06-03",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県衛生主管部(局)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-06-03",
+      "fields": [
+        "医薬品",
+        "GMP"
+      ],
+      "summary": "医療用医薬品の試験方法の代用法について、申請不要の範囲で使った場合は次回の一部変更承認申請等の備考欄に記載すること、安定供給の観点から別法による出荷の継続を認める場合があること、複数の試験方法を承認書に併記する要件などを定める。都道府県は管内の関係事業者へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0155&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 新旧対照表（本文では画像）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0155&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "参考 改正後全文",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0155&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0149",
+      "title": "「「食薬区分における成分本質（原材料）の取扱いの例示」の一部改正について」の一部訂正について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-06-03",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)長あて",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品",
+        "食品"
+      ],
+      "summary": "令和8年5月28日付けの食薬区分の改正通知（6―メチルニコチンを専ら医薬品リストに、クラミドモナス・ラインハルチーなどを非医薬品リストに追加したもの）の記載誤りを正誤表のとおり訂正する。訂正箇所は正誤表（画像）に記載。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0149&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 正誤表（本文では画像）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0149&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "参考 訂正後の通知全文",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0149&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0156",
+      "title": "「要指導医薬品及び一般用医薬品の製造に当たり承認書の「別紙規格欄」及び「規格及び試験方法欄」に規定する試験方法に代用しうる試験方法を実施する場合の取扱いについて」及び「医療用医薬品の製造に当たり承認書の「別紙規格欄」及び「規格及び試験方法欄」に規定する試験方法に代用しうる試験方法を実施する場合の取扱いについて」に関する質疑応答集（Ｑ＆Ａ）について",
+      "docNumber": "事務連絡",
+      "issuedDate": "2026-06-03",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県衛生主管部(局)あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品",
+        "GMP"
+      ],
+      "summary": "試験方法の代用法に関するQ&A（令和6年6月）を全面改正し、定期的な保守でも一時的使用は「継続」に当たらないこと、生薬・漢方・バイオ製剤や日本薬局方収載品は対象外であること、原則として一部変更承認申請までは規定の試験方法に戻すことなどを示す。都道府県は管内の関係業者へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0156&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 質疑応答集（Q&A）",
+          "type": "Q&A・疑義照会回答",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0156&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0161",
+      "title": "殺虫剤等を配布等する行為について（再周知）",
+      "docNumber": "医薬監麻発0605第6号",
+      "issuedDate": "2026-06-05",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)長あて",
+      "revisionType": "その他",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品"
+      ],
+      "summary": "小分けした殺虫剤等の誤飲事故が複数報告されたことから、医薬品である殺虫剤等の小分けは製造業の許可が必要であることや、市町村が殺虫剤等を配布・散布する場合の方法（薬局等から購入して職員が散布、防除業者へ委託など）を示した平成23年の通知を改めて周知徹底するよう求める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0161&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添1 平成23年5月18日付け薬食監麻発0518第1号",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0161&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別添2 平成23年12月22日付け薬食発1222第4号",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0161&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別添3 国民生活センターの注意喚起（本文では画像）",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0161&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0159",
+      "title": "「リスデキサンフェタミンメシル酸塩製剤の使用に当たっての留意事項について」の一部改正について",
+      "docNumber": "医薬総発0608第1号・医薬薬審発0608第1号・医薬安発0608第1号・医薬監麻発0608第1号",
+      "issuedDate": "2026-06-08",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-06-08",
+      "fields": [
+        "医薬品",
+        "薬局"
+      ],
+      "summary": "ビバンセカプセルが小児期のAD/HDで承認されたことに伴い留意事項を改め、登録された医師・医療機関・薬局と患者登録による流通管理を続け、卸売販売業者は登録先以外へ納入しないこと、未登録などを理由に薬局が調剤を拒むことは薬剤師法の「正当な理由」に当たることを示す。都道府県等は管下の医療機関・薬局・卸売販売業者へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0159&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 新旧対照表（本文では画像）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0159&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "参考 改正後の留意事項通知全文",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0159&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0345",
+      "title": "プログラム医療機器等に係る優先的な審査等の試行的実施について",
+      "docNumber": "医薬機審発0615第1号",
+      "issuedDate": "2026-06-15",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県"
+      ],
+      "recipientsText": "各都道府県衛生主管部(局)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医療機器"
+      ],
+      "summary": "画期性・医療上の有用性・日本での早期開発の意思という3要件を満たすプログラム医療機器等を随時募集して指定し、優先相談・優先審査を試行的に続け、承認申請から6か月以内の承認を目標とする。登録は様式1をメールで提出する。都道府県は管下の関係団体・事業者へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0345&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "様式1・様式2（本文では画像）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0345&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0174",
+      "title": "ＧＬＰ―１受容体作動薬及びＧＩＰ/ＧＬＰ―１受容体作動薬の適正使用について",
+      "docNumber": "医薬安発0616第16号・医政総発0616第1号・医政産情企発0616第1号",
+      "issuedDate": "2026-06-16",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局・医政局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県・各保健所設置市・各特別区衛生主管部(局)長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "医薬品",
+        "医療"
+      ],
+      "summary": "美容・痩身目的の適応外使用が確認されたGLP-1受容体作動薬等について、承認された用法・用量に従うこと、肥満症薬はBMIや健康障害の条件を満たす患者に限ること、適応外の自由診療の広告は原則禁止であること、適応外使用による副作用報告の記載方法を示す。都道府県等は管内の医療機関へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0174&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0175",
+      "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部改正について",
+      "docNumber": "医薬発0617第1号",
+      "issuedDate": "2026-06-17",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-06-27",
+      "fields": [
+        "薬物乱用防止"
+      ],
+      "summary": "N―イソプロピル―5―メトキシトリプタミンなど3物質とその塩類を指定薬物に追加し、これらを含む物を規制対象とする。関係方面への周知と指導を求めている。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0175&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0339",
+      "title": "多施設共同治験における治験審査委員会の調査審議の考え方について",
+      "docNumber": "医薬発0622第1号・科発0622第1号・産情発0622第1号・8文科振第207号・20260612商局第2号",
+      "issuedDate": "2026-06-22",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局・大臣官房（文部科学省・経済産業省と連名）",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "",
+      "fields": [
+        "研究倫理",
+        "医療"
+      ],
+      "summary": "多施設共同治験では、各医療機関の長が他施設を含む単一の治験審査委員会に一括審査を依頼するよう努め、自施設の委員会を必須とする規程は見直しを検討するよう示す。省令に規定のない資料の確認を一括審査委員会に求めるのは不適切とする。都道府県等は管下の医療機関・関係団体へ周知する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0339&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 多施設共同治験における治験審査委員会の調査審議の考え方",
+          "type": "参考資料",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0339&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0358",
+      "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行期日を定める政令の公布について",
+      "docNumber": "医薬発0624第1号・産情発0624第5号",
+      "issuedDate": "2026-06-24",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局・大臣官房",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "",
+      "fields": [
+        "薬機法改正",
+        "医薬品"
+      ],
+      "summary": "薬機法等改正法の一部の施行期日を定める政令（令和8年政令第209号）を定めた。施行期日は別添の政令（画像）に記載。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0358&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 施行期日を定める政令（本文では画像）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0358&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0357",
+      "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令の公布について",
+      "docNumber": "医薬発0624第5号",
+      "issuedDate": "2026-06-24",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2027-05-20",
+      "fields": [
+        "薬機法改正",
+        "医薬品",
+        "GMP"
+      ],
+      "summary": "薬機法施行令などを整備し、調剤業務の外部委託（特定調剤業務）の範囲を定め、GMPの定期適合性調査の間隔を5年から3年に改めるほか、登録受渡店舗の登録証や体外診断用医薬品の性能等再評価を規定し、評価・区分適合性調査の手数料を新設・改定する。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0357&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 政令（本文では画像）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0357&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0406",
+      "title": "「登録販売者制度の取扱い等について」の一部改正について",
+      "docNumber": "医薬発0626第9号",
+      "issuedDate": "2026-06-26",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長あて",
+      "revisionType": "運用・解釈の変更",
+      "effectiveDate": "2026-10-01",
+      "fields": [
+        "医薬品",
+        "薬局"
+      ],
+      "summary": "栄養士法施行規則等の一部を改正する省令（令和8年厚生労働省令第107号）に伴い、登録販売者制度の取扱い通知（令和5年）を改める。改正箇所は別紙（画像）に記載で、本文からは具体的な中身は読み取れない。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0406&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別紙 改正内容（本文では画像）",
+          "type": "新旧対照表",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0406&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "別紙様式1〜5（本文では画像）",
+          "type": "様式・記載例",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0406&dataType=1&pageNo=1",
+          "inMain": true
+        },
+        {
+          "name": "参考 改正後全文",
+          "type": "改正後全文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0406&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0356",
+      "title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令の公布について",
+      "docNumber": "医薬発0630第1号",
+      "issuedDate": "2026-06-30",
+      "ministry": "厚生労働省",
+      "bureau": "医薬局",
+      "recipients": [
+        "都道府県",
+        "市区町村"
+      ],
+      "recipientsText": "各都道府県知事・各保健所設置市長・各特別区長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2027-05-20",
+      "fields": [
+        "薬機法改正",
+        "薬局",
+        "医薬品"
+      ],
+      "summary": "健康増進支援薬局の認定制度を設けて構造設備や実績の要件を定め、地域連携薬局の認定基準を見直し、健康サポート薬局の表示の規定を削る。調剤業務の一部外部委託（特定調剤業務）の申請・届出事項、契約、手順書の作成なども定める。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0356&dataType=1&pageNo=1",
+      "attachments": [
+        {
+          "name": "別添 省令（本文では画像）",
+          "type": "法令・告示の本文",
+          "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0356&dataType=1&pageNo=1",
+          "inMain": true
+        }
+      ],
+      "memo": "都道府県経由で市町村へ周知依頼あり",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0359",
+      "title": "労働安全衛生規則の一部を改正する省令の施行について",
+      "docNumber": "基発0630第2号",
+      "issuedDate": "2026-06-30",
+      "ministry": "厚生労働省",
+      "bureau": "労働基準局",
+      "recipients": [
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県労働局長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2027-04-01",
+      "fields": [
+        "労働安全衛生"
+      ],
+      "summary": "ストレスチェックの集団分析を「特定の個人を識別することができない方法で」行うことを規則に明記する。従来の解釈を明文化したもので運用は変わらず、個人を識別できる方法で行った集団分析は努力義務を果たしたことにならない。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0359&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
+    },
+    {
+      "id": "mhlw-db-00td0348",
+      "title": "健康保険法施行令等の一部を改正する政令の公布について（通知）〔健康保険法〕",
+      "docNumber": "保発0625第1号",
+      "issuedDate": "2026-06-25",
+      "ministry": "厚生労働省",
+      "bureau": "保険局",
+      "recipients": [
+        "都道府県",
+        "国の機関・関係団体"
+      ],
+      "recipientsText": "都道府県知事・地方厚生(支)局長・都道府県後期高齢者医療広域連合長・全国健康保険協会理事長・健康保険組合理事長・健康保険組合連合会長あて",
+      "revisionType": "政令・省令改正",
+      "effectiveDate": "2026-08-01",
+      "fields": [
+        "医療保険",
+        "国民健康保険",
+        "後期高齢者医療"
+      ],
+      "summary": "70歳以上の高額療養費の所得区分の基準額（前年の公的年金等収入）を80.67万円から82.65万円に引き上げ、船員保険・国民健康保険・後期高齢者医療と、高額介護合算療養費や入院時食事・生活療養費の減額区分にも同じ見直しを適用する。令和7年の老齢基礎年金（満額）が80.67万円を超えたことへの対応。",
+      "summaryBy": "ai",
+      "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0348&dataType=1&pageNo=1",
+      "attachments": [],
+      "memo": "都道府県経由で市町村（特別区を含む）・国民健康保険組合へ周知依頼あり。法令等データベースでは船員保険法・国民健康保険法・高齢者の医療の確保に関する法律の分類にも同じ通知が載っている",
+      "addedBy": "auto",
+      "addedDate": "2026-11-27"
     }
   ]
 }
